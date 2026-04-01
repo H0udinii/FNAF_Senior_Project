@@ -46,3 +46,19 @@ table {
     border-spacing: 0;
 }
 
+/* ----------Global Styles---------- */
+ @font-face {
+        font-family: pixelFont;
+        src: url("./Fonts/Pixelify_Sans/PixelifySans-VariableFont_wght.ttf");
+    }
+
+body{
+   font-family: pixelFont;
+}
+
+
+/* ----------Image Styles---------- */
+
+
+/* ----------Link Styles---------- */
+
