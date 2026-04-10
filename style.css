@@ -97,17 +97,20 @@ p{
     height: 100%;
     object-position: left;
  }
+ /* FNAF 1 */
  .parallax_freddy{
     display: grid;
     grid-template-rows: 2fr 1fr ;
  }
- .freddys_pizzeria img{
- width: 100vw;
+ 
+ .parallax_foxy img{
+     width: 100vw;
   height: 100vh;
   object-fit: cover;
  }
- .parallax_foxy img{
-     width: 100vw;
+ /* FNAF 2 */
+ .freddys_pizzeria img{
+ width: 100vw;
   height: 100vh;
   object-fit: cover;
  }
@@ -117,6 +120,43 @@ p{
   object-fit: cover;
  }
 
+ .parallax_stage img{
+     width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+ }
+ /* FNAF 4 */
+ .parallax_biteof83 img{
+     width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+ }
+ .parallax_menu img{
+     width: 100vw;
+  height: 100vh;
+  object-fit: fill;
+ }
+ .bedroom_gif img{
+     width: 100vw;
+  height: 100vh;
+  object-fit: fill;
+ }
+/* FNAF Sister Location */
+.parallax_baby img{
+     width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+ }
+ .elevator_gif img{
+     width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+ }
+ .scooping_gif img{
+     width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+ }
 /* ----------Link Styles---------- */
 .nav-bar{
     display: flex;
