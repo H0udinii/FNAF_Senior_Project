@@ -90,6 +90,11 @@ p{
   }
 
   */
+  .title-card img{
+    width: 100%;
+    height: 100vh;
+    overflow-x:scroll;
+  }
  img{
     width: 100%;
     height: 100%;
@@ -106,71 +111,34 @@ p{
     height: 100%;
     object-position: left;
  }
- #container{
+ .scene1{
     width: 100%;
-    height: 1200vh;
- }
- /* FNAF 1 
- .parallax_freddy{
-    display: inline-grid;
-    grid-template-rows: auto 1fr ;
+    height: 100%
  }
  
- .parallax_foxy img{
-     width: 100vw;
-  height: 100vh;
-  object-fit: cover;
+  /* FNAF 1 */
+ .parallax_freddy div{
+  display: grid;
+  grid-template-columns: 4fr 3fr;
+  overflow-x: scroll;
+  padding-top: 75px;
+  padding-bottom: 200px;
  }
- /* FNAF 2 
- .freddys_pizzeria img{
- width: 100vw;
-  height: 100vh;
-  object-fit: cover;
+ 
+ /* FNAF 2  */
+ #fnaf_2{
+   
  }
- .parallax_puppet img{
-     width: 100vw;
-  height: 100vh;
-  object-fit: cover;
+ 
+/* FNAF 4  */
+ #fnaf_4{
+  
  }
-
- .parallax_stage img{
-     width: 100vw;
-  height: 100vh;
-  object-fit: cover;
- }
- /* FNAF 4 
- .parallax_biteof83 img{
-     width: 100vw;
-  height: 100vh;
-  object-fit: cover;
- }
- .parallax_menu img{
-     width: 100vw;
-  height: 100vh;
-  object-fit: fill;
- }
- .bedroom_gif img{
-     width: 100vw;
-  height: 100vh;
-  object-fit: fill;
- }
-/* FNAF Sister Location 
-.parallax_baby img{
-     width: 100vw;
-  height: 100vh;
-  object-fit: cover;
- }
- .elevator_gif img{
-     width: 100vw;
-  height: 100vh;
-  object-fit: cover;
- }
- .scooping_gif img{
-     width: 100vw;
-  height: 100vh;
-  object-fit: cover;
- }
-  */
+ 
+/* FNAF Sister Location */
+#fnaf_SL{
+    
+}
 /* ----------Link Styles---------- */
 .nav-bar{
     position: fixed;
