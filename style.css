@@ -69,9 +69,7 @@ p{
     line-height: 25px;
     padding: 50px;
 }
-section{
-    
-}
+
 
 
 /* ----------Image Styles---------- 
@@ -93,13 +91,22 @@ section{
   }
 
   */
-  .title-card{
-    padding: 100px;
+  
+  
+  #overlay{
+    background-image: url(./Assets/gifs/static.gif);
   }
- img{
+ .title-card img{
+    min-height: 100%;
+    min-width: 1024px;
+
     width: 100%;
-    height: 100%;
-    object-fit: cover;
+    height: auto;
+
+    position: sticky;
+    top: 0;
+    left: 0;
+    padding-bottom: 900px;
  }
  
  #fredHead{
@@ -112,22 +119,28 @@ section{
     height: 100%;
     object-position: left;
  }
- .scene1{
-    width: 100%;
-    height: 100%
+ /* FNAF 1 */
+ .scene1 {
+ 
  }
  
-  /* FNAF 1 */
- .parallax_freddy div{
+ .parallax_freddy > *{
   display: grid;
   grid-template-columns: 4fr 3fr;
   overflow-x: scroll;
   padding-top: 75px;
   padding-bottom: 200px;
  }
+ .parallax_foxy{
+
+ }
  
  /* FNAF 2  */
- #fnaf_2{
+ .scene2{
+    
+ }
+ #fnaf_2 > *{
+
    
  }
  
