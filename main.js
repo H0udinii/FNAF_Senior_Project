@@ -7,11 +7,15 @@
   start:"top",
   end: "+=900",
   endTrigger: "h1",
-  pin: false,
+  pin: true,
   markers: true
-  });
+  })
 
-
+  let sections = gsap.utils.toArray(".parallax_foxy");
+  sections.forEach(section =>{
+    let canvas = section.querySelector("canvas");
+    canvas ? intitCanvas(section, canvas): initOther(section);
+});
 
 
 

@@ -134,12 +134,16 @@ p{
  .parallax_foxy{
 
  }
- 
+ canvas {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
  /* FNAF 2  */
  .scene2{
     
  }
- #fnaf_2 > *{
+ #fnaf_2{
 
    
  }
