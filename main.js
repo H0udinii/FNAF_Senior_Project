@@ -1,29 +1,96 @@
- // use a script tag or an external JS file
- document.addEventListener("DOMContentLoaded", (event) => {
+document.addEventListener("DOMContentLoaded", () => {
 
-gsap.to("#FNAF", {
-  scrollTrigger: {
-    // trigger: "#FNAF img", // Element that triggers pinning
-    start: "top top",             // Start when top of section hits top of viewport
-    // end: "+=" + (window.innerHeight + 10),   
-	  end: "+=200%",// End after scrolling 100% of container height
-    pin: true,                    // Pin the container
-    scrub: true,                  // Link animation to scrollbar
-    markers: false                // Set to true to debug
-  },
-  opacity: 0,                     // Fade out
-  // scale: 0.9,                     // Optional: slight zoom out
-  ease: "power2.inOut"
+  // ---------------------------
+  // TITLE FADE + PIN
+  // ---------------------------
+  gsap.to("#FNAF", {
+    scrollTrigger: {
+      start: "top top",
+      end: "+=200%",
+      pin: true,
+      scrub: true
+    },
+    opacity: 0,
+    ease: "power2.inOut"
+  });
+
+
+  // ---------------------------
+  // HORIZONTAL SCROLL
+  // ---------------------------
+  const track = document.querySelector(".track");
+
+  if (track) {
+    gsap.to(track, {
+      xPercent: -100,
+      ease: "none",
+      scrollTrigger: {
+        trigger: "#fnaf_1",
+        start: "top top",
+        end: "+=2000",
+        scrub: true,
+        
+        markers: true
+      }
+    });
+  }
+
+
+  // ---------------------------
+  // FOXY CANVAS SPRITES
+  // ---------------------------
+  const canvas = document.getElementById("foxy_canvas");
+  const ctx = canvas.getContext("2d");
+
+  let img = new Image();
+  let frames = [];
+
+  fetch("./Assets/sprites/foxy_sprite.json")
+    .then(res => {
+      if (!res.ok) throw new Error("JSON not found");
+      return res.json();
+    })
+    .then(data => {
+
+      frames = data.sprites;
+
+      img.src = "./Assets/sprites/foxy_spritesheet.png";
+
+      img.onload = () => {
+
+        const state = { frame: 0 };
+
+        gsap.to(state, {
+          frame: frames.length - 1,
+          ease: "none",
+          scrollTrigger: {
+            trigger: "#fnaf_1",
+            start: "top top",
+            pin: true,
+            end: "+=200%",
+            scrub: true
+            
+          },
+          onUpdate: () => {
+            drawFrame(Math.floor(state.frame));
+          }
+        });
+
+      };
+    });
+
+
+  function drawFrame(index) {
+    const f = frames[index];
+    if (!f) return;
+
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+    ctx.drawImage(
+      img,
+      f.x, f.y, f.width, f.height,
+      0, 0, canvas.width, canvas.height
+    );
+  }
+
 });
-
-
-
-
-
-//   gsap.to(".scene1", {
-//     trigger: "scene.1",
-//     start: "top top",
-//     markers: true,
-//     toggleActions: "restart restart reverse pause",
-//   })
- });

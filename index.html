@@ -7,26 +7,26 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <section class="scene1" id="fnaf_1">
   <div class="title-card" id="FNAF">
     <img src="https://assets.codepen.io/1351055/FNAF_Title_Card.png" alt="Five Nights at Freddy's Title Card">
 	<div id="static"></div>
   </div>
-  <header>
+  <!-- <header>
     <ul class="nav-bar">
-      <li>Scott Cawthon</li>
-      <!--  
+      <li>Scott Cawthon</li> 
       <li>FNAF</li>
       <li>FNAF 2</li>
       <li>FNAF 4</li>
       <li>FNAF 5</li>
-       -->
+       
     </ul>
-  </header>
+  </header> -->
   
-  <h1>Five Nights at Freddy's</h1>
-    
-      <canvas></canvas>
+  <section id="fnaf_1">
+    <h1>Five Nights at Freddy's</h1>
+       <div class="track">
+
+      <div class="panel">
     <div class="parallax_freddy">
       <div id="fredHead"><svg width="2153" height="1161" viewBox="-210 60 1740 1171" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="Frame 1" clip-path="url(#clip0_27_2)">
@@ -106,12 +106,15 @@
  <p>You control Mike Schmidt, a security guard hired to work the night shift at Freddy Fazbear's Pizza from midnight to 6 AM. The animatronics, which are allowed to walk around at night to prevent their servos from locking up, attack anyone in the restaurant after closing time, presumably because humans resemble naked endoskeletons. The animatronics are Freddy Fazbear, who only appears on later nights on the right, but can sneak into the office; Bonnie, who only appears on the left and can teleport; Chica, who appears on the right and will linger there; and Foxy, who requires occasional camera checks lest he run out of Pirate's Cove directly into the office. who The player can monitor their activity through security cameras, as well as two doors on either side of the office, and lights to check outside the door. Use of the cameras, doors, and lights will drain power. If the power runs out before your shift ends, all lights turn off, all closed doors open, and Freddy's face flickers with light as a tune plays in the background. If the night doesn't end at that time, Freddy will kill the player. Once the first five nights are beaten, a sixth night will be unlocked, and after that a seventh night with customizable AI for the four main animatronics. A fifth animatronic, Golden Freddy, can appear and will crash the game. Until Night 4, the player will receive phone messages from "Phone Guy", who gives the player tips and advice, and tell the player some information about the history of the restaurant, until he is killed on his Night 4 by an animatronic. On Night 5, only a garbled, distorted voice and static (presumably recorded by an animatronic) is played.</p>
       </div>
     </div>
-    
-    <div class="parallax_foxy">
-    <img src="Assets/gifs/Foxy-in-Office-Jump-Scare.gif" alt="Security office filled with monitors, a red fox slowly slides into yor office then jumpscares you">
     </div>
-    </section>
-  <section class="scene2" id="fnaf_2">
+    
+        <div class="panel">
+      <canvas id="foxy_canvas" width="1000" height="450"></canvas>
+    </div>
+
+  </div>
+</section>
+  <!-- <section class="scene2" id="fnaf_2">
   <h1>Five Nights at Freddy's 2</h1>
   
   <div class="freddys_pizzeria">
@@ -160,7 +163,7 @@ Lastly, when it comes to the houses: the house in FNAF 4's minigames and the hou
 <div class="scooping_gif">
   <img src="Assets/gifs/Scooping-Room-Scooper-29-Sister-Location.gif" alt="Michael is lead into the scooping room by circus baby. He is then scooped of all his innards to help the circus animatronics escape.">
 </div>
-</section>
+</section> -->
 <!-- Scroll Magic -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/ScrollMagic.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/plugins/debug.addIndicators.min.js"></script>

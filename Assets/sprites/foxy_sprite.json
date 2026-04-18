@@ -1,0 +1,744 @@
+{
+  "sprites": [
+    {
+      "fileName": "foxy-in-office-jump-scare000.png",
+      "width": 1000,
+      "height": 450,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare001.png",
+      "width": 1000,
+      "height": 450,
+      "x": 0,
+      "y": 450
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare002.png",
+      "width": 1000,
+      "height": 450,
+      "x": 1000,
+      "y": 0
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare003.png",
+      "width": 1000,
+      "height": 450,
+      "x": 1000,
+      "y": 450
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare004.png",
+      "width": 1000,
+      "height": 450,
+      "x": 0,
+      "y": 900
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare005.png",
+      "width": 1000,
+      "height": 450,
+      "x": 1000,
+      "y": 900
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare006.png",
+      "width": 1000,
+      "height": 450,
+      "x": 0,
+      "y": 1350
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare007.png",
+      "width": 1000,
+      "height": 450,
+      "x": 1000,
+      "y": 1350
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare008.png",
+      "width": 1000,
+      "height": 450,
+      "x": 2000,
+      "y": 0
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare009.png",
+      "width": 1000,
+      "height": 450,
+      "x": 2000,
+      "y": 450
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare010.png",
+      "width": 1000,
+      "height": 450,
+      "x": 2000,
+      "y": 900
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare011.png",
+      "width": 1000,
+      "height": 450,
+      "x": 2000,
+      "y": 1350
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare012.png",
+      "width": 1000,
+      "height": 450,
+      "x": 0,
+      "y": 1800
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare013.png",
+      "width": 1000,
+      "height": 450,
+      "x": 1000,
+      "y": 1800
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare014.png",
+      "width": 1000,
+      "height": 450,
+      "x": 2000,
+      "y": 1800
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare015.png",
+      "width": 1000,
+      "height": 450,
+      "x": 0,
+      "y": 2250
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare016.png",
+      "width": 1000,
+      "height": 450,
+      "x": 1000,
+      "y": 2250
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare017.png",
+      "width": 1000,
+      "height": 450,
+      "x": 2000,
+      "y": 2250
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare018.png",
+      "width": 1000,
+      "height": 450,
+      "x": 3000,
+      "y": 0
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare019.png",
+      "width": 1000,
+      "height": 450,
+      "x": 3000,
+      "y": 450
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare020.png",
+      "width": 1000,
+      "height": 450,
+      "x": 3000,
+      "y": 900
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare021.png",
+      "width": 1000,
+      "height": 450,
+      "x": 3000,
+      "y": 1350
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare022.png",
+      "width": 1000,
+      "height": 450,
+      "x": 3000,
+      "y": 1800
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare023.png",
+      "width": 1000,
+      "height": 450,
+      "x": 3000,
+      "y": 2250
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare024.png",
+      "width": 1000,
+      "height": 450,
+      "x": 0,
+      "y": 2700
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare025.png",
+      "width": 1000,
+      "height": 450,
+      "x": 1000,
+      "y": 2700
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare026.png",
+      "width": 1000,
+      "height": 450,
+      "x": 2000,
+      "y": 2700
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare027.png",
+      "width": 1000,
+      "height": 450,
+      "x": 3000,
+      "y": 2700
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare028.png",
+      "width": 1000,
+      "height": 450,
+      "x": 0,
+      "y": 3150
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare029.png",
+      "width": 1000,
+      "height": 450,
+      "x": 1000,
+      "y": 3150
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare030.png",
+      "width": 1000,
+      "height": 450,
+      "x": 2000,
+      "y": 3150
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare031.png",
+      "width": 1000,
+      "height": 450,
+      "x": 3000,
+      "y": 3150
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare032.png",
+      "width": 1000,
+      "height": 450,
+      "x": 4000,
+      "y": 0
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare033.png",
+      "width": 1000,
+      "height": 450,
+      "x": 4000,
+      "y": 450
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare034.png",
+      "width": 1000,
+      "height": 450,
+      "x": 4000,
+      "y": 900
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare035.png",
+      "width": 1000,
+      "height": 450,
+      "x": 4000,
+      "y": 1350
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare036.png",
+      "width": 1000,
+      "height": 450,
+      "x": 4000,
+      "y": 1800
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare037.png",
+      "width": 1000,
+      "height": 450,
+      "x": 4000,
+      "y": 2250
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare038.png",
+      "width": 1000,
+      "height": 450,
+      "x": 4000,
+      "y": 2700
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare039.png",
+      "width": 1000,
+      "height": 450,
+      "x": 4000,
+      "y": 3150
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare040.png",
+      "width": 1000,
+      "height": 450,
+      "x": 0,
+      "y": 3600
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare041.png",
+      "width": 1000,
+      "height": 450,
+      "x": 1000,
+      "y": 3600
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare042.png",
+      "width": 1000,
+      "height": 450,
+      "x": 2000,
+      "y": 3600
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare043.png",
+      "width": 1000,
+      "height": 450,
+      "x": 3000,
+      "y": 3600
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare044.png",
+      "width": 1000,
+      "height": 450,
+      "x": 4000,
+      "y": 3600
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare045.png",
+      "width": 1000,
+      "height": 450,
+      "x": 0,
+      "y": 4050
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare046.png",
+      "width": 1000,
+      "height": 450,
+      "x": 1000,
+      "y": 4050
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare047.png",
+      "width": 1000,
+      "height": 450,
+      "x": 2000,
+      "y": 4050
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare048.png",
+      "width": 1000,
+      "height": 450,
+      "x": 3000,
+      "y": 4050
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare049.png",
+      "width": 1000,
+      "height": 450,
+      "x": 4000,
+      "y": 4050
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare050.png",
+      "width": 1000,
+      "height": 450,
+      "x": 0,
+      "y": 4500
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare051.png",
+      "width": 1000,
+      "height": 450,
+      "x": 1000,
+      "y": 4500
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare052.png",
+      "width": 1000,
+      "height": 450,
+      "x": 2000,
+      "y": 4500
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare053.png",
+      "width": 1000,
+      "height": 450,
+      "x": 3000,
+      "y": 4500
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare054.png",
+      "width": 1000,
+      "height": 450,
+      "x": 4000,
+      "y": 4500
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare055.png",
+      "width": 1000,
+      "height": 450,
+      "x": 5000,
+      "y": 0
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare056.png",
+      "width": 1000,
+      "height": 450,
+      "x": 5000,
+      "y": 450
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare057.png",
+      "width": 1000,
+      "height": 450,
+      "x": 5000,
+      "y": 900
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare058.png",
+      "width": 1000,
+      "height": 450,
+      "x": 5000,
+      "y": 1350
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare059.png",
+      "width": 1000,
+      "height": 450,
+      "x": 5000,
+      "y": 1800
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare060.png",
+      "width": 1000,
+      "height": 450,
+      "x": 5000,
+      "y": 2250
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare061.png",
+      "width": 1000,
+      "height": 450,
+      "x": 5000,
+      "y": 2700
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare062.png",
+      "width": 1000,
+      "height": 450,
+      "x": 5000,
+      "y": 3150
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare063.png",
+      "width": 1000,
+      "height": 450,
+      "x": 5000,
+      "y": 3600
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare064.png",
+      "width": 1000,
+      "height": 450,
+      "x": 5000,
+      "y": 4050
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare065.png",
+      "width": 1000,
+      "height": 450,
+      "x": 5000,
+      "y": 4500
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare066.png",
+      "width": 1000,
+      "height": 450,
+      "x": 0,
+      "y": 4950
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare067.png",
+      "width": 1000,
+      "height": 450,
+      "x": 1000,
+      "y": 4950
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare068.png",
+      "width": 1000,
+      "height": 450,
+      "x": 2000,
+      "y": 4950
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare069.png",
+      "width": 1000,
+      "height": 450,
+      "x": 3000,
+      "y": 4950
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare070.png",
+      "width": 1000,
+      "height": 450,
+      "x": 4000,
+      "y": 4950
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare071.png",
+      "width": 1000,
+      "height": 450,
+      "x": 5000,
+      "y": 4950
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare072.png",
+      "width": 1000,
+      "height": 450,
+      "x": 0,
+      "y": 5400
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare073.png",
+      "width": 1000,
+      "height": 450,
+      "x": 1000,
+      "y": 5400
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare074.png",
+      "width": 1000,
+      "height": 450,
+      "x": 2000,
+      "y": 5400
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare075.png",
+      "width": 1000,
+      "height": 450,
+      "x": 3000,
+      "y": 5400
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare076.png",
+      "width": 1000,
+      "height": 450,
+      "x": 4000,
+      "y": 5400
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare077.png",
+      "width": 1000,
+      "height": 450,
+      "x": 5000,
+      "y": 5400
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare078.png",
+      "width": 1000,
+      "height": 450,
+      "x": 6000,
+      "y": 0
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare079.png",
+      "width": 1000,
+      "height": 450,
+      "x": 6000,
+      "y": 450
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare080.png",
+      "width": 1000,
+      "height": 450,
+      "x": 6000,
+      "y": 900
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare081.png",
+      "width": 1000,
+      "height": 450,
+      "x": 6000,
+      "y": 1350
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare082.png",
+      "width": 1000,
+      "height": 450,
+      "x": 6000,
+      "y": 1800
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare083.png",
+      "width": 1000,
+      "height": 450,
+      "x": 6000,
+      "y": 2250
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare084.png",
+      "width": 1000,
+      "height": 450,
+      "x": 6000,
+      "y": 2700
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare085.png",
+      "width": 1000,
+      "height": 450,
+      "x": 6000,
+      "y": 3150
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare086.png",
+      "width": 1000,
+      "height": 450,
+      "x": 6000,
+      "y": 3600
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare087.png",
+      "width": 1000,
+      "height": 450,
+      "x": 6000,
+      "y": 4050
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare088.png",
+      "width": 1000,
+      "height": 450,
+      "x": 6000,
+      "y": 4500
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare089.png",
+      "width": 1000,
+      "height": 450,
+      "x": 6000,
+      "y": 4950
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare090.png",
+      "width": 1000,
+      "height": 450,
+      "x": 6000,
+      "y": 5400
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare091.png",
+      "width": 1000,
+      "height": 450,
+      "x": 0,
+      "y": 5850
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare092.png",
+      "width": 1000,
+      "height": 450,
+      "x": 1000,
+      "y": 5850
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare093.png",
+      "width": 1000,
+      "height": 450,
+      "x": 2000,
+      "y": 5850
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare094.png",
+      "width": 1000,
+      "height": 450,
+      "x": 3000,
+      "y": 5850
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare095.png",
+      "width": 1000,
+      "height": 450,
+      "x": 4000,
+      "y": 5850
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare096.png",
+      "width": 1000,
+      "height": 450,
+      "x": 5000,
+      "y": 5850
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare097.png",
+      "width": 1000,
+      "height": 450,
+      "x": 6000,
+      "y": 5850
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare098.png",
+      "width": 1000,
+      "height": 450,
+      "x": 0,
+      "y": 6300
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare099.png",
+      "width": 1000,
+      "height": 450,
+      "x": 1000,
+      "y": 6300
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare100.png",
+      "width": 1000,
+      "height": 450,
+      "x": 2000,
+      "y": 6300
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare101.png",
+      "width": 1000,
+      "height": 450,
+      "x": 3000,
+      "y": 6300
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare102.png",
+      "width": 1000,
+      "height": 450,
+      "x": 4000,
+      "y": 6300
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare103.png",
+      "width": 1000,
+      "height": 450,
+      "x": 5000,
+      "y": 6300
+    },
+    {
+      "fileName": "foxy-in-office-jump-scare104.png",
+      "width": 1000,
+      "height": 450,
+      "x": 6000,
+      "y": 6300
+    }
+  ],
+  "packMode": "bin",
+  "padding": 0,
+  "backgroundColor": "rgba(0, 0, 0, 0)",
+  "spriteSheetWidth": 7000,
+  "spriteSheetHeight": 6750
+}
