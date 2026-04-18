@@ -1,0 +1,1325 @@
+{
+  "sprites": [
+    {
+      "fileName": "foxybro-and-friends000.png",
+      "width": 982,
+      "height": 740,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "fileName": "foxybro-and-friends001.png",
+      "width": 982,
+      "height": 740,
+      "x": 982,
+      "y": 0
+    },
+    {
+      "fileName": "foxybro-and-friends002.png",
+      "width": 982,
+      "height": 740,
+      "x": 0,
+      "y": 740
+    },
+    {
+      "fileName": "foxybro-and-friends003.png",
+      "width": 982,
+      "height": 740,
+      "x": 982,
+      "y": 740
+    },
+    {
+      "fileName": "foxybro-and-friends004.png",
+      "width": 982,
+      "height": 740,
+      "x": 1964,
+      "y": 0
+    },
+    {
+      "fileName": "foxybro-and-friends005.png",
+      "width": 982,
+      "height": 740,
+      "x": 1964,
+      "y": 740
+    },
+    {
+      "fileName": "foxybro-and-friends006.png",
+      "width": 982,
+      "height": 740,
+      "x": 0,
+      "y": 1480
+    },
+    {
+      "fileName": "foxybro-and-friends007.png",
+      "width": 982,
+      "height": 740,
+      "x": 982,
+      "y": 1480
+    },
+    {
+      "fileName": "foxybro-and-friends008.png",
+      "width": 982,
+      "height": 740,
+      "x": 1964,
+      "y": 1480
+    },
+    {
+      "fileName": "foxybro-and-friends009.png",
+      "width": 982,
+      "height": 740,
+      "x": 2946,
+      "y": 0
+    },
+    {
+      "fileName": "foxybro-and-friends010.png",
+      "width": 982,
+      "height": 740,
+      "x": 2946,
+      "y": 740
+    },
+    {
+      "fileName": "foxybro-and-friends011.png",
+      "width": 982,
+      "height": 740,
+      "x": 2946,
+      "y": 1480
+    },
+    {
+      "fileName": "foxybro-and-friends012.png",
+      "width": 982,
+      "height": 740,
+      "x": 0,
+      "y": 2220
+    },
+    {
+      "fileName": "foxybro-and-friends013.png",
+      "width": 982,
+      "height": 740,
+      "x": 982,
+      "y": 2220
+    },
+    {
+      "fileName": "foxybro-and-friends014.png",
+      "width": 982,
+      "height": 740,
+      "x": 1964,
+      "y": 2220
+    },
+    {
+      "fileName": "foxybro-and-friends015.png",
+      "width": 982,
+      "height": 740,
+      "x": 2946,
+      "y": 2220
+    },
+    {
+      "fileName": "foxybro-and-friends016.png",
+      "width": 982,
+      "height": 740,
+      "x": 0,
+      "y": 2960
+    },
+    {
+      "fileName": "foxybro-and-friends017.png",
+      "width": 982,
+      "height": 740,
+      "x": 982,
+      "y": 2960
+    },
+    {
+      "fileName": "foxybro-and-friends018.png",
+      "width": 982,
+      "height": 740,
+      "x": 1964,
+      "y": 2960
+    },
+    {
+      "fileName": "foxybro-and-friends019.png",
+      "width": 982,
+      "height": 740,
+      "x": 2946,
+      "y": 2960
+    },
+    {
+      "fileName": "foxybro-and-friends020.png",
+      "width": 982,
+      "height": 740,
+      "x": 3928,
+      "y": 0
+    },
+    {
+      "fileName": "foxybro-and-friends021.png",
+      "width": 982,
+      "height": 740,
+      "x": 3928,
+      "y": 740
+    },
+    {
+      "fileName": "foxybro-and-friends022.png",
+      "width": 982,
+      "height": 740,
+      "x": 3928,
+      "y": 1480
+    },
+    {
+      "fileName": "foxybro-and-friends023.png",
+      "width": 982,
+      "height": 740,
+      "x": 3928,
+      "y": 2220
+    },
+    {
+      "fileName": "foxybro-and-friends024.png",
+      "width": 982,
+      "height": 740,
+      "x": 3928,
+      "y": 2960
+    },
+    {
+      "fileName": "foxybro-and-friends025.png",
+      "width": 982,
+      "height": 740,
+      "x": 0,
+      "y": 3700
+    },
+    {
+      "fileName": "foxybro-and-friends026.png",
+      "width": 982,
+      "height": 740,
+      "x": 982,
+      "y": 3700
+    },
+    {
+      "fileName": "foxybro-and-friends027.png",
+      "width": 982,
+      "height": 740,
+      "x": 1964,
+      "y": 3700
+    },
+    {
+      "fileName": "foxybro-and-friends028.png",
+      "width": 982,
+      "height": 740,
+      "x": 2946,
+      "y": 3700
+    },
+    {
+      "fileName": "foxybro-and-friends029.png",
+      "width": 982,
+      "height": 740,
+      "x": 3928,
+      "y": 3700
+    },
+    {
+      "fileName": "foxybro-and-friends030.png",
+      "width": 982,
+      "height": 740,
+      "x": 4910,
+      "y": 0
+    },
+    {
+      "fileName": "foxybro-and-friends031.png",
+      "width": 982,
+      "height": 740,
+      "x": 4910,
+      "y": 740
+    },
+    {
+      "fileName": "foxybro-and-friends032.png",
+      "width": 982,
+      "height": 740,
+      "x": 4910,
+      "y": 1480
+    },
+    {
+      "fileName": "foxybro-and-friends033.png",
+      "width": 982,
+      "height": 740,
+      "x": 4910,
+      "y": 2220
+    },
+    {
+      "fileName": "foxybro-and-friends034.png",
+      "width": 982,
+      "height": 740,
+      "x": 4910,
+      "y": 2960
+    },
+    {
+      "fileName": "foxybro-and-friends035.png",
+      "width": 982,
+      "height": 740,
+      "x": 4910,
+      "y": 3700
+    },
+    {
+      "fileName": "foxybro-and-friends036.png",
+      "width": 982,
+      "height": 740,
+      "x": 0,
+      "y": 4440
+    },
+    {
+      "fileName": "foxybro-and-friends037.png",
+      "width": 982,
+      "height": 740,
+      "x": 982,
+      "y": 4440
+    },
+    {
+      "fileName": "foxybro-and-friends038.png",
+      "width": 982,
+      "height": 740,
+      "x": 1964,
+      "y": 4440
+    },
+    {
+      "fileName": "foxybro-and-friends039.png",
+      "width": 982,
+      "height": 740,
+      "x": 2946,
+      "y": 4440
+    },
+    {
+      "fileName": "foxybro-and-friends040.png",
+      "width": 982,
+      "height": 740,
+      "x": 3928,
+      "y": 4440
+    },
+    {
+      "fileName": "foxybro-and-friends041.png",
+      "width": 982,
+      "height": 740,
+      "x": 4910,
+      "y": 4440
+    },
+    {
+      "fileName": "foxybro-and-friends042.png",
+      "width": 982,
+      "height": 740,
+      "x": 5892,
+      "y": 0
+    },
+    {
+      "fileName": "foxybro-and-friends043.png",
+      "width": 982,
+      "height": 740,
+      "x": 5892,
+      "y": 740
+    },
+    {
+      "fileName": "foxybro-and-friends044.png",
+      "width": 982,
+      "height": 740,
+      "x": 5892,
+      "y": 1480
+    },
+    {
+      "fileName": "foxybro-and-friends045.png",
+      "width": 982,
+      "height": 740,
+      "x": 5892,
+      "y": 2220
+    },
+    {
+      "fileName": "foxybro-and-friends046.png",
+      "width": 982,
+      "height": 740,
+      "x": 5892,
+      "y": 2960
+    },
+    {
+      "fileName": "foxybro-and-friends047.png",
+      "width": 982,
+      "height": 740,
+      "x": 5892,
+      "y": 3700
+    },
+    {
+      "fileName": "foxybro-and-friends048.png",
+      "width": 982,
+      "height": 740,
+      "x": 5892,
+      "y": 4440
+    },
+    {
+      "fileName": "foxybro-and-friends049.png",
+      "width": 982,
+      "height": 740,
+      "x": 0,
+      "y": 5180
+    },
+    {
+      "fileName": "foxybro-and-friends050.png",
+      "width": 982,
+      "height": 740,
+      "x": 982,
+      "y": 5180
+    },
+    {
+      "fileName": "foxybro-and-friends051.png",
+      "width": 982,
+      "height": 740,
+      "x": 1964,
+      "y": 5180
+    },
+    {
+      "fileName": "foxybro-and-friends052.png",
+      "width": 982,
+      "height": 740,
+      "x": 2946,
+      "y": 5180
+    },
+    {
+      "fileName": "foxybro-and-friends053.png",
+      "width": 982,
+      "height": 740,
+      "x": 3928,
+      "y": 5180
+    },
+    {
+      "fileName": "foxybro-and-friends054.png",
+      "width": 982,
+      "height": 740,
+      "x": 4910,
+      "y": 5180
+    },
+    {
+      "fileName": "foxybro-and-friends055.png",
+      "width": 982,
+      "height": 740,
+      "x": 5892,
+      "y": 5180
+    },
+    {
+      "fileName": "foxybro-and-friends056.png",
+      "width": 982,
+      "height": 740,
+      "x": 0,
+      "y": 5920
+    },
+    {
+      "fileName": "foxybro-and-friends057.png",
+      "width": 982,
+      "height": 740,
+      "x": 982,
+      "y": 5920
+    },
+    {
+      "fileName": "foxybro-and-friends058.png",
+      "width": 982,
+      "height": 740,
+      "x": 1964,
+      "y": 5920
+    },
+    {
+      "fileName": "foxybro-and-friends059.png",
+      "width": 982,
+      "height": 740,
+      "x": 2946,
+      "y": 5920
+    },
+    {
+      "fileName": "foxybro-and-friends060.png",
+      "width": 982,
+      "height": 740,
+      "x": 3928,
+      "y": 5920
+    },
+    {
+      "fileName": "foxybro-and-friends061.png",
+      "width": 982,
+      "height": 740,
+      "x": 4910,
+      "y": 5920
+    },
+    {
+      "fileName": "foxybro-and-friends062.png",
+      "width": 982,
+      "height": 740,
+      "x": 5892,
+      "y": 5920
+    },
+    {
+      "fileName": "foxybro-and-friends063.png",
+      "width": 982,
+      "height": 740,
+      "x": 6874,
+      "y": 0
+    },
+    {
+      "fileName": "foxybro-and-friends064.png",
+      "width": 982,
+      "height": 740,
+      "x": 6874,
+      "y": 740
+    },
+    {
+      "fileName": "foxybro-and-friends065.png",
+      "width": 982,
+      "height": 740,
+      "x": 6874,
+      "y": 1480
+    },
+    {
+      "fileName": "foxybro-and-friends066.png",
+      "width": 982,
+      "height": 740,
+      "x": 6874,
+      "y": 2220
+    },
+    {
+      "fileName": "foxybro-and-friends067.png",
+      "width": 982,
+      "height": 740,
+      "x": 6874,
+      "y": 2960
+    },
+    {
+      "fileName": "foxybro-and-friends068.png",
+      "width": 982,
+      "height": 740,
+      "x": 6874,
+      "y": 3700
+    },
+    {
+      "fileName": "foxybro-and-friends069.png",
+      "width": 982,
+      "height": 740,
+      "x": 6874,
+      "y": 4440
+    },
+    {
+      "fileName": "foxybro-and-friends070.png",
+      "width": 982,
+      "height": 740,
+      "x": 6874,
+      "y": 5180
+    },
+    {
+      "fileName": "foxybro-and-friends071.png",
+      "width": 982,
+      "height": 740,
+      "x": 6874,
+      "y": 5920
+    },
+    {
+      "fileName": "foxybro-and-friends072.png",
+      "width": 982,
+      "height": 740,
+      "x": 0,
+      "y": 6660
+    },
+    {
+      "fileName": "foxybro-and-friends073.png",
+      "width": 982,
+      "height": 740,
+      "x": 982,
+      "y": 6660
+    },
+    {
+      "fileName": "foxybro-and-friends074.png",
+      "width": 982,
+      "height": 740,
+      "x": 1964,
+      "y": 6660
+    },
+    {
+      "fileName": "foxybro-and-friends075.png",
+      "width": 982,
+      "height": 740,
+      "x": 2946,
+      "y": 6660
+    },
+    {
+      "fileName": "foxybro-and-friends076.png",
+      "width": 982,
+      "height": 740,
+      "x": 3928,
+      "y": 6660
+    },
+    {
+      "fileName": "foxybro-and-friends077.png",
+      "width": 982,
+      "height": 740,
+      "x": 4910,
+      "y": 6660
+    },
+    {
+      "fileName": "foxybro-and-friends078.png",
+      "width": 982,
+      "height": 740,
+      "x": 5892,
+      "y": 6660
+    },
+    {
+      "fileName": "foxybro-and-friends079.png",
+      "width": 982,
+      "height": 740,
+      "x": 6874,
+      "y": 6660
+    },
+    {
+      "fileName": "foxybro-and-friends080.png",
+      "width": 982,
+      "height": 740,
+      "x": 7856,
+      "y": 0
+    },
+    {
+      "fileName": "foxybro-and-friends081.png",
+      "width": 982,
+      "height": 740,
+      "x": 7856,
+      "y": 740
+    },
+    {
+      "fileName": "foxybro-and-friends082.png",
+      "width": 982,
+      "height": 740,
+      "x": 7856,
+      "y": 1480
+    },
+    {
+      "fileName": "foxybro-and-friends083.png",
+      "width": 982,
+      "height": 740,
+      "x": 7856,
+      "y": 2220
+    },
+    {
+      "fileName": "foxybro-and-friends084.png",
+      "width": 982,
+      "height": 740,
+      "x": 7856,
+      "y": 2960
+    },
+    {
+      "fileName": "foxybro-and-friends085.png",
+      "width": 982,
+      "height": 740,
+      "x": 7856,
+      "y": 3700
+    },
+    {
+      "fileName": "foxybro-and-friends086.png",
+      "width": 982,
+      "height": 740,
+      "x": 7856,
+      "y": 4440
+    },
+    {
+      "fileName": "foxybro-and-friends087.png",
+      "width": 982,
+      "height": 740,
+      "x": 7856,
+      "y": 5180
+    },
+    {
+      "fileName": "foxybro-and-friends088.png",
+      "width": 982,
+      "height": 740,
+      "x": 7856,
+      "y": 5920
+    },
+    {
+      "fileName": "foxybro-and-friends089.png",
+      "width": 982,
+      "height": 740,
+      "x": 7856,
+      "y": 6660
+    },
+    {
+      "fileName": "foxybro-and-friends090.png",
+      "width": 982,
+      "height": 740,
+      "x": 0,
+      "y": 7400
+    },
+    {
+      "fileName": "foxybro-and-friends091.png",
+      "width": 982,
+      "height": 740,
+      "x": 982,
+      "y": 7400
+    },
+    {
+      "fileName": "foxybro-and-friends092.png",
+      "width": 982,
+      "height": 740,
+      "x": 1964,
+      "y": 7400
+    },
+    {
+      "fileName": "foxybro-and-friends093.png",
+      "width": 982,
+      "height": 740,
+      "x": 2946,
+      "y": 7400
+    },
+    {
+      "fileName": "foxybro-and-friends094.png",
+      "width": 982,
+      "height": 740,
+      "x": 3928,
+      "y": 7400
+    },
+    {
+      "fileName": "foxybro-and-friends095.png",
+      "width": 982,
+      "height": 740,
+      "x": 4910,
+      "y": 7400
+    },
+    {
+      "fileName": "foxybro-and-friends096.png",
+      "width": 982,
+      "height": 740,
+      "x": 5892,
+      "y": 7400
+    },
+    {
+      "fileName": "foxybro-and-friends097.png",
+      "width": 982,
+      "height": 740,
+      "x": 6874,
+      "y": 7400
+    },
+    {
+      "fileName": "foxybro-and-friends098.png",
+      "width": 982,
+      "height": 740,
+      "x": 7856,
+      "y": 7400
+    },
+    {
+      "fileName": "foxybro-and-friends099.png",
+      "width": 982,
+      "height": 740,
+      "x": 8838,
+      "y": 0
+    },
+    {
+      "fileName": "foxybro-and-friends100.png",
+      "width": 982,
+      "height": 740,
+      "x": 8838,
+      "y": 740
+    },
+    {
+      "fileName": "foxybro-and-friends101.png",
+      "width": 982,
+      "height": 740,
+      "x": 8838,
+      "y": 1480
+    },
+    {
+      "fileName": "foxybro-and-friends102.png",
+      "width": 982,
+      "height": 740,
+      "x": 8838,
+      "y": 2220
+    },
+    {
+      "fileName": "foxybro-and-friends103.png",
+      "width": 982,
+      "height": 740,
+      "x": 8838,
+      "y": 2960
+    },
+    {
+      "fileName": "foxybro-and-friends104.png",
+      "width": 982,
+      "height": 740,
+      "x": 8838,
+      "y": 3700
+    },
+    {
+      "fileName": "foxybro-and-friends105.png",
+      "width": 982,
+      "height": 740,
+      "x": 8838,
+      "y": 4440
+    },
+    {
+      "fileName": "foxybro-and-friends106.png",
+      "width": 982,
+      "height": 740,
+      "x": 8838,
+      "y": 5180
+    },
+    {
+      "fileName": "foxybro-and-friends107.png",
+      "width": 982,
+      "height": 740,
+      "x": 8838,
+      "y": 5920
+    },
+    {
+      "fileName": "foxybro-and-friends108.png",
+      "width": 982,
+      "height": 740,
+      "x": 8838,
+      "y": 6660
+    },
+    {
+      "fileName": "foxybro-and-friends109.png",
+      "width": 982,
+      "height": 740,
+      "x": 8838,
+      "y": 7400
+    },
+    {
+      "fileName": "foxybro-and-friends110.png",
+      "width": 982,
+      "height": 740,
+      "x": 0,
+      "y": 8140
+    },
+    {
+      "fileName": "foxybro-and-friends111.png",
+      "width": 982,
+      "height": 740,
+      "x": 982,
+      "y": 8140
+    },
+    {
+      "fileName": "foxybro-and-friends112.png",
+      "width": 982,
+      "height": 740,
+      "x": 1964,
+      "y": 8140
+    },
+    {
+      "fileName": "foxybro-and-friends113.png",
+      "width": 982,
+      "height": 740,
+      "x": 2946,
+      "y": 8140
+    },
+    {
+      "fileName": "foxybro-and-friends114.png",
+      "width": 982,
+      "height": 740,
+      "x": 3928,
+      "y": 8140
+    },
+    {
+      "fileName": "foxybro-and-friends115.png",
+      "width": 982,
+      "height": 740,
+      "x": 4910,
+      "y": 8140
+    },
+    {
+      "fileName": "foxybro-and-friends116.png",
+      "width": 982,
+      "height": 740,
+      "x": 5892,
+      "y": 8140
+    },
+    {
+      "fileName": "foxybro-and-friends117.png",
+      "width": 982,
+      "height": 740,
+      "x": 6874,
+      "y": 8140
+    },
+    {
+      "fileName": "foxybro-and-friends118.png",
+      "width": 982,
+      "height": 740,
+      "x": 7856,
+      "y": 8140
+    },
+    {
+      "fileName": "foxybro-and-friends119.png",
+      "width": 982,
+      "height": 740,
+      "x": 8838,
+      "y": 8140
+    },
+    {
+      "fileName": "foxybro-and-friends120.png",
+      "width": 982,
+      "height": 740,
+      "x": 0,
+      "y": 8880
+    },
+    {
+      "fileName": "foxybro-and-friends121.png",
+      "width": 982,
+      "height": 740,
+      "x": 982,
+      "y": 8880
+    },
+    {
+      "fileName": "foxybro-and-friends122.png",
+      "width": 982,
+      "height": 740,
+      "x": 1964,
+      "y": 8880
+    },
+    {
+      "fileName": "foxybro-and-friends123.png",
+      "width": 982,
+      "height": 740,
+      "x": 2946,
+      "y": 8880
+    },
+    {
+      "fileName": "foxybro-and-friends124.png",
+      "width": 982,
+      "height": 740,
+      "x": 3928,
+      "y": 8880
+    },
+    {
+      "fileName": "foxybro-and-friends125.png",
+      "width": 982,
+      "height": 740,
+      "x": 4910,
+      "y": 8880
+    },
+    {
+      "fileName": "foxybro-and-friends126.png",
+      "width": 982,
+      "height": 740,
+      "x": 5892,
+      "y": 8880
+    },
+    {
+      "fileName": "foxybro-and-friends127.png",
+      "width": 982,
+      "height": 740,
+      "x": 6874,
+      "y": 8880
+    },
+    {
+      "fileName": "foxybro-and-friends128.png",
+      "width": 982,
+      "height": 740,
+      "x": 7856,
+      "y": 8880
+    },
+    {
+      "fileName": "foxybro-and-friends129.png",
+      "width": 982,
+      "height": 740,
+      "x": 8838,
+      "y": 8880
+    },
+    {
+      "fileName": "foxybro-and-friends130.png",
+      "width": 982,
+      "height": 740,
+      "x": 9820,
+      "y": 0
+    },
+    {
+      "fileName": "foxybro-and-friends131.png",
+      "width": 982,
+      "height": 740,
+      "x": 9820,
+      "y": 740
+    },
+    {
+      "fileName": "foxybro-and-friends132.png",
+      "width": 982,
+      "height": 740,
+      "x": 9820,
+      "y": 1480
+    },
+    {
+      "fileName": "foxybro-and-friends133.png",
+      "width": 982,
+      "height": 740,
+      "x": 9820,
+      "y": 2220
+    },
+    {
+      "fileName": "foxybro-and-friends134.png",
+      "width": 982,
+      "height": 740,
+      "x": 9820,
+      "y": 2960
+    },
+    {
+      "fileName": "foxybro-and-friends135.png",
+      "width": 982,
+      "height": 740,
+      "x": 9820,
+      "y": 3700
+    },
+    {
+      "fileName": "foxybro-and-friends136.png",
+      "width": 982,
+      "height": 740,
+      "x": 9820,
+      "y": 4440
+    },
+    {
+      "fileName": "foxybro-and-friends137.png",
+      "width": 982,
+      "height": 740,
+      "x": 9820,
+      "y": 5180
+    },
+    {
+      "fileName": "foxybro-and-friends138.png",
+      "width": 982,
+      "height": 740,
+      "x": 9820,
+      "y": 5920
+    },
+    {
+      "fileName": "foxybro-and-friends139.png",
+      "width": 982,
+      "height": 740,
+      "x": 9820,
+      "y": 6660
+    },
+    {
+      "fileName": "foxybro-and-friends140.png",
+      "width": 982,
+      "height": 740,
+      "x": 9820,
+      "y": 7400
+    },
+    {
+      "fileName": "foxybro-and-friends141.png",
+      "width": 982,
+      "height": 740,
+      "x": 9820,
+      "y": 8140
+    },
+    {
+      "fileName": "foxybro-and-friends142.png",
+      "width": 982,
+      "height": 740,
+      "x": 9820,
+      "y": 8880
+    },
+    {
+      "fileName": "foxybro-and-friends143.png",
+      "width": 982,
+      "height": 740,
+      "x": 0,
+      "y": 9620
+    },
+    {
+      "fileName": "foxybro-and-friends144.png",
+      "width": 982,
+      "height": 740,
+      "x": 982,
+      "y": 9620
+    },
+    {
+      "fileName": "foxybro-and-friends145.png",
+      "width": 982,
+      "height": 740,
+      "x": 1964,
+      "y": 9620
+    },
+    {
+      "fileName": "foxybro-and-friends146.png",
+      "width": 982,
+      "height": 740,
+      "x": 2946,
+      "y": 9620
+    },
+    {
+      "fileName": "foxybro-and-friends147.png",
+      "width": 982,
+      "height": 740,
+      "x": 3928,
+      "y": 9620
+    },
+    {
+      "fileName": "foxybro-and-friends148.png",
+      "width": 982,
+      "height": 740,
+      "x": 4910,
+      "y": 9620
+    },
+    {
+      "fileName": "foxybro-and-friends149.png",
+      "width": 982,
+      "height": 740,
+      "x": 5892,
+      "y": 9620
+    },
+    {
+      "fileName": "foxybro-and-friends150.png",
+      "width": 982,
+      "height": 740,
+      "x": 6874,
+      "y": 9620
+    },
+    {
+      "fileName": "foxybro-and-friends151.png",
+      "width": 982,
+      "height": 740,
+      "x": 7856,
+      "y": 9620
+    },
+    {
+      "fileName": "foxybro-and-friends152.png",
+      "width": 982,
+      "height": 740,
+      "x": 8838,
+      "y": 9620
+    },
+    {
+      "fileName": "foxybro-and-friends153.png",
+      "width": 982,
+      "height": 740,
+      "x": 9820,
+      "y": 9620
+    },
+    {
+      "fileName": "foxybro-and-friends154.png",
+      "width": 982,
+      "height": 740,
+      "x": 10802,
+      "y": 0
+    },
+    {
+      "fileName": "foxybro-and-friends155.png",
+      "width": 982,
+      "height": 740,
+      "x": 10802,
+      "y": 740
+    },
+    {
+      "fileName": "foxybro-and-friends156.png",
+      "width": 982,
+      "height": 740,
+      "x": 10802,
+      "y": 1480
+    },
+    {
+      "fileName": "foxybro-and-friends157.png",
+      "width": 982,
+      "height": 740,
+      "x": 10802,
+      "y": 2220
+    },
+    {
+      "fileName": "foxybro-and-friends158.png",
+      "width": 982,
+      "height": 740,
+      "x": 10802,
+      "y": 2960
+    },
+    {
+      "fileName": "foxybro-and-friends159.png",
+      "width": 982,
+      "height": 740,
+      "x": 10802,
+      "y": 3700
+    },
+    {
+      "fileName": "foxybro-and-friends160.png",
+      "width": 982,
+      "height": 740,
+      "x": 10802,
+      "y": 4440
+    },
+    {
+      "fileName": "foxybro-and-friends161.png",
+      "width": 982,
+      "height": 740,
+      "x": 10802,
+      "y": 5180
+    },
+    {
+      "fileName": "foxybro-and-friends162.png",
+      "width": 982,
+      "height": 740,
+      "x": 10802,
+      "y": 5920
+    },
+    {
+      "fileName": "foxybro-and-friends163.png",
+      "width": 982,
+      "height": 740,
+      "x": 10802,
+      "y": 6660
+    },
+    {
+      "fileName": "foxybro-and-friends164.png",
+      "width": 982,
+      "height": 740,
+      "x": 10802,
+      "y": 7400
+    },
+    {
+      "fileName": "foxybro-and-friends165.png",
+      "width": 982,
+      "height": 740,
+      "x": 10802,
+      "y": 8140
+    },
+    {
+      "fileName": "foxybro-and-friends166.png",
+      "width": 982,
+      "height": 740,
+      "x": 10802,
+      "y": 8880
+    },
+    {
+      "fileName": "foxybro-and-friends167.png",
+      "width": 982,
+      "height": 740,
+      "x": 10802,
+      "y": 9620
+    },
+    {
+      "fileName": "foxybro-and-friends168.png",
+      "width": 982,
+      "height": 740,
+      "x": 0,
+      "y": 10360
+    },
+    {
+      "fileName": "foxybro-and-friends169.png",
+      "width": 982,
+      "height": 740,
+      "x": 982,
+      "y": 10360
+    },
+    {
+      "fileName": "foxybro-and-friends170.png",
+      "width": 982,
+      "height": 740,
+      "x": 1964,
+      "y": 10360
+    },
+    {
+      "fileName": "foxybro-and-friends171.png",
+      "width": 982,
+      "height": 740,
+      "x": 2946,
+      "y": 10360
+    },
+    {
+      "fileName": "foxybro-and-friends172.png",
+      "width": 982,
+      "height": 740,
+      "x": 3928,
+      "y": 10360
+    },
+    {
+      "fileName": "foxybro-and-friends173.png",
+      "width": 982,
+      "height": 740,
+      "x": 4910,
+      "y": 10360
+    },
+    {
+      "fileName": "foxybro-and-friends174.png",
+      "width": 982,
+      "height": 740,
+      "x": 5892,
+      "y": 10360
+    },
+    {
+      "fileName": "foxybro-and-friends175.png",
+      "width": 982,
+      "height": 740,
+      "x": 6874,
+      "y": 10360
+    },
+    {
+      "fileName": "foxybro-and-friends176.png",
+      "width": 982,
+      "height": 740,
+      "x": 7856,
+      "y": 10360
+    },
+    {
+      "fileName": "foxybro-and-friends177.png",
+      "width": 982,
+      "height": 740,
+      "x": 8838,
+      "y": 10360
+    },
+    {
+      "fileName": "foxybro-and-friends178.png",
+      "width": 982,
+      "height": 740,
+      "x": 9820,
+      "y": 10360
+    },
+    {
+      "fileName": "foxybro-and-friends179.png",
+      "width": 982,
+      "height": 740,
+      "x": 10802,
+      "y": 10360
+    },
+    {
+      "fileName": "foxybro-and-friends180.png",
+      "width": 982,
+      "height": 740,
+      "x": 11784,
+      "y": 0
+    },
+    {
+      "fileName": "foxybro-and-friends181.png",
+      "width": 982,
+      "height": 740,
+      "x": 11784,
+      "y": 740
+    },
+    {
+      "fileName": "foxybro-and-friends182.png",
+      "width": 982,
+      "height": 740,
+      "x": 11784,
+      "y": 1480
+    },
+    {
+      "fileName": "foxybro-and-friends183.png",
+      "width": 982,
+      "height": 740,
+      "x": 11784,
+      "y": 2220
+    },
+    {
+      "fileName": "foxybro-and-friends184.png",
+      "width": 982,
+      "height": 740,
+      "x": 11784,
+      "y": 2960
+    },
+    {
+      "fileName": "foxybro-and-friends185.png",
+      "width": 982,
+      "height": 740,
+      "x": 11784,
+      "y": 3700
+    },
+    {
+      "fileName": "foxybro-and-friends186.png",
+      "width": 982,
+      "height": 740,
+      "x": 11784,
+      "y": 4440
+    },
+    {
+      "fileName": "foxybro-and-friends187.png",
+      "width": 982,
+      "height": 740,
+      "x": 11784,
+      "y": 5180
+    }
+  ],
+  "packMode": "bin",
+  "padding": 0,
+  "backgroundColor": "rgba(0, 0, 0, 0)",
+  "spriteSheetWidth": 12766,
+  "spriteSheetHeight": 11100
+}

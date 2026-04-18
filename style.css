@@ -134,16 +134,12 @@ p{
  .parallax_foxy{
 
  }
- canvas {
-  width: 100%;
-  height: 100%;
-  object-fit: contain;
-}
+ 
  /* FNAF 2  */
  .scene2{
     
  }
- #fnaf_2{
+ #fnaf_2 > *{
 
    
  }
@@ -165,4 +161,44 @@ p{
     width: 100%;
     display: flex;
     justify-content: center;
+}
+
+div{
+	width: 100%;
+}
+
+img{
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+/* 
+	TV Static CSS effect From CSS Tricks:  
+	https://css-tricks.com/making-static-noise-from-a-weird-css-gradient-bug/#:~:text=Animated%20no%20TV%20signal&text=If%20you%20check%20the%20code,this%20is%20what%20we%20get!
+*/
+#FNAF{
+	position: relative;
+	z-index: -1;
+/* 	padding: 900px 0; */
+}
+
+
+#static {
+	width: 100vw;
+	height: 100vh;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 2;
+	opacity: 0.35;
+	padding-bottom: 1500px;
+  background: 
+    repeating-radial-gradient(#000 0 0.0001%,#fff 0 0.0002%) 50% 0/2500px 2500px,
+    repeating-conic-gradient(#000 0 0.0001%,#fff 0 0.0002%) 60% 60%/2500px 2500px;
+  background-blend-mode: difference;
+  animation: b .2s infinite alternate;
+}
+@keyframes b{
+  100% {background-position: 50% 0, 60% 50%}
 }

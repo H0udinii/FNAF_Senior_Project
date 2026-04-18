@@ -1,0 +1,975 @@
+{
+  "sprites": [
+    {
+      "fileName": "bby-scene000.png",
+      "width": 1000,
+      "height": 526,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "fileName": "bby-scene001.png",
+      "width": 1000,
+      "height": 526,
+      "x": 1000,
+      "y": 0
+    },
+    {
+      "fileName": "bby-scene002.png",
+      "width": 1000,
+      "height": 526,
+      "x": 0,
+      "y": 526
+    },
+    {
+      "fileName": "bby-scene003.png",
+      "width": 1000,
+      "height": 526,
+      "x": 1000,
+      "y": 526
+    },
+    {
+      "fileName": "bby-scene004.png",
+      "width": 1000,
+      "height": 526,
+      "x": 0,
+      "y": 1052
+    },
+    {
+      "fileName": "bby-scene005.png",
+      "width": 1000,
+      "height": 526,
+      "x": 1000,
+      "y": 1052
+    },
+    {
+      "fileName": "bby-scene006.png",
+      "width": 1000,
+      "height": 526,
+      "x": 2000,
+      "y": 0
+    },
+    {
+      "fileName": "bby-scene007.png",
+      "width": 1000,
+      "height": 526,
+      "x": 2000,
+      "y": 526
+    },
+    {
+      "fileName": "bby-scene008.png",
+      "width": 1000,
+      "height": 526,
+      "x": 2000,
+      "y": 1052
+    },
+    {
+      "fileName": "bby-scene009.png",
+      "width": 1000,
+      "height": 526,
+      "x": 0,
+      "y": 1578
+    },
+    {
+      "fileName": "bby-scene010.png",
+      "width": 1000,
+      "height": 526,
+      "x": 1000,
+      "y": 1578
+    },
+    {
+      "fileName": "bby-scene011.png",
+      "width": 1000,
+      "height": 526,
+      "x": 2000,
+      "y": 1578
+    },
+    {
+      "fileName": "bby-scene012.png",
+      "width": 1000,
+      "height": 526,
+      "x": 0,
+      "y": 2104
+    },
+    {
+      "fileName": "bby-scene013.png",
+      "width": 1000,
+      "height": 526,
+      "x": 1000,
+      "y": 2104
+    },
+    {
+      "fileName": "bby-scene014.png",
+      "width": 1000,
+      "height": 526,
+      "x": 2000,
+      "y": 2104
+    },
+    {
+      "fileName": "bby-scene015.png",
+      "width": 1000,
+      "height": 526,
+      "x": 3000,
+      "y": 0
+    },
+    {
+      "fileName": "bby-scene016.png",
+      "width": 1000,
+      "height": 526,
+      "x": 3000,
+      "y": 526
+    },
+    {
+      "fileName": "bby-scene017.png",
+      "width": 1000,
+      "height": 526,
+      "x": 3000,
+      "y": 1052
+    },
+    {
+      "fileName": "bby-scene018.png",
+      "width": 1000,
+      "height": 526,
+      "x": 3000,
+      "y": 1578
+    },
+    {
+      "fileName": "bby-scene019.png",
+      "width": 1000,
+      "height": 526,
+      "x": 3000,
+      "y": 2104
+    },
+    {
+      "fileName": "bby-scene020.png",
+      "width": 1000,
+      "height": 526,
+      "x": 0,
+      "y": 2630
+    },
+    {
+      "fileName": "bby-scene021.png",
+      "width": 1000,
+      "height": 526,
+      "x": 1000,
+      "y": 2630
+    },
+    {
+      "fileName": "bby-scene022.png",
+      "width": 1000,
+      "height": 526,
+      "x": 2000,
+      "y": 2630
+    },
+    {
+      "fileName": "bby-scene023.png",
+      "width": 1000,
+      "height": 526,
+      "x": 3000,
+      "y": 2630
+    },
+    {
+      "fileName": "bby-scene024.png",
+      "width": 1000,
+      "height": 526,
+      "x": 0,
+      "y": 3156
+    },
+    {
+      "fileName": "bby-scene025.png",
+      "width": 1000,
+      "height": 526,
+      "x": 1000,
+      "y": 3156
+    },
+    {
+      "fileName": "bby-scene026.png",
+      "width": 1000,
+      "height": 526,
+      "x": 2000,
+      "y": 3156
+    },
+    {
+      "fileName": "bby-scene027.png",
+      "width": 1000,
+      "height": 526,
+      "x": 3000,
+      "y": 3156
+    },
+    {
+      "fileName": "bby-scene028.png",
+      "width": 1000,
+      "height": 526,
+      "x": 4000,
+      "y": 0
+    },
+    {
+      "fileName": "bby-scene029.png",
+      "width": 1000,
+      "height": 526,
+      "x": 4000,
+      "y": 526
+    },
+    {
+      "fileName": "bby-scene030.png",
+      "width": 1000,
+      "height": 526,
+      "x": 4000,
+      "y": 1052
+    },
+    {
+      "fileName": "bby-scene031.png",
+      "width": 1000,
+      "height": 526,
+      "x": 4000,
+      "y": 1578
+    },
+    {
+      "fileName": "bby-scene032.png",
+      "width": 1000,
+      "height": 526,
+      "x": 4000,
+      "y": 2104
+    },
+    {
+      "fileName": "bby-scene033.png",
+      "width": 1000,
+      "height": 526,
+      "x": 4000,
+      "y": 2630
+    },
+    {
+      "fileName": "bby-scene034.png",
+      "width": 1000,
+      "height": 526,
+      "x": 4000,
+      "y": 3156
+    },
+    {
+      "fileName": "bby-scene035.png",
+      "width": 1000,
+      "height": 526,
+      "x": 0,
+      "y": 3682
+    },
+    {
+      "fileName": "bby-scene036.png",
+      "width": 1000,
+      "height": 526,
+      "x": 1000,
+      "y": 3682
+    },
+    {
+      "fileName": "bby-scene037.png",
+      "width": 1000,
+      "height": 526,
+      "x": 2000,
+      "y": 3682
+    },
+    {
+      "fileName": "bby-scene038.png",
+      "width": 1000,
+      "height": 526,
+      "x": 3000,
+      "y": 3682
+    },
+    {
+      "fileName": "bby-scene039.png",
+      "width": 1000,
+      "height": 526,
+      "x": 4000,
+      "y": 3682
+    },
+    {
+      "fileName": "bby-scene040.png",
+      "width": 1000,
+      "height": 526,
+      "x": 0,
+      "y": 4208
+    },
+    {
+      "fileName": "bby-scene041.png",
+      "width": 1000,
+      "height": 526,
+      "x": 1000,
+      "y": 4208
+    },
+    {
+      "fileName": "bby-scene042.png",
+      "width": 1000,
+      "height": 526,
+      "x": 2000,
+      "y": 4208
+    },
+    {
+      "fileName": "bby-scene043.png",
+      "width": 1000,
+      "height": 526,
+      "x": 3000,
+      "y": 4208
+    },
+    {
+      "fileName": "bby-scene044.png",
+      "width": 1000,
+      "height": 526,
+      "x": 4000,
+      "y": 4208
+    },
+    {
+      "fileName": "bby-scene045.png",
+      "width": 1000,
+      "height": 526,
+      "x": 5000,
+      "y": 0
+    },
+    {
+      "fileName": "bby-scene046.png",
+      "width": 1000,
+      "height": 526,
+      "x": 5000,
+      "y": 526
+    },
+    {
+      "fileName": "bby-scene047.png",
+      "width": 1000,
+      "height": 526,
+      "x": 5000,
+      "y": 1052
+    },
+    {
+      "fileName": "bby-scene048.png",
+      "width": 1000,
+      "height": 526,
+      "x": 5000,
+      "y": 1578
+    },
+    {
+      "fileName": "bby-scene049.png",
+      "width": 1000,
+      "height": 526,
+      "x": 5000,
+      "y": 2104
+    },
+    {
+      "fileName": "bby-scene050.png",
+      "width": 1000,
+      "height": 526,
+      "x": 5000,
+      "y": 2630
+    },
+    {
+      "fileName": "bby-scene051.png",
+      "width": 1000,
+      "height": 526,
+      "x": 5000,
+      "y": 3156
+    },
+    {
+      "fileName": "bby-scene052.png",
+      "width": 1000,
+      "height": 526,
+      "x": 5000,
+      "y": 3682
+    },
+    {
+      "fileName": "bby-scene053.png",
+      "width": 1000,
+      "height": 526,
+      "x": 5000,
+      "y": 4208
+    },
+    {
+      "fileName": "bby-scene054.png",
+      "width": 1000,
+      "height": 526,
+      "x": 0,
+      "y": 4734
+    },
+    {
+      "fileName": "bby-scene055.png",
+      "width": 1000,
+      "height": 526,
+      "x": 1000,
+      "y": 4734
+    },
+    {
+      "fileName": "bby-scene056.png",
+      "width": 1000,
+      "height": 526,
+      "x": 2000,
+      "y": 4734
+    },
+    {
+      "fileName": "bby-scene057.png",
+      "width": 1000,
+      "height": 526,
+      "x": 3000,
+      "y": 4734
+    },
+    {
+      "fileName": "bby-scene058.png",
+      "width": 1000,
+      "height": 526,
+      "x": 4000,
+      "y": 4734
+    },
+    {
+      "fileName": "bby-scene059.png",
+      "width": 1000,
+      "height": 526,
+      "x": 5000,
+      "y": 4734
+    },
+    {
+      "fileName": "bby-scene060.png",
+      "width": 1000,
+      "height": 526,
+      "x": 0,
+      "y": 5260
+    },
+    {
+      "fileName": "bby-scene061.png",
+      "width": 1000,
+      "height": 526,
+      "x": 1000,
+      "y": 5260
+    },
+    {
+      "fileName": "bby-scene062.png",
+      "width": 1000,
+      "height": 526,
+      "x": 2000,
+      "y": 5260
+    },
+    {
+      "fileName": "bby-scene063.png",
+      "width": 1000,
+      "height": 526,
+      "x": 3000,
+      "y": 5260
+    },
+    {
+      "fileName": "bby-scene064.png",
+      "width": 1000,
+      "height": 526,
+      "x": 4000,
+      "y": 5260
+    },
+    {
+      "fileName": "bby-scene065.png",
+      "width": 1000,
+      "height": 526,
+      "x": 5000,
+      "y": 5260
+    },
+    {
+      "fileName": "bby-scene066.png",
+      "width": 1000,
+      "height": 526,
+      "x": 6000,
+      "y": 0
+    },
+    {
+      "fileName": "bby-scene067.png",
+      "width": 1000,
+      "height": 526,
+      "x": 6000,
+      "y": 526
+    },
+    {
+      "fileName": "bby-scene068.png",
+      "width": 1000,
+      "height": 526,
+      "x": 6000,
+      "y": 1052
+    },
+    {
+      "fileName": "bby-scene069.png",
+      "width": 1000,
+      "height": 526,
+      "x": 6000,
+      "y": 1578
+    },
+    {
+      "fileName": "bby-scene070.png",
+      "width": 1000,
+      "height": 526,
+      "x": 6000,
+      "y": 2104
+    },
+    {
+      "fileName": "bby-scene071.png",
+      "width": 1000,
+      "height": 526,
+      "x": 6000,
+      "y": 2630
+    },
+    {
+      "fileName": "bby-scene072.png",
+      "width": 1000,
+      "height": 526,
+      "x": 6000,
+      "y": 3156
+    },
+    {
+      "fileName": "bby-scene073.png",
+      "width": 1000,
+      "height": 526,
+      "x": 6000,
+      "y": 3682
+    },
+    {
+      "fileName": "bby-scene074.png",
+      "width": 1000,
+      "height": 526,
+      "x": 6000,
+      "y": 4208
+    },
+    {
+      "fileName": "bby-scene075.png",
+      "width": 1000,
+      "height": 526,
+      "x": 6000,
+      "y": 4734
+    },
+    {
+      "fileName": "bby-scene076.png",
+      "width": 1000,
+      "height": 526,
+      "x": 6000,
+      "y": 5260
+    },
+    {
+      "fileName": "bby-scene077.png",
+      "width": 1000,
+      "height": 526,
+      "x": 0,
+      "y": 5786
+    },
+    {
+      "fileName": "bby-scene078.png",
+      "width": 1000,
+      "height": 526,
+      "x": 1000,
+      "y": 5786
+    },
+    {
+      "fileName": "bby-scene079.png",
+      "width": 1000,
+      "height": 526,
+      "x": 2000,
+      "y": 5786
+    },
+    {
+      "fileName": "bby-scene080.png",
+      "width": 1000,
+      "height": 526,
+      "x": 3000,
+      "y": 5786
+    },
+    {
+      "fileName": "bby-scene081.png",
+      "width": 1000,
+      "height": 526,
+      "x": 4000,
+      "y": 5786
+    },
+    {
+      "fileName": "bby-scene082.png",
+      "width": 1000,
+      "height": 526,
+      "x": 5000,
+      "y": 5786
+    },
+    {
+      "fileName": "bby-scene083.png",
+      "width": 1000,
+      "height": 526,
+      "x": 6000,
+      "y": 5786
+    },
+    {
+      "fileName": "bby-scene084.png",
+      "width": 1000,
+      "height": 526,
+      "x": 0,
+      "y": 6312
+    },
+    {
+      "fileName": "bby-scene085.png",
+      "width": 1000,
+      "height": 526,
+      "x": 1000,
+      "y": 6312
+    },
+    {
+      "fileName": "bby-scene086.png",
+      "width": 1000,
+      "height": 526,
+      "x": 2000,
+      "y": 6312
+    },
+    {
+      "fileName": "bby-scene087.png",
+      "width": 1000,
+      "height": 526,
+      "x": 3000,
+      "y": 6312
+    },
+    {
+      "fileName": "bby-scene088.png",
+      "width": 1000,
+      "height": 526,
+      "x": 4000,
+      "y": 6312
+    },
+    {
+      "fileName": "bby-scene089.png",
+      "width": 1000,
+      "height": 526,
+      "x": 5000,
+      "y": 6312
+    },
+    {
+      "fileName": "bby-scene090.png",
+      "width": 1000,
+      "height": 526,
+      "x": 6000,
+      "y": 6312
+    },
+    {
+      "fileName": "bby-scene091.png",
+      "width": 1000,
+      "height": 526,
+      "x": 7000,
+      "y": 0
+    },
+    {
+      "fileName": "bby-scene092.png",
+      "width": 1000,
+      "height": 526,
+      "x": 7000,
+      "y": 526
+    },
+    {
+      "fileName": "bby-scene093.png",
+      "width": 1000,
+      "height": 526,
+      "x": 7000,
+      "y": 1052
+    },
+    {
+      "fileName": "bby-scene094.png",
+      "width": 1000,
+      "height": 526,
+      "x": 7000,
+      "y": 1578
+    },
+    {
+      "fileName": "bby-scene095.png",
+      "width": 1000,
+      "height": 526,
+      "x": 7000,
+      "y": 2104
+    },
+    {
+      "fileName": "bby-scene096.png",
+      "width": 1000,
+      "height": 526,
+      "x": 7000,
+      "y": 2630
+    },
+    {
+      "fileName": "bby-scene097.png",
+      "width": 1000,
+      "height": 526,
+      "x": 7000,
+      "y": 3156
+    },
+    {
+      "fileName": "bby-scene098.png",
+      "width": 1000,
+      "height": 526,
+      "x": 7000,
+      "y": 3682
+    },
+    {
+      "fileName": "bby-scene099.png",
+      "width": 1000,
+      "height": 526,
+      "x": 7000,
+      "y": 4208
+    },
+    {
+      "fileName": "bby-scene100.png",
+      "width": 1000,
+      "height": 526,
+      "x": 7000,
+      "y": 4734
+    },
+    {
+      "fileName": "bby-scene101.png",
+      "width": 1000,
+      "height": 526,
+      "x": 7000,
+      "y": 5260
+    },
+    {
+      "fileName": "bby-scene102.png",
+      "width": 1000,
+      "height": 526,
+      "x": 7000,
+      "y": 5786
+    },
+    {
+      "fileName": "bby-scene103.png",
+      "width": 1000,
+      "height": 526,
+      "x": 7000,
+      "y": 6312
+    },
+    {
+      "fileName": "bby-scene104.png",
+      "width": 1000,
+      "height": 526,
+      "x": 0,
+      "y": 6838
+    },
+    {
+      "fileName": "bby-scene105.png",
+      "width": 1000,
+      "height": 526,
+      "x": 1000,
+      "y": 6838
+    },
+    {
+      "fileName": "bby-scene106.png",
+      "width": 1000,
+      "height": 526,
+      "x": 2000,
+      "y": 6838
+    },
+    {
+      "fileName": "bby-scene107.png",
+      "width": 1000,
+      "height": 526,
+      "x": 3000,
+      "y": 6838
+    },
+    {
+      "fileName": "bby-scene108.png",
+      "width": 1000,
+      "height": 526,
+      "x": 4000,
+      "y": 6838
+    },
+    {
+      "fileName": "bby-scene109.png",
+      "width": 1000,
+      "height": 526,
+      "x": 5000,
+      "y": 6838
+    },
+    {
+      "fileName": "bby-scene110.png",
+      "width": 1000,
+      "height": 526,
+      "x": 6000,
+      "y": 6838
+    },
+    {
+      "fileName": "bby-scene111.png",
+      "width": 1000,
+      "height": 526,
+      "x": 7000,
+      "y": 6838
+    },
+    {
+      "fileName": "bby-scene112.png",
+      "width": 1000,
+      "height": 526,
+      "x": 0,
+      "y": 7364
+    },
+    {
+      "fileName": "bby-scene113.png",
+      "width": 1000,
+      "height": 526,
+      "x": 1000,
+      "y": 7364
+    },
+    {
+      "fileName": "bby-scene114.png",
+      "width": 1000,
+      "height": 526,
+      "x": 2000,
+      "y": 7364
+    },
+    {
+      "fileName": "bby-scene115.png",
+      "width": 1000,
+      "height": 526,
+      "x": 3000,
+      "y": 7364
+    },
+    {
+      "fileName": "bby-scene116.png",
+      "width": 1000,
+      "height": 526,
+      "x": 4000,
+      "y": 7364
+    },
+    {
+      "fileName": "bby-scene117.png",
+      "width": 1000,
+      "height": 526,
+      "x": 5000,
+      "y": 7364
+    },
+    {
+      "fileName": "bby-scene118.png",
+      "width": 1000,
+      "height": 526,
+      "x": 6000,
+      "y": 7364
+    },
+    {
+      "fileName": "bby-scene119.png",
+      "width": 1000,
+      "height": 526,
+      "x": 7000,
+      "y": 7364
+    },
+    {
+      "fileName": "bby-scene120.png",
+      "width": 1000,
+      "height": 526,
+      "x": 8000,
+      "y": 0
+    },
+    {
+      "fileName": "bby-scene121.png",
+      "width": 1000,
+      "height": 526,
+      "x": 8000,
+      "y": 526
+    },
+    {
+      "fileName": "bby-scene122.png",
+      "width": 1000,
+      "height": 526,
+      "x": 8000,
+      "y": 1052
+    },
+    {
+      "fileName": "bby-scene123.png",
+      "width": 1000,
+      "height": 526,
+      "x": 8000,
+      "y": 1578
+    },
+    {
+      "fileName": "bby-scene124.png",
+      "width": 1000,
+      "height": 526,
+      "x": 8000,
+      "y": 2104
+    },
+    {
+      "fileName": "bby-scene125.png",
+      "width": 1000,
+      "height": 526,
+      "x": 8000,
+      "y": 2630
+    },
+    {
+      "fileName": "bby-scene126.png",
+      "width": 1000,
+      "height": 526,
+      "x": 8000,
+      "y": 3156
+    },
+    {
+      "fileName": "bby-scene127.png",
+      "width": 1000,
+      "height": 526,
+      "x": 8000,
+      "y": 3682
+    },
+    {
+      "fileName": "bby-scene128.png",
+      "width": 1000,
+      "height": 526,
+      "x": 8000,
+      "y": 4208
+    },
+    {
+      "fileName": "bby-scene129.png",
+      "width": 1000,
+      "height": 526,
+      "x": 8000,
+      "y": 4734
+    },
+    {
+      "fileName": "bby-scene130.png",
+      "width": 1000,
+      "height": 526,
+      "x": 8000,
+      "y": 5260
+    },
+    {
+      "fileName": "bby-scene131.png",
+      "width": 1000,
+      "height": 526,
+      "x": 8000,
+      "y": 5786
+    },
+    {
+      "fileName": "bby-scene132.png",
+      "width": 1000,
+      "height": 526,
+      "x": 8000,
+      "y": 6312
+    },
+    {
+      "fileName": "bby-scene133.png",
+      "width": 1000,
+      "height": 526,
+      "x": 8000,
+      "y": 6838
+    },
+    {
+      "fileName": "bby-scene134.png",
+      "width": 1000,
+      "height": 526,
+      "x": 8000,
+      "y": 7364
+    },
+    {
+      "fileName": "bby-scene135.png",
+      "width": 1000,
+      "height": 526,
+      "x": 0,
+      "y": 7890
+    },
+    {
+      "fileName": "bby-scene136.png",
+      "width": 1000,
+      "height": 526,
+      "x": 1000,
+      "y": 7890
+    },
+    {
+      "fileName": "bby-scene137.png",
+      "width": 1000,
+      "height": 526,
+      "x": 2000,
+      "y": 7890
+    }
+  ],
+  "packMode": "bin",
+  "padding": 0,
+  "backgroundColor": "rgba(0, 0, 0, 0)",
+  "spriteSheetWidth": 9000,
+  "spriteSheetHeight": 8416
+}

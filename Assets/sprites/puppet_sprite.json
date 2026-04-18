@@ -1,0 +1,1367 @@
+{
+  "sprites": [
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare000.png",
+      "width": 1000,
+      "height": 450,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare001.png",
+      "width": 1000,
+      "height": 450,
+      "x": 1000,
+      "y": 0
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare002.png",
+      "width": 1000,
+      "height": 450,
+      "x": 2000,
+      "y": 0
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare003.png",
+      "width": 1000,
+      "height": 450,
+      "x": 3000,
+      "y": 0
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare004.png",
+      "width": 1000,
+      "height": 450,
+      "x": 4000,
+      "y": 0
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare005.png",
+      "width": 1000,
+      "height": 450,
+      "x": 5000,
+      "y": 0
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare006.png",
+      "width": 1000,
+      "height": 450,
+      "x": 6000,
+      "y": 0
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare007.png",
+      "width": 1000,
+      "height": 450,
+      "x": 7000,
+      "y": 0
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare008.png",
+      "width": 1000,
+      "height": 450,
+      "x": 8000,
+      "y": 0
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare009.png",
+      "width": 1000,
+      "height": 450,
+      "x": 9000,
+      "y": 0
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare010.png",
+      "width": 1000,
+      "height": 450,
+      "x": 10000,
+      "y": 0
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare011.png",
+      "width": 1000,
+      "height": 450,
+      "x": 11000,
+      "y": 0
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare012.png",
+      "width": 1000,
+      "height": 450,
+      "x": 12000,
+      "y": 0
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare013.png",
+      "width": 1000,
+      "height": 450,
+      "x": 13000,
+      "y": 0
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare014.png",
+      "width": 1000,
+      "height": 450,
+      "x": 0,
+      "y": 450
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare015.png",
+      "width": 1000,
+      "height": 450,
+      "x": 1000,
+      "y": 450
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare016.png",
+      "width": 1000,
+      "height": 450,
+      "x": 2000,
+      "y": 450
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare017.png",
+      "width": 1000,
+      "height": 450,
+      "x": 3000,
+      "y": 450
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare018.png",
+      "width": 1000,
+      "height": 450,
+      "x": 4000,
+      "y": 450
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare019.png",
+      "width": 1000,
+      "height": 450,
+      "x": 5000,
+      "y": 450
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare020.png",
+      "width": 1000,
+      "height": 450,
+      "x": 6000,
+      "y": 450
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare021.png",
+      "width": 1000,
+      "height": 450,
+      "x": 7000,
+      "y": 450
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare022.png",
+      "width": 1000,
+      "height": 450,
+      "x": 8000,
+      "y": 450
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare023.png",
+      "width": 1000,
+      "height": 450,
+      "x": 9000,
+      "y": 450
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare024.png",
+      "width": 1000,
+      "height": 450,
+      "x": 10000,
+      "y": 450
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare025.png",
+      "width": 1000,
+      "height": 450,
+      "x": 11000,
+      "y": 450
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare026.png",
+      "width": 1000,
+      "height": 450,
+      "x": 12000,
+      "y": 450
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare027.png",
+      "width": 1000,
+      "height": 450,
+      "x": 13000,
+      "y": 450
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare028.png",
+      "width": 1000,
+      "height": 450,
+      "x": 0,
+      "y": 900
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare029.png",
+      "width": 1000,
+      "height": 450,
+      "x": 1000,
+      "y": 900
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare030.png",
+      "width": 1000,
+      "height": 450,
+      "x": 2000,
+      "y": 900
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare031.png",
+      "width": 1000,
+      "height": 450,
+      "x": 3000,
+      "y": 900
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare032.png",
+      "width": 1000,
+      "height": 450,
+      "x": 4000,
+      "y": 900
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare033.png",
+      "width": 1000,
+      "height": 450,
+      "x": 5000,
+      "y": 900
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare034.png",
+      "width": 1000,
+      "height": 450,
+      "x": 6000,
+      "y": 900
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare035.png",
+      "width": 1000,
+      "height": 450,
+      "x": 7000,
+      "y": 900
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare036.png",
+      "width": 1000,
+      "height": 450,
+      "x": 8000,
+      "y": 900
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare037.png",
+      "width": 1000,
+      "height": 450,
+      "x": 9000,
+      "y": 900
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare038.png",
+      "width": 1000,
+      "height": 450,
+      "x": 10000,
+      "y": 900
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare039.png",
+      "width": 1000,
+      "height": 450,
+      "x": 11000,
+      "y": 900
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare040.png",
+      "width": 1000,
+      "height": 450,
+      "x": 12000,
+      "y": 900
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare041.png",
+      "width": 1000,
+      "height": 450,
+      "x": 13000,
+      "y": 900
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare042.png",
+      "width": 1000,
+      "height": 450,
+      "x": 0,
+      "y": 1350
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare043.png",
+      "width": 1000,
+      "height": 450,
+      "x": 1000,
+      "y": 1350
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare044.png",
+      "width": 1000,
+      "height": 450,
+      "x": 2000,
+      "y": 1350
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare045.png",
+      "width": 1000,
+      "height": 450,
+      "x": 3000,
+      "y": 1350
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare046.png",
+      "width": 1000,
+      "height": 450,
+      "x": 4000,
+      "y": 1350
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare047.png",
+      "width": 1000,
+      "height": 450,
+      "x": 5000,
+      "y": 1350
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare048.png",
+      "width": 1000,
+      "height": 450,
+      "x": 6000,
+      "y": 1350
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare049.png",
+      "width": 1000,
+      "height": 450,
+      "x": 7000,
+      "y": 1350
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare050.png",
+      "width": 1000,
+      "height": 450,
+      "x": 8000,
+      "y": 1350
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare051.png",
+      "width": 1000,
+      "height": 450,
+      "x": 9000,
+      "y": 1350
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare052.png",
+      "width": 1000,
+      "height": 450,
+      "x": 10000,
+      "y": 1350
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare053.png",
+      "width": 1000,
+      "height": 450,
+      "x": 11000,
+      "y": 1350
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare054.png",
+      "width": 1000,
+      "height": 450,
+      "x": 12000,
+      "y": 1350
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare055.png",
+      "width": 1000,
+      "height": 450,
+      "x": 13000,
+      "y": 1350
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare056.png",
+      "width": 1000,
+      "height": 450,
+      "x": 0,
+      "y": 1800
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare057.png",
+      "width": 1000,
+      "height": 450,
+      "x": 1000,
+      "y": 1800
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare058.png",
+      "width": 1000,
+      "height": 450,
+      "x": 2000,
+      "y": 1800
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare059.png",
+      "width": 1000,
+      "height": 450,
+      "x": 3000,
+      "y": 1800
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare060.png",
+      "width": 1000,
+      "height": 450,
+      "x": 4000,
+      "y": 1800
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare061.png",
+      "width": 1000,
+      "height": 450,
+      "x": 5000,
+      "y": 1800
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare062.png",
+      "width": 1000,
+      "height": 450,
+      "x": 6000,
+      "y": 1800
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare063.png",
+      "width": 1000,
+      "height": 450,
+      "x": 7000,
+      "y": 1800
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare064.png",
+      "width": 1000,
+      "height": 450,
+      "x": 8000,
+      "y": 1800
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare065.png",
+      "width": 1000,
+      "height": 450,
+      "x": 9000,
+      "y": 1800
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare066.png",
+      "width": 1000,
+      "height": 450,
+      "x": 10000,
+      "y": 1800
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare067.png",
+      "width": 1000,
+      "height": 450,
+      "x": 11000,
+      "y": 1800
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare068.png",
+      "width": 1000,
+      "height": 450,
+      "x": 12000,
+      "y": 1800
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare069.png",
+      "width": 1000,
+      "height": 450,
+      "x": 13000,
+      "y": 1800
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare070.png",
+      "width": 1000,
+      "height": 450,
+      "x": 0,
+      "y": 2250
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare071.png",
+      "width": 1000,
+      "height": 450,
+      "x": 1000,
+      "y": 2250
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare072.png",
+      "width": 1000,
+      "height": 450,
+      "x": 2000,
+      "y": 2250
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare073.png",
+      "width": 1000,
+      "height": 450,
+      "x": 3000,
+      "y": 2250
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare074.png",
+      "width": 1000,
+      "height": 450,
+      "x": 4000,
+      "y": 2250
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare075.png",
+      "width": 1000,
+      "height": 450,
+      "x": 5000,
+      "y": 2250
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare076.png",
+      "width": 1000,
+      "height": 450,
+      "x": 6000,
+      "y": 2250
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare077.png",
+      "width": 1000,
+      "height": 450,
+      "x": 7000,
+      "y": 2250
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare078.png",
+      "width": 1000,
+      "height": 450,
+      "x": 8000,
+      "y": 2250
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare079.png",
+      "width": 1000,
+      "height": 450,
+      "x": 9000,
+      "y": 2250
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare080.png",
+      "width": 1000,
+      "height": 450,
+      "x": 10000,
+      "y": 2250
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare081.png",
+      "width": 1000,
+      "height": 450,
+      "x": 11000,
+      "y": 2250
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare082.png",
+      "width": 1000,
+      "height": 450,
+      "x": 12000,
+      "y": 2250
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare083.png",
+      "width": 1000,
+      "height": 450,
+      "x": 13000,
+      "y": 2250
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare084.png",
+      "width": 1000,
+      "height": 450,
+      "x": 0,
+      "y": 2700
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare085.png",
+      "width": 1000,
+      "height": 450,
+      "x": 1000,
+      "y": 2700
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare086.png",
+      "width": 1000,
+      "height": 450,
+      "x": 2000,
+      "y": 2700
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare087.png",
+      "width": 1000,
+      "height": 450,
+      "x": 3000,
+      "y": 2700
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare088.png",
+      "width": 1000,
+      "height": 450,
+      "x": 4000,
+      "y": 2700
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare089.png",
+      "width": 1000,
+      "height": 450,
+      "x": 5000,
+      "y": 2700
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare090.png",
+      "width": 1000,
+      "height": 450,
+      "x": 6000,
+      "y": 2700
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare091.png",
+      "width": 1000,
+      "height": 450,
+      "x": 7000,
+      "y": 2700
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare092.png",
+      "width": 1000,
+      "height": 450,
+      "x": 8000,
+      "y": 2700
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare093.png",
+      "width": 1000,
+      "height": 450,
+      "x": 9000,
+      "y": 2700
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare094.png",
+      "width": 1000,
+      "height": 450,
+      "x": 10000,
+      "y": 2700
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare095.png",
+      "width": 1000,
+      "height": 450,
+      "x": 11000,
+      "y": 2700
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare096.png",
+      "width": 1000,
+      "height": 450,
+      "x": 12000,
+      "y": 2700
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare097.png",
+      "width": 1000,
+      "height": 450,
+      "x": 13000,
+      "y": 2700
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare098.png",
+      "width": 1000,
+      "height": 450,
+      "x": 0,
+      "y": 3150
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare099.png",
+      "width": 1000,
+      "height": 450,
+      "x": 1000,
+      "y": 3150
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare100.png",
+      "width": 1000,
+      "height": 450,
+      "x": 2000,
+      "y": 3150
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare101.png",
+      "width": 1000,
+      "height": 450,
+      "x": 3000,
+      "y": 3150
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare102.png",
+      "width": 1000,
+      "height": 450,
+      "x": 4000,
+      "y": 3150
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare103.png",
+      "width": 1000,
+      "height": 450,
+      "x": 5000,
+      "y": 3150
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare104.png",
+      "width": 1000,
+      "height": 450,
+      "x": 6000,
+      "y": 3150
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare105.png",
+      "width": 1000,
+      "height": 450,
+      "x": 7000,
+      "y": 3150
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare106.png",
+      "width": 1000,
+      "height": 450,
+      "x": 8000,
+      "y": 3150
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare107.png",
+      "width": 1000,
+      "height": 450,
+      "x": 9000,
+      "y": 3150
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare108.png",
+      "width": 1000,
+      "height": 450,
+      "x": 10000,
+      "y": 3150
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare109.png",
+      "width": 1000,
+      "height": 450,
+      "x": 11000,
+      "y": 3150
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare110.png",
+      "width": 1000,
+      "height": 450,
+      "x": 12000,
+      "y": 3150
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare111.png",
+      "width": 1000,
+      "height": 450,
+      "x": 13000,
+      "y": 3150
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare112.png",
+      "width": 1000,
+      "height": 450,
+      "x": 0,
+      "y": 3600
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare113.png",
+      "width": 1000,
+      "height": 450,
+      "x": 1000,
+      "y": 3600
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare114.png",
+      "width": 1000,
+      "height": 450,
+      "x": 2000,
+      "y": 3600
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare115.png",
+      "width": 1000,
+      "height": 450,
+      "x": 3000,
+      "y": 3600
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare116.png",
+      "width": 1000,
+      "height": 450,
+      "x": 4000,
+      "y": 3600
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare117.png",
+      "width": 1000,
+      "height": 450,
+      "x": 5000,
+      "y": 3600
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare118.png",
+      "width": 1000,
+      "height": 450,
+      "x": 6000,
+      "y": 3600
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare119.png",
+      "width": 1000,
+      "height": 450,
+      "x": 7000,
+      "y": 3600
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare120.png",
+      "width": 1000,
+      "height": 450,
+      "x": 8000,
+      "y": 3600
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare121.png",
+      "width": 1000,
+      "height": 450,
+      "x": 9000,
+      "y": 3600
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare122.png",
+      "width": 1000,
+      "height": 450,
+      "x": 10000,
+      "y": 3600
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare123.png",
+      "width": 1000,
+      "height": 450,
+      "x": 11000,
+      "y": 3600
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare124.png",
+      "width": 1000,
+      "height": 450,
+      "x": 12000,
+      "y": 3600
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare125.png",
+      "width": 1000,
+      "height": 450,
+      "x": 13000,
+      "y": 3600
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare126.png",
+      "width": 1000,
+      "height": 450,
+      "x": 0,
+      "y": 4050
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare127.png",
+      "width": 1000,
+      "height": 450,
+      "x": 1000,
+      "y": 4050
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare128.png",
+      "width": 1000,
+      "height": 450,
+      "x": 2000,
+      "y": 4050
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare129.png",
+      "width": 1000,
+      "height": 450,
+      "x": 3000,
+      "y": 4050
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare130.png",
+      "width": 1000,
+      "height": 450,
+      "x": 4000,
+      "y": 4050
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare131.png",
+      "width": 1000,
+      "height": 450,
+      "x": 5000,
+      "y": 4050
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare132.png",
+      "width": 1000,
+      "height": 450,
+      "x": 6000,
+      "y": 4050
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare133.png",
+      "width": 1000,
+      "height": 450,
+      "x": 7000,
+      "y": 4050
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare134.png",
+      "width": 1000,
+      "height": 450,
+      "x": 8000,
+      "y": 4050
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare135.png",
+      "width": 1000,
+      "height": 450,
+      "x": 9000,
+      "y": 4050
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare136.png",
+      "width": 1000,
+      "height": 450,
+      "x": 10000,
+      "y": 4050
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare137.png",
+      "width": 1000,
+      "height": 450,
+      "x": 11000,
+      "y": 4050
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare138.png",
+      "width": 1000,
+      "height": 450,
+      "x": 12000,
+      "y": 4050
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare139.png",
+      "width": 1000,
+      "height": 450,
+      "x": 13000,
+      "y": 4050
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare140.png",
+      "width": 1000,
+      "height": 450,
+      "x": 0,
+      "y": 4500
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare141.png",
+      "width": 1000,
+      "height": 450,
+      "x": 1000,
+      "y": 4500
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare142.png",
+      "width": 1000,
+      "height": 450,
+      "x": 2000,
+      "y": 4500
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare143.png",
+      "width": 1000,
+      "height": 450,
+      "x": 3000,
+      "y": 4500
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare144.png",
+      "width": 1000,
+      "height": 450,
+      "x": 4000,
+      "y": 4500
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare145.png",
+      "width": 1000,
+      "height": 450,
+      "x": 5000,
+      "y": 4500
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare146.png",
+      "width": 1000,
+      "height": 450,
+      "x": 6000,
+      "y": 4500
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare147.png",
+      "width": 1000,
+      "height": 450,
+      "x": 7000,
+      "y": 4500
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare148.png",
+      "width": 1000,
+      "height": 450,
+      "x": 8000,
+      "y": 4500
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare149.png",
+      "width": 1000,
+      "height": 450,
+      "x": 9000,
+      "y": 4500
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare150.png",
+      "width": 1000,
+      "height": 450,
+      "x": 10000,
+      "y": 4500
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare151.png",
+      "width": 1000,
+      "height": 450,
+      "x": 11000,
+      "y": 4500
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare152.png",
+      "width": 1000,
+      "height": 450,
+      "x": 12000,
+      "y": 4500
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare153.png",
+      "width": 1000,
+      "height": 450,
+      "x": 13000,
+      "y": 4500
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare154.png",
+      "width": 1000,
+      "height": 450,
+      "x": 0,
+      "y": 4950
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare155.png",
+      "width": 1000,
+      "height": 450,
+      "x": 1000,
+      "y": 4950
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare156.png",
+      "width": 1000,
+      "height": 450,
+      "x": 2000,
+      "y": 4950
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare157.png",
+      "width": 1000,
+      "height": 450,
+      "x": 3000,
+      "y": 4950
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare158.png",
+      "width": 1000,
+      "height": 450,
+      "x": 4000,
+      "y": 4950
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare159.png",
+      "width": 1000,
+      "height": 450,
+      "x": 5000,
+      "y": 4950
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare160.png",
+      "width": 1000,
+      "height": 450,
+      "x": 6000,
+      "y": 4950
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare161.png",
+      "width": 1000,
+      "height": 450,
+      "x": 7000,
+      "y": 4950
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare162.png",
+      "width": 1000,
+      "height": 450,
+      "x": 8000,
+      "y": 4950
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare163.png",
+      "width": 1000,
+      "height": 450,
+      "x": 9000,
+      "y": 4950
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare164.png",
+      "width": 1000,
+      "height": 450,
+      "x": 10000,
+      "y": 4950
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare165.png",
+      "width": 1000,
+      "height": 450,
+      "x": 11000,
+      "y": 4950
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare166.png",
+      "width": 1000,
+      "height": 450,
+      "x": 12000,
+      "y": 4950
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare167.png",
+      "width": 1000,
+      "height": 450,
+      "x": 13000,
+      "y": 4950
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare168.png",
+      "width": 1000,
+      "height": 450,
+      "x": 0,
+      "y": 5400
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare169.png",
+      "width": 1000,
+      "height": 450,
+      "x": 1000,
+      "y": 5400
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare170.png",
+      "width": 1000,
+      "height": 450,
+      "x": 2000,
+      "y": 5400
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare171.png",
+      "width": 1000,
+      "height": 450,
+      "x": 3000,
+      "y": 5400
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare172.png",
+      "width": 1000,
+      "height": 450,
+      "x": 4000,
+      "y": 5400
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare173.png",
+      "width": 1000,
+      "height": 450,
+      "x": 5000,
+      "y": 5400
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare174.png",
+      "width": 1000,
+      "height": 450,
+      "x": 6000,
+      "y": 5400
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare175.png",
+      "width": 1000,
+      "height": 450,
+      "x": 7000,
+      "y": 5400
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare176.png",
+      "width": 1000,
+      "height": 450,
+      "x": 8000,
+      "y": 5400
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare177.png",
+      "width": 1000,
+      "height": 450,
+      "x": 9000,
+      "y": 5400
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare178.png",
+      "width": 1000,
+      "height": 450,
+      "x": 10000,
+      "y": 5400
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare179.png",
+      "width": 1000,
+      "height": 450,
+      "x": 11000,
+      "y": 5400
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare180.png",
+      "width": 1000,
+      "height": 450,
+      "x": 12000,
+      "y": 5400
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare181.png",
+      "width": 1000,
+      "height": 450,
+      "x": 13000,
+      "y": 5400
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare182.png",
+      "width": 1000,
+      "height": 450,
+      "x": 0,
+      "y": 5850
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare183.png",
+      "width": 1000,
+      "height": 450,
+      "x": 1000,
+      "y": 5850
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare184.png",
+      "width": 1000,
+      "height": 450,
+      "x": 2000,
+      "y": 5850
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare185.png",
+      "width": 1000,
+      "height": 450,
+      "x": 3000,
+      "y": 5850
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare186.png",
+      "width": 1000,
+      "height": 450,
+      "x": 4000,
+      "y": 5850
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare187.png",
+      "width": 1000,
+      "height": 450,
+      "x": 5000,
+      "y": 5850
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare188.png",
+      "width": 1000,
+      "height": 450,
+      "x": 6000,
+      "y": 5850
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare189.png",
+      "width": 1000,
+      "height": 450,
+      "x": 7000,
+      "y": 5850
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare190.png",
+      "width": 1000,
+      "height": 450,
+      "x": 8000,
+      "y": 5850
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare191.png",
+      "width": 1000,
+      "height": 450,
+      "x": 9000,
+      "y": 5850
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare192.png",
+      "width": 1000,
+      "height": 450,
+      "x": 10000,
+      "y": 5850
+    },
+    {
+      "fileName": "fnaf-2-puppet-golden-freddy-jumpscare193.png",
+      "width": 1000,
+      "height": 450,
+      "x": 11000,
+      "y": 5850
+    }
+  ],
+  "packMode": "grid",
+  "padding": 0,
+  "backgroundColor": "rgba(0, 0, 0, 0)",
+  "spriteSheetWidth": 14000,
+  "spriteSheetHeight": 6300
+}

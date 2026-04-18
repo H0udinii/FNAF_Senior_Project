@@ -1,20 +1,19 @@
  // use a script tag or an external JS file
  document.addEventListener("DOMContentLoaded", (event) => {
-  gsap.registerPlugin(ScrollTrigger)
-  // gsap code here!
- ScrollTrigger.create({
-  trigger: "div",
-  start:"top",
-  end: "+=900",
-  endTrigger: "h1",
-  pin: true,
-  markers: true
-  })
 
-  let sections = gsap.utils.toArray(".parallax_foxy");
-  sections.forEach(section =>{
-    let canvas = section.querySelector("canvas");
-    canvas ? intitCanvas(section, canvas): initOther(section);
+gsap.to("#FNAF", {
+  scrollTrigger: {
+    // trigger: "#FNAF img", // Element that triggers pinning
+    start: "top top",             // Start when top of section hits top of viewport
+    // end: "+=" + (window.innerHeight + 10),   
+	  end: "+=200%",// End after scrolling 100% of container height
+    pin: true,                    // Pin the container
+    scrub: true,                  // Link animation to scrollbar
+    markers: false                // Set to true to debug
+  },
+  opacity: 0,                     // Fade out
+  // scale: 0.9,                     // Optional: slight zoom out
+  ease: "power2.inOut"
 });
 
 
