@@ -67,1217 +67,510 @@
       "fileName": "stage_abby_1009.png",
       "width": 1370,
       "height": 922,
-      "x": 12330,
-      "y": 0
+      "x": 0,
+      "y": 922
     },
     {
       "fileName": "stage_abby_1010.png",
       "width": 1370,
       "height": 922,
-      "x": 13700,
-      "y": 0
+      "x": 1370,
+      "y": 922
     },
     {
       "fileName": "stage_abby_1011.png",
       "width": 1370,
       "height": 922,
-      "x": 15070,
-      "y": 0
+      "x": 2740,
+      "y": 922
     },
     {
       "fileName": "stage_abby_1012.png",
       "width": 1370,
       "height": 922,
-      "x": 16440,
-      "y": 0
+      "x": 4110,
+      "y": 922
     },
     {
       "fileName": "stage_abby_1013.png",
       "width": 1370,
       "height": 922,
-      "x": 17810,
-      "y": 0
+      "x": 5480,
+      "y": 922
     },
     {
       "fileName": "stage_abby_1014.png",
       "width": 1370,
       "height": 922,
-      "x": 0,
+      "x": 6850,
       "y": 922
     },
     {
       "fileName": "stage_abby_1015.png",
       "width": 1370,
       "height": 922,
-      "x": 1370,
+      "x": 8220,
       "y": 922
     },
     {
       "fileName": "stage_abby_1016.png",
       "width": 1370,
       "height": 922,
-      "x": 2740,
+      "x": 9590,
       "y": 922
     },
     {
       "fileName": "stage_abby_1017.png",
       "width": 1370,
       "height": 922,
-      "x": 4110,
+      "x": 10960,
       "y": 922
     },
     {
       "fileName": "stage_abby_1018.png",
       "width": 1370,
       "height": 922,
-      "x": 5480,
-      "y": 922
+      "x": 0,
+      "y": 1844
     },
     {
       "fileName": "stage_abby_1019.png",
       "width": 1370,
       "height": 922,
-      "x": 6850,
-      "y": 922
+      "x": 1370,
+      "y": 1844
     },
     {
       "fileName": "stage_abby_1020.png",
       "width": 1370,
       "height": 922,
-      "x": 8220,
-      "y": 922
+      "x": 2740,
+      "y": 1844
     },
     {
       "fileName": "stage_abby_1021.png",
       "width": 1370,
       "height": 922,
-      "x": 9590,
-      "y": 922
+      "x": 4110,
+      "y": 1844
     },
     {
       "fileName": "stage_abby_1022.png",
       "width": 1370,
       "height": 922,
-      "x": 10960,
-      "y": 922
+      "x": 5480,
+      "y": 1844
     },
     {
       "fileName": "stage_abby_1023.png",
       "width": 1370,
       "height": 922,
-      "x": 12330,
-      "y": 922
+      "x": 6850,
+      "y": 1844
     },
     {
       "fileName": "stage_abby_1024.png",
       "width": 1370,
       "height": 922,
-      "x": 13700,
-      "y": 922
+      "x": 8220,
+      "y": 1844
     },
     {
       "fileName": "stage_abby_1025.png",
       "width": 1370,
       "height": 922,
-      "x": 15070,
-      "y": 922
+      "x": 9590,
+      "y": 1844
     },
     {
       "fileName": "stage_abby_1026.png",
       "width": 1370,
       "height": 922,
-      "x": 16440,
-      "y": 922
+      "x": 10960,
+      "y": 1844
     },
     {
       "fileName": "stage_abby_1027.png",
       "width": 1370,
       "height": 922,
-      "x": 17810,
-      "y": 922
+      "x": 0,
+      "y": 2766
     },
     {
       "fileName": "stage_abby_1028.png",
       "width": 1370,
       "height": 922,
-      "x": 0,
-      "y": 1844
+      "x": 1370,
+      "y": 2766
     },
     {
       "fileName": "stage_abby_1029.png",
       "width": 1370,
       "height": 922,
-      "x": 1370,
-      "y": 1844
+      "x": 2740,
+      "y": 2766
     },
     {
       "fileName": "stage_abby_1030.png",
       "width": 1370,
       "height": 922,
-      "x": 2740,
-      "y": 1844
+      "x": 4110,
+      "y": 2766
     },
     {
       "fileName": "stage_abby_1031.png",
       "width": 1370,
       "height": 922,
-      "x": 4110,
-      "y": 1844
+      "x": 5480,
+      "y": 2766
     },
     {
       "fileName": "stage_abby_1032.png",
       "width": 1370,
       "height": 922,
-      "x": 5480,
-      "y": 1844
+      "x": 6850,
+      "y": 2766
     },
     {
       "fileName": "stage_abby_1033.png",
       "width": 1370,
       "height": 922,
-      "x": 6850,
-      "y": 1844
+      "x": 8220,
+      "y": 2766
     },
     {
       "fileName": "stage_abby_1034.png",
       "width": 1370,
       "height": 922,
-      "x": 8220,
-      "y": 1844
+      "x": 9590,
+      "y": 2766
     },
     {
       "fileName": "stage_abby_1035.png",
       "width": 1370,
       "height": 922,
-      "x": 9590,
-      "y": 1844
+      "x": 10960,
+      "y": 2766
     },
     {
       "fileName": "stage_abby_1036.png",
       "width": 1370,
       "height": 922,
-      "x": 10960,
-      "y": 1844
+      "x": 0,
+      "y": 3688
     },
     {
       "fileName": "stage_abby_1037.png",
       "width": 1370,
       "height": 922,
-      "x": 12330,
-      "y": 1844
+      "x": 1370,
+      "y": 3688
     },
     {
       "fileName": "stage_abby_1038.png",
       "width": 1370,
       "height": 922,
-      "x": 13700,
-      "y": 1844
+      "x": 2740,
+      "y": 3688
     },
     {
       "fileName": "stage_abby_1039.png",
       "width": 1370,
       "height": 922,
-      "x": 15070,
-      "y": 1844
-    },
-    {
-      "fileName": "stage_abby_1040.png",
-      "width": 1370,
-      "height": 922,
-      "x": 16440,
-      "y": 1844
-    },
-    {
-      "fileName": "stage_abby_1041.png",
-      "width": 1370,
-      "height": 922,
-      "x": 17810,
-      "y": 1844
-    },
-    {
-      "fileName": "stage_abby_1042.png",
-      "width": 1370,
-      "height": 922,
-      "x": 0,
-      "y": 2766
-    },
-    {
-      "fileName": "stage_abby_1043.png",
-      "width": 1370,
-      "height": 922,
-      "x": 1370,
-      "y": 2766
-    },
-    {
-      "fileName": "stage_abby_1044.png",
-      "width": 1370,
-      "height": 922,
-      "x": 2740,
-      "y": 2766
-    },
-    {
-      "fileName": "stage_abby_1045.png",
-      "width": 1370,
-      "height": 922,
       "x": 4110,
-      "y": 2766
-    },
-    {
-      "fileName": "stage_abby_1046.png",
-      "width": 1370,
-      "height": 922,
-      "x": 5480,
-      "y": 2766
-    },
-    {
-      "fileName": "stage_abby_1047.png",
-      "width": 1370,
-      "height": 922,
-      "x": 6850,
-      "y": 2766
-    },
-    {
-      "fileName": "stage_abby_1048.png",
-      "width": 1370,
-      "height": 922,
-      "x": 8220,
-      "y": 2766
-    },
-    {
-      "fileName": "stage_abby_1049.png",
-      "width": 1370,
-      "height": 922,
-      "x": 9590,
-      "y": 2766
-    },
-    {
-      "fileName": "stage_abby_1050.png",
-      "width": 1370,
-      "height": 922,
-      "x": 10960,
-      "y": 2766
-    },
-    {
-      "fileName": "stage_abby_1051.png",
-      "width": 1370,
-      "height": 922,
-      "x": 12330,
-      "y": 2766
-    },
-    {
-      "fileName": "stage_abby_1052.png",
-      "width": 1370,
-      "height": 922,
-      "x": 13700,
-      "y": 2766
-    },
-    {
-      "fileName": "stage_abby_1053.png",
-      "width": 1370,
-      "height": 922,
-      "x": 15070,
-      "y": 2766
-    },
-    {
-      "fileName": "stage_abby_1054.png",
-      "width": 1370,
-      "height": 922,
-      "x": 16440,
-      "y": 2766
+      "y": 3688
     },
     {
       "fileName": "stage_abby_1055.png",
       "width": 1370,
       "height": 922,
-      "x": 17810,
-      "y": 2766
-    },
-    {
-      "fileName": "stage_abby_1056.png",
-      "width": 1370,
-      "height": 922,
-      "x": 0,
-      "y": 3688
-    },
-    {
-      "fileName": "stage_abby_1057.png",
-      "width": 1370,
-      "height": 922,
-      "x": 1370,
-      "y": 3688
-    },
-    {
-      "fileName": "stage_abby_1058.png",
-      "width": 1370,
-      "height": 922,
-      "x": 2740,
-      "y": 3688
-    },
-    {
-      "fileName": "stage_abby_1059.png",
-      "width": 1370,
-      "height": 922,
-      "x": 4110,
-      "y": 3688
-    },
-    {
-      "fileName": "stage_abby_1060.png",
-      "width": 1370,
-      "height": 922,
       "x": 5480,
       "y": 3688
-    },
-    {
-      "fileName": "stage_abby_1061.png",
-      "width": 1370,
-      "height": 922,
-      "x": 6850,
-      "y": 3688
-    },
-    {
-      "fileName": "stage_abby_1062.png",
-      "width": 1370,
-      "height": 922,
-      "x": 8220,
-      "y": 3688
-    },
-    {
-      "fileName": "stage_abby_1063.png",
-      "width": 1370,
-      "height": 922,
-      "x": 9590,
-      "y": 3688
-    },
-    {
-      "fileName": "stage_abby_1064.png",
-      "width": 1370,
-      "height": 922,
-      "x": 10960,
-      "y": 3688
-    },
-    {
-      "fileName": "stage_abby_1065.png",
-      "width": 1370,
-      "height": 922,
-      "x": 12330,
-      "y": 3688
-    },
-    {
-      "fileName": "stage_abby_1066.png",
-      "width": 1370,
-      "height": 922,
-      "x": 13700,
-      "y": 3688
-    },
-    {
-      "fileName": "stage_abby_1067.png",
-      "width": 1370,
-      "height": 922,
-      "x": 15070,
-      "y": 3688
-    },
-    {
-      "fileName": "stage_abby_1068.png",
-      "width": 1370,
-      "height": 922,
-      "x": 16440,
-      "y": 3688
-    },
-    {
-      "fileName": "stage_abby_1069.png",
-      "width": 1370,
-      "height": 922,
-      "x": 17810,
-      "y": 3688
-    },
-    {
-      "fileName": "stage_abby_1070.png",
-      "width": 1370,
-      "height": 922,
-      "x": 0,
-      "y": 4610
-    },
-    {
-      "fileName": "stage_abby_1071.png",
-      "width": 1370,
-      "height": 922,
-      "x": 1370,
-      "y": 4610
-    },
-    {
-      "fileName": "stage_abby_1072.png",
-      "width": 1370,
-      "height": 922,
-      "x": 2740,
-      "y": 4610
-    },
-    {
-      "fileName": "stage_abby_1073.png",
-      "width": 1370,
-      "height": 922,
-      "x": 4110,
-      "y": 4610
-    },
-    {
-      "fileName": "stage_abby_1074.png",
-      "width": 1370,
-      "height": 922,
-      "x": 5480,
-      "y": 4610
-    },
-    {
-      "fileName": "stage_abby_1075.png",
-      "width": 1370,
-      "height": 922,
-      "x": 6850,
-      "y": 4610
-    },
-    {
-      "fileName": "stage_abby_1076.png",
-      "width": 1370,
-      "height": 922,
-      "x": 8220,
-      "y": 4610
-    },
-    {
-      "fileName": "stage_abby_1077.png",
-      "width": 1370,
-      "height": 922,
-      "x": 9590,
-      "y": 4610
-    },
-    {
-      "fileName": "stage_abby_1078.png",
-      "width": 1370,
-      "height": 922,
-      "x": 10960,
-      "y": 4610
-    },
-    {
-      "fileName": "stage_abby_1079.png",
-      "width": 1370,
-      "height": 922,
-      "x": 12330,
-      "y": 4610
-    },
-    {
-      "fileName": "stage_abby_1080.png",
-      "width": 1370,
-      "height": 922,
-      "x": 13700,
-      "y": 4610
-    },
-    {
-      "fileName": "stage_abby_1081.png",
-      "width": 1370,
-      "height": 922,
-      "x": 15070,
-      "y": 4610
-    },
-    {
-      "fileName": "stage_abby_1082.png",
-      "width": 1370,
-      "height": 922,
-      "x": 16440,
-      "y": 4610
-    },
-    {
-      "fileName": "stage_abby_1083.png",
-      "width": 1370,
-      "height": 922,
-      "x": 17810,
-      "y": 4610
-    },
-    {
-      "fileName": "stage_abby_1084.png",
-      "width": 1370,
-      "height": 922,
-      "x": 0,
-      "y": 5532
-    },
-    {
-      "fileName": "stage_abby_1085.png",
-      "width": 1370,
-      "height": 922,
-      "x": 1370,
-      "y": 5532
-    },
-    {
-      "fileName": "stage_abby_1086.png",
-      "width": 1370,
-      "height": 922,
-      "x": 2740,
-      "y": 5532
-    },
-    {
-      "fileName": "stage_abby_1087.png",
-      "width": 1370,
-      "height": 922,
-      "x": 4110,
-      "y": 5532
-    },
-    {
-      "fileName": "stage_abby_1088.png",
-      "width": 1370,
-      "height": 922,
-      "x": 5480,
-      "y": 5532
-    },
-    {
-      "fileName": "stage_abby_1089.png",
-      "width": 1370,
-      "height": 922,
-      "x": 6850,
-      "y": 5532
-    },
-    {
-      "fileName": "stage_abby_1090.png",
-      "width": 1370,
-      "height": 922,
-      "x": 8220,
-      "y": 5532
-    },
-    {
-      "fileName": "stage_abby_1091.png",
-      "width": 1370,
-      "height": 922,
-      "x": 9590,
-      "y": 5532
-    },
-    {
-      "fileName": "stage_abby_1092.png",
-      "width": 1370,
-      "height": 922,
-      "x": 10960,
-      "y": 5532
-    },
-    {
-      "fileName": "stage_abby_1093.png",
-      "width": 1370,
-      "height": 922,
-      "x": 12330,
-      "y": 5532
-    },
-    {
-      "fileName": "stage_abby_1094.png",
-      "width": 1370,
-      "height": 922,
-      "x": 13700,
-      "y": 5532
-    },
-    {
-      "fileName": "stage_abby_1095.png",
-      "width": 1370,
-      "height": 922,
-      "x": 15070,
-      "y": 5532
-    },
-    {
-      "fileName": "stage_abby_1096.png",
-      "width": 1370,
-      "height": 922,
-      "x": 16440,
-      "y": 5532
-    },
-    {
-      "fileName": "stage_abby_1097.png",
-      "width": 1370,
-      "height": 922,
-      "x": 17810,
-      "y": 5532
-    },
-    {
-      "fileName": "stage_abby_1098.png",
-      "width": 1370,
-      "height": 922,
-      "x": 0,
-      "y": 6454
-    },
-    {
-      "fileName": "stage_abby_1099.png",
-      "width": 1370,
-      "height": 922,
-      "x": 1370,
-      "y": 6454
-    },
-    {
-      "fileName": "stage_abby_1100.png",
-      "width": 1370,
-      "height": 922,
-      "x": 2740,
-      "y": 6454
-    },
-    {
-      "fileName": "stage_abby_1101.png",
-      "width": 1370,
-      "height": 922,
-      "x": 4110,
-      "y": 6454
-    },
-    {
-      "fileName": "stage_abby_1102.png",
-      "width": 1370,
-      "height": 922,
-      "x": 5480,
-      "y": 6454
-    },
-    {
-      "fileName": "stage_abby_1103.png",
-      "width": 1370,
-      "height": 922,
-      "x": 6850,
-      "y": 6454
-    },
-    {
-      "fileName": "stage_abby_1104.png",
-      "width": 1370,
-      "height": 922,
-      "x": 8220,
-      "y": 6454
-    },
-    {
-      "fileName": "stage_abby_1105.png",
-      "width": 1370,
-      "height": 922,
-      "x": 9590,
-      "y": 6454
-    },
-    {
-      "fileName": "stage_abby_1106.png",
-      "width": 1370,
-      "height": 922,
-      "x": 10960,
-      "y": 6454
-    },
-    {
-      "fileName": "stage_abby_1107.png",
-      "width": 1370,
-      "height": 922,
-      "x": 12330,
-      "y": 6454
-    },
-    {
-      "fileName": "stage_abby_1108.png",
-      "width": 1370,
-      "height": 922,
-      "x": 13700,
-      "y": 6454
-    },
-    {
-      "fileName": "stage_abby_1109.png",
-      "width": 1370,
-      "height": 922,
-      "x": 15070,
-      "y": 6454
-    },
-    {
-      "fileName": "stage_abby_1110.png",
-      "width": 1370,
-      "height": 922,
-      "x": 16440,
-      "y": 6454
-    },
-    {
-      "fileName": "stage_abby_1111.png",
-      "width": 1370,
-      "height": 922,
-      "x": 17810,
-      "y": 6454
     },
     {
       "fileName": "stage_abby_1121.png",
       "width": 1370,
       "height": 922,
-      "x": 0,
-      "y": 7376
+      "x": 6850,
+      "y": 3688
     },
     {
       "fileName": "stage_abby_1122.png",
       "width": 1370,
       "height": 922,
-      "x": 1370,
-      "y": 7376
+      "x": 8220,
+      "y": 3688
     },
     {
       "fileName": "stage_abby_1123.png",
       "width": 1370,
       "height": 922,
-      "x": 2740,
-      "y": 7376
+      "x": 9590,
+      "y": 3688
     },
     {
       "fileName": "stage_abby_1124.png",
       "width": 1370,
       "height": 922,
-      "x": 4110,
-      "y": 7376
+      "x": 10960,
+      "y": 3688
     },
     {
       "fileName": "stage_abby_1125.png",
       "width": 1370,
       "height": 922,
-      "x": 5480,
-      "y": 7376
+      "x": 0,
+      "y": 4610
     },
     {
       "fileName": "stage_abby_1126.png",
       "width": 1370,
       "height": 922,
-      "x": 6850,
-      "y": 7376
+      "x": 1370,
+      "y": 4610
     },
     {
       "fileName": "stage_abby_1138.png",
       "width": 1370,
       "height": 922,
-      "x": 8220,
-      "y": 7376
+      "x": 2740,
+      "y": 4610
     },
     {
       "fileName": "stage_abby_1139.png",
       "width": 1370,
       "height": 922,
-      "x": 9590,
-      "y": 7376
+      "x": 4110,
+      "y": 4610
     },
     {
       "fileName": "stage_abby_1140.png",
       "width": 1370,
       "height": 922,
-      "x": 10960,
-      "y": 7376
+      "x": 5480,
+      "y": 4610
     },
     {
       "fileName": "stage_abby_1141.png",
       "width": 1370,
       "height": 922,
-      "x": 12330,
-      "y": 7376
+      "x": 6850,
+      "y": 4610
     },
     {
       "fileName": "stage_abby_1142.png",
       "width": 1370,
       "height": 922,
-      "x": 13700,
-      "y": 7376
+      "x": 8220,
+      "y": 4610
     },
     {
       "fileName": "stage_abby_1143.png",
       "width": 1370,
       "height": 922,
-      "x": 15070,
-      "y": 7376
+      "x": 9590,
+      "y": 4610
     },
     {
       "fileName": "stage_abby_1144.png",
       "width": 1370,
       "height": 922,
-      "x": 16440,
-      "y": 7376
+      "x": 10960,
+      "y": 4610
     },
     {
       "fileName": "stage_abby_1145.png",
       "width": 1370,
       "height": 922,
-      "x": 17810,
-      "y": 7376
-    },
-    {
-      "fileName": "stage_abby_1174.png",
-      "width": 1370,
-      "height": 922,
       "x": 0,
-      "y": 8298
-    },
-    {
-      "fileName": "stage_abby_1175.png",
-      "width": 1370,
-      "height": 922,
-      "x": 1370,
-      "y": 8298
-    },
-    {
-      "fileName": "stage_abby_1176.png",
-      "width": 1370,
-      "height": 922,
-      "x": 2740,
-      "y": 8298
-    },
-    {
-      "fileName": "stage_abby_1177.png",
-      "width": 1370,
-      "height": 922,
-      "x": 4110,
-      "y": 8298
-    },
-    {
-      "fileName": "stage_abby_1178.png",
-      "width": 1370,
-      "height": 922,
-      "x": 5480,
-      "y": 8298
-    },
-    {
-      "fileName": "stage_abby_1179.png",
-      "width": 1370,
-      "height": 922,
-      "x": 6850,
-      "y": 8298
-    },
-    {
-      "fileName": "stage_abby_1180.png",
-      "width": 1370,
-      "height": 922,
-      "x": 8220,
-      "y": 8298
-    },
-    {
-      "fileName": "stage_abby_1181.png",
-      "width": 1370,
-      "height": 922,
-      "x": 9590,
-      "y": 8298
-    },
-    {
-      "fileName": "stage_abby_1182.png",
-      "width": 1370,
-      "height": 922,
-      "x": 10960,
-      "y": 8298
-    },
-    {
-      "fileName": "stage_abby_1183.png",
-      "width": 1370,
-      "height": 922,
-      "x": 12330,
-      "y": 8298
-    },
-    {
-      "fileName": "stage_abby_1184.png",
-      "width": 1370,
-      "height": 922,
-      "x": 13700,
-      "y": 8298
-    },
-    {
-      "fileName": "stage_abby_1185.png",
-      "width": 1370,
-      "height": 922,
-      "x": 15070,
-      "y": 8298
-    },
-    {
-      "fileName": "stage_abby_1186.png",
-      "width": 1370,
-      "height": 922,
-      "x": 16440,
-      "y": 8298
-    },
-    {
-      "fileName": "stage_abby_1187.png",
-      "width": 1370,
-      "height": 922,
-      "x": 17810,
-      "y": 8298
-    },
-    {
-      "fileName": "stage_abby_1188.png",
-      "width": 1370,
-      "height": 922,
-      "x": 0,
-      "y": 9220
+      "y": 5532
     },
     {
       "fileName": "stage_abby_1189.png",
       "width": 1370,
       "height": 922,
       "x": 1370,
-      "y": 9220
+      "y": 5532
     },
     {
       "fileName": "stage_abby_1190.png",
       "width": 1370,
       "height": 922,
       "x": 2740,
-      "y": 9220
+      "y": 5532
     },
     {
       "fileName": "stage_abby_1191.png",
       "width": 1370,
       "height": 922,
       "x": 4110,
-      "y": 9220
+      "y": 5532
     },
     {
       "fileName": "stage_abby_1192.png",
       "width": 1370,
       "height": 922,
       "x": 5480,
-      "y": 9220
+      "y": 5532
     },
     {
       "fileName": "stage_abby_1193.png",
       "width": 1370,
       "height": 922,
       "x": 6850,
-      "y": 9220
+      "y": 5532
     },
     {
       "fileName": "stage_abby_1194.png",
       "width": 1370,
       "height": 922,
       "x": 8220,
-      "y": 9220
+      "y": 5532
     },
     {
       "fileName": "stage_abby_1195.png",
       "width": 1370,
       "height": 922,
       "x": 9590,
-      "y": 9220
+      "y": 5532
     },
     {
       "fileName": "stage_abby_1196.png",
       "width": 1370,
       "height": 922,
       "x": 10960,
-      "y": 9220
+      "y": 5532
     },
     {
       "fileName": "stage_abby_1197.png",
       "width": 1370,
       "height": 922,
-      "x": 12330,
-      "y": 9220
+      "x": 0,
+      "y": 6454
     },
     {
       "fileName": "stage_abby_1198.png",
       "width": 1370,
       "height": 922,
-      "x": 13700,
-      "y": 9220
+      "x": 1370,
+      "y": 6454
     },
     {
       "fileName": "stage_abby_1199.png",
       "width": 1370,
       "height": 922,
-      "x": 15070,
-      "y": 9220
+      "x": 2740,
+      "y": 6454
     },
     {
       "fileName": "stage_abby_1200.png",
       "width": 1370,
       "height": 922,
-      "x": 16440,
-      "y": 9220
+      "x": 4110,
+      "y": 6454
     },
     {
       "fileName": "stage_abby_1201.png",
       "width": 1370,
       "height": 922,
-      "x": 17810,
-      "y": 9220
+      "x": 5480,
+      "y": 6454
     },
     {
       "fileName": "stage_abby_1202.png",
       "width": 1370,
       "height": 922,
-      "x": 0,
-      "y": 10142
+      "x": 6850,
+      "y": 6454
     },
     {
       "fileName": "stage_abby_1203.png",
       "width": 1370,
       "height": 922,
-      "x": 1370,
-      "y": 10142
+      "x": 8220,
+      "y": 6454
     },
     {
       "fileName": "stage_abby_1204.png",
       "width": 1370,
       "height": 922,
-      "x": 2740,
-      "y": 10142
+      "x": 9590,
+      "y": 6454
     },
     {
       "fileName": "stage_abby_1205.png",
       "width": 1370,
       "height": 922,
-      "x": 4110,
-      "y": 10142
+      "x": 10960,
+      "y": 6454
     },
     {
       "fileName": "stage_abby_1206.png",
       "width": 1370,
       "height": 922,
-      "x": 5480,
-      "y": 10142
+      "x": 0,
+      "y": 7376
     },
     {
       "fileName": "stage_abby_1207.png",
       "width": 1370,
       "height": 922,
-      "x": 6850,
-      "y": 10142
+      "x": 1370,
+      "y": 7376
     },
     {
       "fileName": "stage_abby_1208.png",
       "width": 1370,
       "height": 922,
-      "x": 8220,
-      "y": 10142
+      "x": 2740,
+      "y": 7376
     },
     {
       "fileName": "stage_abby_1209.png",
       "width": 1370,
       "height": 922,
-      "x": 9590,
-      "y": 10142
+      "x": 4110,
+      "y": 7376
     },
     {
       "fileName": "stage_abby_1210.png",
       "width": 1370,
       "height": 922,
-      "x": 10960,
-      "y": 10142
+      "x": 5480,
+      "y": 7376
     },
     {
       "fileName": "stage_abby_1211.png",
       "width": 1370,
       "height": 922,
-      "x": 12330,
-      "y": 10142
+      "x": 6850,
+      "y": 7376
     },
     {
       "fileName": "stage_abby_1212.png",
       "width": 1370,
       "height": 922,
-      "x": 13700,
-      "y": 10142
+      "x": 8220,
+      "y": 7376
     },
     {
       "fileName": "stage_abby_1213.png",
       "width": 1370,
       "height": 922,
-      "x": 15070,
-      "y": 10142
+      "x": 9590,
+      "y": 7376
     },
     {
       "fileName": "stage_abby_1214.png",
       "width": 1370,
       "height": 922,
-      "x": 16440,
-      "y": 10142
-    },
-    {
-      "fileName": "stage_abby_1215.png",
-      "width": 1370,
-      "height": 922,
-      "x": 17810,
-      "y": 10142
-    },
-    {
-      "fileName": "stage_abby_1216.png",
-      "width": 1370,
-      "height": 922,
-      "x": 0,
-      "y": 11064
-    },
-    {
-      "fileName": "stage_abby_1217.png",
-      "width": 1370,
-      "height": 922,
-      "x": 1370,
-      "y": 11064
-    },
-    {
-      "fileName": "stage_abby_1218.png",
-      "width": 1370,
-      "height": 922,
-      "x": 2740,
-      "y": 11064
-    },
-    {
-      "fileName": "stage_abby_1219.png",
-      "width": 1370,
-      "height": 922,
-      "x": 4110,
-      "y": 11064
-    },
-    {
-      "fileName": "stage_abby_1220.png",
-      "width": 1370,
-      "height": 922,
-      "x": 5480,
-      "y": 11064
-    },
-    {
-      "fileName": "stage_abby_1221.png",
-      "width": 1370,
-      "height": 922,
-      "x": 6850,
-      "y": 11064
-    },
-    {
-      "fileName": "stage_abby_1222.png",
-      "width": 1370,
-      "height": 922,
-      "x": 8220,
-      "y": 11064
-    },
-    {
-      "fileName": "stage_abby_1223.png",
-      "width": 1370,
-      "height": 922,
-      "x": 9590,
-      "y": 11064
-    },
-    {
-      "fileName": "stage_abby_1224.png",
-      "width": 1370,
-      "height": 922,
       "x": 10960,
-      "y": 11064
-    },
-    {
-      "fileName": "stage_abby_1225.png",
-      "width": 1370,
-      "height": 922,
-      "x": 12330,
-      "y": 11064
-    },
-    {
-      "fileName": "stage_abby_1226.png",
-      "width": 1370,
-      "height": 922,
-      "x": 13700,
-      "y": 11064
-    },
-    {
-      "fileName": "stage_abby_1227.png",
-      "width": 1370,
-      "height": 922,
-      "x": 15070,
-      "y": 11064
-    },
-    {
-      "fileName": "stage_abby_1228.png",
-      "width": 1370,
-      "height": 922,
-      "x": 16440,
-      "y": 11064
-    },
-    {
-      "fileName": "stage_abby_1229.png",
-      "width": 1370,
-      "height": 922,
-      "x": 17810,
-      "y": 11064
+      "y": 7376
     }
   ],
   "packMode": "grid",
   "padding": 0,
   "backgroundColor": "rgba(0, 0, 0, 0)",
-  "spriteSheetWidth": 19180,
-  "spriteSheetHeight": 11986
+  "spriteSheetWidth": 12330,
+  "spriteSheetHeight": 8298
 }
