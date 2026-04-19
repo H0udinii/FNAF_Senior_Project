@@ -1,8 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
 
-  // ---------------------------
-  // TITLE FADE + PIN
-  // ---------------------------
+
+  // TITLE FADE + PIN //
   gsap.to("#FNAF", {
     scrollTrigger: {
       start: "top top",
@@ -15,9 +14,8 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
 
-  // ---------------------------
-  // HORIZONTAL SCROLL
-  // ---------------------------
+
+  // HORIZONTAL SCROLL // 
   const track = document.querySelector(".track");
 
   if (track) {
@@ -27,18 +25,18 @@ document.addEventListener("DOMContentLoaded", () => {
       scrollTrigger: {
         trigger: "#fnaf_1",
         start: "top top",
-        end: "+=2000",
-        scrub: true,
-        
+        end: "+=1000",
+        scrub: 1,
+        toggleActions: "play pause resume reset",
+        anticipatePin: 1,
         markers: true
       }
     });
   }
 
 
-  // ---------------------------
-  // FOXY CANVAS SPRITES
-  // ---------------------------
+  // FOXY CANVAS SPRITES //
+  
   const canvas = document.getElementById("foxy_canvas");
   const ctx = canvas.getContext("2d");
 
@@ -46,9 +44,9 @@ document.addEventListener("DOMContentLoaded", () => {
   let frames = [];
 
   fetch("./Assets/sprites/foxy_sprite.json")
-    .then(res => {
-      if (!res.ok) throw new Error("JSON not found");
-      return res.json();
+    .then(response => {
+      if (!response.ok) throw new Error("JSON not found");
+      return response.json();
     })
     .then(data => {
 

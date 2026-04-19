@@ -114,7 +114,7 @@ p{
  }
  
  #fredHead{
-    width: 100%;
+    width: 100vw;
     height: 100vh;
     
  }
@@ -128,8 +128,9 @@ p{
   display: grid;
   grid-template-columns: 4fr 3fr;
   overflow-x: scroll;
-  padding-top: 75px;
+  padding-right: 75px;
   padding-bottom: 200px;
+  
  }
 #foxy_canvas {
   display: block;
@@ -146,7 +147,7 @@ p{
 
 .track {
   display: flex;
-  width: 200vw;
+  width: 100vw;
   height: 100vh;
 }
 
