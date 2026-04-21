@@ -171,6 +171,11 @@ p{
   width: 100vw;
   height: 100vh;
 }
+#puppet_canvas {
+   display: block;
+  width: 100vw;
+  height: 100vh;
+}
  
 /* FNAF 4  */
 
