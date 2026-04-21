@@ -69,9 +69,9 @@ h1{
     font-size: 48pt;
 }
 p{
-    font-size: 14pt;
+    font-size: 12pt;
     line-height: 25px;
-    padding: 50px;
+    padding: 10px;
 }
 
 
@@ -129,16 +129,18 @@ p{
   grid-template-columns: 4fr 3fr;
   overflow-x: scroll;
   padding-right: 75px;
-  padding-bottom: 200px;
+  padding-bottom: 100px;
   
  }
-#foxy_canvas {
+#foxy_canvas{
   display: block;
   width: 100vw;
   height: 100vh;
  
 }
- 
+ #text1{
+    position: relative;
+ }
 #fnaf_1 {
   width: 100vw;
   height: 100vh;
@@ -151,13 +153,24 @@ p{
   height: 100vh;
 }
 
-.panel {
+#panel {
   width: 100vw;
   height: 100vh;
   flex-shrink: 0;
 }
  /* FNAF 2  */
- 
+ #zoom-in{
+    display: flex;
+    overflow: hidden;
+
+    overflow: hidden;
+    padding: 50px;
+ }
+ #abby_canvas {
+   display: block;
+  width: 100vw;
+  height: 100vh;
+}
  
 /* FNAF 4  */
 
