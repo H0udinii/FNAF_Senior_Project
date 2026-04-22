@@ -106,10 +106,8 @@ document.addEventListener("DOMContentLoaded", () => {
   gsap.to(".text_1", {
   opacity: 1,
   y: 0,
-  duration: 1,
   ease: "power2.out",
   scrollTrigger: {
-    trigger: "#fnaf_1",
     start: "bottom center",
     toggleActions: "play none none none"
   }
