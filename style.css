@@ -138,9 +138,16 @@ p{
   height: 100vh;
  
 }
- #text1{
-    position: relative;
+ .text_1{
+  position: relative;
+  z-index: 10;
+     opacity: 0;
+  transform: translateY(50px);
  }
+ .text_1.show {
+  opacity: 1;
+  transform: translateY(0);
+}
 #fnaf_1 {
   width: 100vw;
   height: 100vh;
@@ -159,6 +166,7 @@ p{
   flex-shrink: 0;
 }
  /* FNAF 2  */
+ 
  #zoom-in{
     display: flex;
     overflow: hidden;
@@ -208,7 +216,7 @@ img{
 */
 #FNAF{
 	position: relative;
-	z-index: -1;
+	z-index: 1;
 /* 	padding: 900px 0; */
 }
 

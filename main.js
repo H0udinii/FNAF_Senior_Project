@@ -64,34 +64,33 @@ document.addEventListener("DOMContentLoaded", () => {
         gsap.to(state, {
           frame: frames.length - 1,
           ease: "none",
+
           scrollTrigger: {
             trigger: "#fnaf_1",
             start: "top top",
+            end: "+=570%",
             pin: true,
-            end: "+=270%",
             scrub: true,
             markers: {
               startColor: "blue",
-              endcolor: "green"
-  }
+              endColor: "green"
+            },
+
+            onLeave: () => {
+              console.log("FOXY DONE");
+              console.log(document.querySelector(".text_1"));
+              document.querySelector(".text_1")?.classList.add("show");
+            }
             
           },
-          onUpdate: () => {
-            drawFoxyFrame(Math.floor(state.frame));
-          }
-        });
 
-      };
-    gsap.to(".text_1", {
-  scrollTrigger: {
-    trigger: "#fnaf_1",
-    start: "top",
-    end: "100px"
-  }
-});
-    });
+  onUpdate: () => {
+    drawFoxyFrame(Math.floor(state.frame));
+     }
+      });
 
-
+    };
+  });
   function drawFoxyFrame(index) {
     const f = frames[index];
     if (!f) return;
@@ -103,18 +102,31 @@ document.addEventListener("DOMContentLoaded", () => {
       f.x, f.y, f.width, f.height,
       0, 0, canvas.width, canvas.height
     );
+  };
+  gsap.to(".text_1", {
+  opacity: 1,
+  y: 0,
+  duration: 1,
+  ease: "power2.out",
+  scrollTrigger: {
+    trigger: "#fnaf_1",
+    start: "bottom center",
+    toggleActions: "play none none none"
   }
+});
+  
 // // Freddy's Pizzeria //
 // const {innerHeight} = window;
 
-// gsap.to("#zoom-in", {
+// gsap.to("#fnaf_2", {
 //   scale: 5, stagger: 0.50, duration:3,
 //   ease: "none",
 //   scrollTrigger:{
-//     trigger: "#fnaf_2 img",
-//   start: "bottom+=250px",
-//   end: "+=800px",
-//   pin: true,
+//     trigger: "#zoom-in",
+//   start: "top bottom",
+//   end: "+=3000",
+//   pin: "#fnaf_2",
+//   anticipatePin: 1,
 //   scrub: true,
 //   markers: {
 //     startColor: "orange",
@@ -182,7 +194,7 @@ document.addEventListener("DOMContentLoaded", () => {
   
 //   // Puppet Canvas
 //   const canvas3 = document.getElementById("puppet_canvas");
-//   const ctx3 = canvas2.getContext("2d");
+//   const ctx3 = canvas3.getContext("2d");
 
 //   let img3 = new Image();
 //   let frames3 = [];
