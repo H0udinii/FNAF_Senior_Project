@@ -15,82 +15,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 
-  // HORIZONTAL SCROLL // 
-  const track = document.querySelector(".track");
-
-  if (track) {
-    gsap.to(track, {
-      xPercent: -100,
-      ease: "none",
-      scrollTrigger: {
-        trigger: "#fnaf_1",
-        start: "top top",
-        end: "bottom",
-        scrub: 1,
-        toggleActions: "play pause resume reset",
-        anticipatePin: 1,
-        markers: {
-    startColor: "pink",
-    endcolor: "blue"
-  }
-      }
-    });
-  }
-
-
-  // Foxy Canvas //
-  
+ //  FNAF 1 //
   const canvas = document.getElementById("foxy_canvas");
   const ctx = canvas.getContext("2d");
 
   let img = new Image();
   let frames = [];
+  let state = { frame: 0 };
 
-  fetch("./Assets/sprites/foxy_sprite.json")
-    .then(response => {
-      if (!response.ok) throw new Error("JSON not found");
-      return response.json();
-    })
-    .then(data => {
-
-      frames = data.sprites;
-
-      img.src = "./Assets/sprites/foxy_spritesheet.png";
-
-      img.onload = () => {
-
-        const state = { frame: 0 };
-
-        gsap.to(state, {
-          frame: frames.length - 1,
-          ease: "none",
-
-          scrollTrigger: {
-            trigger: "#fnaf_1",
-            start: "top top",
-            end: "+=570%",
-            pin: true,
-            scrub: true,
-            markers: {
-              startColor: "blue",
-              endColor: "green"
-            },
-
-            onLeave: () => {
-              console.log("FOXY DONE");
-              console.log(document.querySelector(".text_1"));
-              document.querySelector(".text_1")?.classList.add("show");
-            }
-            
-          },
-
-  onUpdate: () => {
-    drawFoxyFrame(Math.floor(state.frame));
-     }
-      });
-
-    };
-  });
   function drawFoxyFrame(index) {
     const f = frames[index];
     if (!f) return;
@@ -102,17 +34,70 @@ document.addEventListener("DOMContentLoaded", () => {
       f.x, f.y, f.width, f.height,
       0, 0, canvas.width, canvas.height
     );
-  };
-  gsap.to(".text_1", {
-  opacity: 1,
-  y: 0,
-  ease: "power2.out",
-  scrollTrigger: {
-    start: "bottom center",
-    toggleActions: "play none none none"
   }
-});
+
+  // Foxy Sprite Load //
+  fetch("./Assets/sprites/foxy_sprite.json")
+    .then(res => res.json())
+    .then(data => {
+      frames = data.sprites;
+      img.src = "./Assets/sprites/foxy_spritesheet.png";
+
+      img.onload = () => {
+
+        // ---------- MASTER TIMELINE ----------
+        const tl = gsap.timeline({
+          scrollTrigger: {
+            trigger: "#fnaf_1",
+            start: "top top",
+            end: "+=4000",   
+            scrub: 1,
+            pin: true,
+            anticipatePin: 1,
+            markers: true
+          }
+        });
+
+        // ---------- 1. HORIZONTAL SCROLL ----------
+        tl.to(".track", {
+          xPercent: -100,
+          ease: "none"
+        }, 0);
+
+        // ---------- 2. FOXY ANIMATION ----------
+        tl.to(state, {
+          frame: frames.length - 1,
+          duration: 1,
+         ease: "slow(0.5,0.5,false)",
+          onUpdate: () => {
+            drawFoxyFrame(Math.floor(state.frame));
+          }
+        }, 0);
+      };
+    });
   
+// Text Animation //
+
+gsap.fromTo(".text_1", 
+  { opacity: 0, y: 60 },
+  {
+    opacity: 1,
+    y: 0,
+    duration: 1,
+    ease: "power2.out",
+    scrollTrigger: {
+      trigger: ".text_1",
+      start: "top+=3500px top+=250px",
+      toggleActions: "play none none none",
+      markers: true
+    }
+  }
+);
+window.addEventListener("load", () => {
+  ScrollTrigger.refresh();
+});
+
+
 // // Freddy's Pizzeria //
 // const {innerHeight} = window;
 

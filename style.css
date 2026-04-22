@@ -129,7 +129,7 @@ h1{
  .parallax_freddy > *{
   display: grid;
   grid-template-columns: 4fr 3fr;
-  overflow-x: scroll;
+  
   padding-right: 75px;
   padding-bottom: 100px;
   
@@ -140,14 +140,13 @@ h1{
   height: 100vh;
  
 }
- .text_1{
-   position: relative; /* safest */
-   padding: 20px;
- }
+
 
 #fnaf_1 {
+  position: relative;
   width: 100vw;
   height: 100vh;
+  margin-bottom: 100vh;
   overflow: hidden;
 }
 
@@ -162,8 +161,35 @@ h1{
   height: 100vh;
   flex-shrink: 0;
 }
+.foxy-panel {
+  position: relative;
+}
+
+#foxy_canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.text_1 {
+  position: relative;   /* NOT fixed */
+  padding: 60px;
+  width: fit-content;
+  margin: 0 auto;
+
+  font-size: 36px;
+  line-height: 1.6;
+
+  opacity: 0; /* keep this */
+}
+.text_1 b{
+  font-size: 60px;
+}
+
  /* FNAF 2  */
- 
+ #fnaf_2{
+  
+ }
  #zoom-in{
     display: flex;
     overflow: hidden;
@@ -181,7 +207,7 @@ h1{
   width: 100vw;
   height: 100vh;
 }
- 
+
 /* FNAF 4  */
 
  
