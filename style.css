@@ -172,7 +172,7 @@ h1{
 }
 
 .text_1 {
-  position: relative;   /* NOT fixed */
+  position: relative; 
   padding: 60px;
   width: fit-content;
   margin: 0 auto;
@@ -180,7 +180,7 @@ h1{
   font-size: 36px;
   line-height: 1.6;
 
-  opacity: 0; /* keep this */
+  opacity: 0;
 }
 .text_1 b{
   font-size: 60px;

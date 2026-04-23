@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Foxy Sprite Load //
   fetch("./Assets/sprites/foxy_sprite.json")
-    .then(res => res.json())
+    .then(response => response.json())
     .then(data => {
       frames = data.sprites;
       img.src = "./Assets/sprites/foxy_spritesheet.png";
@@ -83,12 +83,13 @@ gsap.fromTo(".text_1",
   {
     opacity: 1,
     y: 0,
-    duration: 1,
+    duration: 3,
     ease: "power2.out",
     scrollTrigger: {
       trigger: ".text_1",
       start: "top+=3500px top+=250px",
       toggleActions: "play none none none",
+      scrub: 2,
       markers: true
     }
   }
