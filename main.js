@@ -53,8 +53,7 @@ document.addEventListener("DOMContentLoaded", () => {
             end: "+=4000",   
             scrub: 1,
             pin: true,
-            anticipatePin: 1,
-            markers: true
+            anticipatePin: 1
           }
         });
 
@@ -89,8 +88,7 @@ gsap.fromTo(".text_1",
       trigger: ".text_1",
       start: "top+=3500px top+=250px",
       toggleActions: "play none none none",
-      scrub: 2,
-      markers: true
+      scrub: 2
     }
   }
 );
@@ -154,8 +152,7 @@ Promise.all([
         start: "top 10%",
         end: "bottom+=5500px",
         pin: true,
-        scrub: true,
-        markers: true
+        scrub: true
       },
       onUpdate: () => drawAbbyFrame(Math.floor(state2.frame))
     });
@@ -169,8 +166,7 @@ Promise.all([
         start: "top 5%",
         end: "bottom+=6000px",
         pin: true,
-        scrub: true,
-        markers: true
+        scrub: true
       },
       onUpdate: () => drawPuppetFrame(Math.floor(state3.frame))
     });
@@ -242,11 +238,12 @@ Promise.all([
 
     
 // Timeline //
+const panels = document.querySelectorAll(".panel2").length;
 
     const tl = gsap.timeline({
       scrollTrigger: {
         trigger: "#fnaf_4",
-       start: "top top",
+       start: "100% top",
         end:  () => "+=" + window.innerWidth * 3, 
         scrub: true,
         pin: true,
@@ -259,9 +256,8 @@ Promise.all([
     // Horizontal Scroll //
 
     tl.to(".track2", {
-      xPercent: -200, 
+      xPercent: -200 * (panels - 1),
       ease: "none",
-      pin: true,
     }, 0);
 
 
@@ -270,7 +266,14 @@ Promise.all([
     tl.to(state4, {
       frame: frames4.length - 1,
       duration: 2,
-      ease: "slow(0.5,0.5,false)",
+      ease: "none",
+      scrollTrigger: {
+      containerAnimation: tl,
+      trigger: "#bedroom_canvas",
+      start: "left",
+      end: "right",
+      scrub: true
+},
       onUpdate: () => drawMenuFrame(Math.floor(state4.frame))
     }, 0.5);
 
