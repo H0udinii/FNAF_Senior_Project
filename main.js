@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       img.onload = () => {
 
-        // ---------- MASTER TIMELINE ----------
+        // Master Timeline // 
         const tl = gsap.timeline({
           scrollTrigger: {
             trigger: "#fnaf_1",
@@ -58,13 +58,13 @@ document.addEventListener("DOMContentLoaded", () => {
           }
         });
 
-        // ---------- 1. HORIZONTAL SCROLL ----------
+        // Horizontal Scroll //
         tl.to(".track", {
           xPercent: -100,
           ease: "none"
         }, 0);
 
-        // ---------- 2. FOXY ANIMATION ----------
+        // Foxy Animation // 
         tl.to(state, {
           frame: frames.length - 1,
           duration: 1,
@@ -94,6 +94,110 @@ gsap.fromTo(".text_1",
     }
   }
 );
+
+// FNAF 2 //
+const canvas2 = document.getElementById("abby_canvas");
+  const ctx2 = canvas2.getContext("2d");
+
+  let img2 = new Image();
+  let frames2 = [];
+  let state2 = { frame: 0 };
+
+  function drawAbbyFrame(index) {
+    const f = frames2[index];
+    if (!f) return;
+
+    ctx2.clearRect(0, 0, canvas2.width, canvas2.height);
+
+    ctx2.drawImage(
+      img2,
+      f.x, f.y, f.width, f.height,
+      0, 0, canvas2.width, canvas2.height
+    );
+  }
+
+  const canvas3 = document.getElementById("puppet_canvas");
+  const ctx3 = canvas3.getContext("2d");
+
+  let img3 = new Image();
+  let frames3 = [];
+  let state3 = { frame: 0 };
+
+  function drawPuppetFrame(index) {
+    const f = frames3[index];
+    if (!f) return;
+
+    ctx3.clearRect(0, 0, canvas3.width, canvas3.height);
+
+    ctx3.drawImage(
+      img3,
+      f.x, f.y, f.width, f.height,
+      0, 0, canvas3.width, canvas3.height
+    );
+  }
+  // Abby Canvas //
+  fetch("./Assets/sprites/abby_stage_sprite.json")
+    .then(response => response.json())
+    .then(data => {
+      frames2 = data.sprites;
+      img2.src = "./Assets/sprites/abby_spritesheet.png";
+
+      img2.onload = () =>{
+
+        // Master Timeline 2 //
+        const tl = gsap.timeline({
+          scrollTriger:{
+            trigger: "#fnaf_2",
+            start: "top top",
+            end: "+=4000",
+            pin: true,
+            scrub: true,
+            anticipatePin: 1,
+            markers: true
+          }
+        });
+        // Abby Animation // 
+        tl.to(state2, {
+          frame: frames2.length - 1,
+          duration: 1,
+          ease: "none",
+          onUpdate: () => {
+            drawAbbyFrame(Math.floor(state2.frame));
+          }
+          
+        }, 0);
+        
+        // Puppet Animation // 
+        img3.onload = () =>{
+        tl.to(state3, {
+           frame: frames3.length - 1,
+          duration: 1,
+          ease: "none",
+          onUpdate: () => {
+            drawPuppetFrame(Math.floor(state3.frame));
+          }
+        }, 0)
+      }
+    }
+    })
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 window.addEventListener("load", () => {
   ScrollTrigger.refresh();
 });
