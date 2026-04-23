@@ -96,235 +96,203 @@ gsap.fromTo(".text_1",
 );
 
 // FNAF 2 //
-const canvas2 = document.getElementById("abby_canvas");
+let img2 = new Image();
+let img3 = new Image();
+
+let frames2 = [];
+let frames3 = [];
+
+let state2 = { frame: 0 };
+let state3 = { frame: 0 };
+
+// Draw Functions w/ Fetch //
+function drawAbbyFrame(index) {
+  const f = frames2[index];
+  if (!f) return;
+
+  const canvas2 = document.getElementById("abby_canvas");
   const ctx2 = canvas2.getContext("2d");
 
-  let img2 = new Image();
-  let frames2 = [];
-  let state2 = { frame: 0 };
+  ctx2.clearRect(0, 0, canvas2.width, canvas2.height);
+  ctx2.drawImage(img2, f.x, f.y, f.width, f.height, 0, 0, canvas2.width, canvas2.height);
+}
 
-  function drawAbbyFrame(index) {
-    const f = frames2[index];
-    if (!f) return;
-
-    ctx2.clearRect(0, 0, canvas2.width, canvas2.height);
-
-    ctx2.drawImage(
-      img2,
-      f.x, f.y, f.width, f.height,
-      0, 0, canvas2.width, canvas2.height
-    );
-  }
+function drawPuppetFrame(index) {
+  const f = frames3[index];
+  if (!f) return;
 
   const canvas3 = document.getElementById("puppet_canvas");
   const ctx3 = canvas3.getContext("2d");
 
-  let img3 = new Image();
-  let frames3 = [];
-  let state3 = { frame: 0 };
+  ctx3.clearRect(0, 0, canvas3.width, canvas3.height);
+  ctx3.drawImage(img3, f.x, f.y, f.width, f.height, 0, 0, canvas3.width, canvas3.height);
+}
 
-  function drawPuppetFrame(index) {
-    const f = frames3[index];
-    if (!f) return;
+// Load + Promise //
+Promise.all([
+  fetch("./Assets/sprites/abby_stage_sprite.json").then(r => r.json()),
+  fetch("./Assets/sprites/puppet_sprite.json").then(r => r.json())
+]).then(([abbyData, puppetData]) => {
 
-    ctx3.clearRect(0, 0, canvas3.width, canvas3.height);
+  frames2 = abbyData.sprites;
+  frames3 = puppetData.sprites;
 
-    ctx3.drawImage(
-      img3,
-      f.x, f.y, f.width, f.height,
-      0, 0, canvas3.width, canvas3.height
-    );
-  }
-  // Abby Canvas //
-  fetch("./Assets/sprites/abby_stage_sprite.json")
-    .then(response => response.json())
-    .then(data => {
-      frames2 = data.sprites;
-      img2.src = "./Assets/sprites/abby_spritesheet.png";
+  img2.src = "./Assets/sprites/abby_spritesheet.png";
+  img3.src = "./Assets/sprites/puppet_spritesheet.png";
 
-      img2.onload = () =>{
+  Promise.all([
+    new Promise(res => img2.onload = res),
+    new Promise(res => img3.onload = res)
+  ]).then(() => {
 
-        // Master Timeline 2 //
-        const tl = gsap.timeline({
-          scrollTriger:{
-            trigger: "#fnaf_2",
-            start: "top top",
-            end: "+=4000",
-            pin: true,
-            scrub: true,
-            anticipatePin: 1,
-            markers: true
-          }
-        });
-        // Abby Animation // 
-        tl.to(state2, {
-          frame: frames2.length - 1,
-          duration: 1,
-          ease: "none",
-          onUpdate: () => {
-            drawAbbyFrame(Math.floor(state2.frame));
-          }
-          
-        }, 0);
-        
-        // Puppet Animation // 
-        img3.onload = () =>{
-        tl.to(state3, {
-           frame: frames3.length - 1,
-          duration: 1,
-          ease: "none",
-          onUpdate: () => {
-            drawPuppetFrame(Math.floor(state3.frame));
-          }
-        }, 0)
+    // Abby Canvas Trigger //
+    gsap.to(state2, {
+      frame: frames2.length - 1,
+      ease: "none",
+      scrollTrigger: {
+        trigger: "#abby_canvas",
+        start: "top 10%",
+        end: "bottom+=5500px",
+        pin: true,
+        scrub: true,
+        markers: true
+      },
+      onUpdate: () => drawAbbyFrame(Math.floor(state2.frame))
+    });
+
+    // Puppet Canvas Trigger //
+    gsap.to(state3, {
+      frame: frames3.length - 1,
+      ease: "none",
+      scrollTrigger: {
+        trigger: "#puppet_canvas",
+        start: "top 5%",
+        end: "bottom+=6000px",
+        pin: true,
+        scrub: true,
+        markers: true
+      },
+      onUpdate: () => drawPuppetFrame(Math.floor(state3.frame))
+    });
+});
+   // FNAF 4 Scene //
+
+let img4 = new Image();
+let img5 = new Image();
+let img6 = new Image();
+
+let frames4 = [];
+let frames5 = [];
+let frames6 = [];
+
+let state4 = { frame: 0 };
+let state5 = { frame: 0 };
+let state6 = { frame: 0 };
+
+function drawMenuFrame(index) {
+  const f = frames4[index];
+  if (!f) return;
+
+  const canvas4 = document.getElementById("menu_canvas");
+  const ctx4 = canvas4.getContext("2d");
+
+  ctx4.clearRect(0, 0, canvas4.width, canvas4.height);
+  ctx4.drawImage(img4, f.x, f.y, f.width, f.height, 0, 0, canvas4.width, canvas4.height);
+}
+function drawBedroomFrame(index) {
+  const f = frames5[index];
+  if (!f) return;
+
+  const canvas5 = document.getElementById("bedroom_canvas");
+  const ctx5 = canvas5.getContext("2d");
+
+  ctx5.clearRect(0, 0, canvas5.width, canvas5.height);
+  ctx5.drawImage(img5, f.x, f.y, f.width, f.height, 0, 0, canvas5.width, canvas5.height);
+}
+function drawBite87Frame(index) {
+  const f = frames6[index];
+  if (!f) return;
+
+  const canvas6 = document.getElementById("bite_87");
+  const ctx6 = canvas6.getContext("2d");
+
+  ctx6.clearRect(0, 0, canvas6.width, canvas6.height);
+  ctx6.drawImage(img6, f.x, f.y, f.width, f.height, 0, 0, canvas6.width, canvas6.height);
+}
+
+Promise.all([
+  fetch("./Assets/sprites/fnaf4_menu.json").then(r => r.json()),
+  fetch("./Assets/sprites/fnaf4_bedroom.json").then(r => r.json()),
+  fetch("./Assets/sprites/fox_and_bros.json").then(r => r.json())
+]).then(([menuData, bedroomData, biteData]) => {
+
+  frames4 = menuData.sprites;
+  frames5 = bedroomData.sprites;
+  frames6 = biteData.sprites;
+
+  img4.src = "./Assets/sprites/menu_spritesheet.png";
+  img5.src = "./Assets/sprites/bedroom_spritesheet.png";
+  img6.src = "./Assets/sprites/bite87_spritesheet.png";
+
+  Promise.all([
+    new Promise(res => img4.onload = res),
+    new Promise(res => img5.onload = res),
+    new Promise(res => img6.onload = res)
+  ]).then(() => {
+
+    
+// Timeline //
+
+    const tl = gsap.timeline({
+      scrollTrigger: {
+        trigger: "#fnaf_4",
+       start: "top top",
+        end:  () => "+=" + window.innerWidth * 3, 
+        scrub: true,
+        pin: true,
+        anticipatePin: 1,
+        markers: true
       }
-    }
-    })
+    });
+
+   
+    // Horizontal Scroll //
+
+    tl.to(".track2", {
+      xPercent: -200, 
+      ease: "none",
+      pin: true,
+    }, 0);
 
 
+    // Menu // 
+  
+    tl.to(state4, {
+      frame: frames4.length - 1,
+      duration: 2,
+      ease: "slow(0.5,0.5,false)",
+      onUpdate: () => drawMenuFrame(Math.floor(state4.frame))
+    }, 0.5);
 
 
+    // Bedroom //
 
+    tl.to(state5, {
+      frame: frames5.length - 1,
+      ease: "none",
+      onUpdate: () => drawBedroomFrame(Math.floor(state5.frame))
+    }, 1);
 
+// Bite of 87 //
+    tl.to(state6, {
+      frame: frames6.length - 1,
+      ease: "none",
+      onUpdate: () => drawBite87Frame(Math.floor(state6.frame))
+    }, 2);
 
-
-
-
-
-
-
-
-
-
-
-
-window.addEventListener("load", () => {
+  });
   ScrollTrigger.refresh();
 });
+});
 
-
-// // Freddy's Pizzeria //
-// const {innerHeight} = window;
-
-// gsap.to("#fnaf_2", {
-//   scale: 5, stagger: 0.50, duration:3,
-//   ease: "none",
-//   scrollTrigger:{
-//     trigger: "#zoom-in",
-//   start: "top bottom",
-//   end: "+=3000",
-//   pin: "#fnaf_2",
-//   anticipatePin: 1,
-//   scrub: true,
-//   markers: {
-//     startColor: "orange",
-//     endcolor: "green"
-//   }
-  
-//   },
-//   opacity: 0,
-//     ease: "power2.inOut"
-// });
-
-// // Abby Canvas //
-
-// const canvas2 = document.getElementById("abby_canvas");
-//   const ctx2 = canvas2.getContext("2d");
-
-//   let img2 = new Image();
-//   let frames2 = [];
-
-//   fetch("./Assets/sprites/abby_stage_sprite.json")
-//     .then(response => {
-//       if (!response.ok) throw new Error("JSON not found");
-//       return response.json();
-//     })
-//     .then(data => {
-
-//       frames2 = data.sprites;
-
-//       img2.src = "./Assets/sprites/abby_spritesheet.png";
-      
-//       img2.onload = () => {
-//         const state = {frame: 0};
-
-//         gsap.to(state, {
-//           frame: frames2.length - 1,
-//           ease: "none",
-//           scrollTrigger: {
-//             trigger: ".panel2",
-//             start: "top 100px",    
-//             end: "+=200%",
-//             pin: true,
-//             scrub: true
-            
-//           },
-          
-//           onUpdate: () => {
-//             drawAbbyFrame(Math.floor(state.frame));
-//           }
-//         });
-//     };
-//   });
-// function drawAbbyFrame(index) {
-//     const f = frames2[index];
-//     if (!f) return;
-
-//     ctx2.clearRect(0, 0, canvas2.width, canvas2.height);
-
-//     ctx2.drawImage(
-//       img2,
-//       f.x, f.y, f.width, f.height,
-//       0, 0, canvas2.width, canvas2.height
-//     );
-//   }
-  
-  
-//   // Puppet Canvas
-//   const canvas3 = document.getElementById("puppet_canvas");
-//   const ctx3 = canvas3.getContext("2d");
-
-//   let img3 = new Image();
-//   let frames3 = [];
-
-//   fetch("./Assets/sprites/puppet_sprite.json")
-//   .then(response => {
-//     if (!response.ok) throw new Error("JSON not found");
-//     return response.json();
-//   })
-//   .then(data => {
-    
-//     frames3 = data.sprites;
-    
-//     img3.src = "./Assets/sprites/puppet_spritesheet.png";
-//     img3.onload = () => {
-   
-//       const state = {frame: 0};
-
-//       gsap.to(state, {
-//         frame: frames3.length - 1,
-//           ease: "none",
-//           scrollTrigger: {
-//             trigger: ".panel3",
-//             start: "top 100px",    
-//             end: "+=200%",
-//             pin: true,
-//             scrub: true
-//       },
-      
-//       onUpdate: () => {
-//         drawPuppetFrame(Math.floor(state.frame));
-//       }
-//   });     
-//     };
-//   });
-//   function drawPuppetFrame(index){
-//     const f = frames3[index];
-//     if(!f) return;
-//     ctx3.clearRect(0, 0, canvas3.width, canvas3.height);
-
-//     ctx3.drawImage(
-//       img3, f.x, f.y, f.width, f.height, 0, 0, canvas3.width, canvas3.height
-//     );
-//   }
 });
