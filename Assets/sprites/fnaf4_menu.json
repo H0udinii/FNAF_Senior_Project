@@ -1,1325 +1,849 @@
 {
   "sprites": [
     {
-      "fileName": "fnaf-4-menu000.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00000.png",
+      "width": 500,
+      "height": 226,
       "x": 0,
       "y": 0
     },
     {
-      "fileName": "fnaf-4-menu001.png",
-      "width": 1000,
-      "height": 450,
-      "x": 0,
-      "y": 450
+      "fileName": "fnaf_4_background_00001.png",
+      "width": 500,
+      "height": 226,
+      "x": 500,
+      "y": 0
     },
     {
-      "fileName": "fnaf-4-menu002.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00002.png",
+      "width": 500,
+      "height": 226,
       "x": 1000,
       "y": 0
     },
     {
-      "fileName": "fnaf-4-menu003.png",
-      "width": 1000,
-      "height": 450,
-      "x": 1000,
-      "y": 450
+      "fileName": "fnaf_4_background_00003.png",
+      "width": 500,
+      "height": 226,
+      "x": 1500,
+      "y": 0
     },
     {
-      "fileName": "fnaf-4-menu004.png",
-      "width": 1000,
-      "height": 450,
-      "x": 0,
-      "y": 900
-    },
-    {
-      "fileName": "fnaf-4-menu005.png",
-      "width": 1000,
-      "height": 450,
-      "x": 1000,
-      "y": 900
-    },
-    {
-      "fileName": "fnaf-4-menu006.png",
-      "width": 1000,
-      "height": 450,
-      "x": 0,
-      "y": 1350
-    },
-    {
-      "fileName": "fnaf-4-menu007.png",
-      "width": 1000,
-      "height": 450,
-      "x": 1000,
-      "y": 1350
-    },
-    {
-      "fileName": "fnaf-4-menu008.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00004.png",
+      "width": 500,
+      "height": 226,
       "x": 2000,
       "y": 0
     },
     {
-      "fileName": "fnaf-4-menu009.png",
-      "width": 1000,
-      "height": 450,
-      "x": 2000,
-      "y": 450
+      "fileName": "fnaf_4_background_00005.png",
+      "width": 500,
+      "height": 226,
+      "x": 2500,
+      "y": 0
     },
     {
-      "fileName": "fnaf-4-menu010.png",
-      "width": 1000,
-      "height": 450,
-      "x": 2000,
-      "y": 900
-    },
-    {
-      "fileName": "fnaf-4-menu011.png",
-      "width": 1000,
-      "height": 450,
-      "x": 2000,
-      "y": 1350
-    },
-    {
-      "fileName": "fnaf-4-menu012.png",
-      "width": 1000,
-      "height": 450,
-      "x": 0,
-      "y": 1800
-    },
-    {
-      "fileName": "fnaf-4-menu013.png",
-      "width": 1000,
-      "height": 450,
-      "x": 1000,
-      "y": 1800
-    },
-    {
-      "fileName": "fnaf-4-menu014.png",
-      "width": 1000,
-      "height": 450,
-      "x": 2000,
-      "y": 1800
-    },
-    {
-      "fileName": "fnaf-4-menu015.png",
-      "width": 1000,
-      "height": 450,
-      "x": 0,
-      "y": 2250
-    },
-    {
-      "fileName": "fnaf-4-menu016.png",
-      "width": 1000,
-      "height": 450,
-      "x": 1000,
-      "y": 2250
-    },
-    {
-      "fileName": "fnaf-4-menu017.png",
-      "width": 1000,
-      "height": 450,
-      "x": 2000,
-      "y": 2250
-    },
-    {
-      "fileName": "fnaf-4-menu018.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00006.png",
+      "width": 500,
+      "height": 226,
       "x": 3000,
       "y": 0
     },
     {
-      "fileName": "fnaf-4-menu019.png",
-      "width": 1000,
-      "height": 450,
-      "x": 3000,
-      "y": 450
+      "fileName": "fnaf_4_background_00007.png",
+      "width": 500,
+      "height": 226,
+      "x": 3500,
+      "y": 0
     },
     {
-      "fileName": "fnaf-4-menu020.png",
-      "width": 1000,
-      "height": 450,
-      "x": 3000,
-      "y": 900
-    },
-    {
-      "fileName": "fnaf-4-menu021.png",
-      "width": 1000,
-      "height": 450,
-      "x": 3000,
-      "y": 1350
-    },
-    {
-      "fileName": "fnaf-4-menu022.png",
-      "width": 1000,
-      "height": 450,
-      "x": 3000,
-      "y": 1800
-    },
-    {
-      "fileName": "fnaf-4-menu023.png",
-      "width": 1000,
-      "height": 450,
-      "x": 3000,
-      "y": 2250
-    },
-    {
-      "fileName": "fnaf-4-menu024.png",
-      "width": 1000,
-      "height": 450,
-      "x": 0,
-      "y": 2700
-    },
-    {
-      "fileName": "fnaf-4-menu025.png",
-      "width": 1000,
-      "height": 450,
-      "x": 1000,
-      "y": 2700
-    },
-    {
-      "fileName": "fnaf-4-menu026.png",
-      "width": 1000,
-      "height": 450,
-      "x": 2000,
-      "y": 2700
-    },
-    {
-      "fileName": "fnaf-4-menu027.png",
-      "width": 1000,
-      "height": 450,
-      "x": 3000,
-      "y": 2700
-    },
-    {
-      "fileName": "fnaf-4-menu028.png",
-      "width": 1000,
-      "height": 450,
-      "x": 0,
-      "y": 3150
-    },
-    {
-      "fileName": "fnaf-4-menu029.png",
-      "width": 1000,
-      "height": 450,
-      "x": 1000,
-      "y": 3150
-    },
-    {
-      "fileName": "fnaf-4-menu030.png",
-      "width": 1000,
-      "height": 450,
-      "x": 2000,
-      "y": 3150
-    },
-    {
-      "fileName": "fnaf-4-menu031.png",
-      "width": 1000,
-      "height": 450,
-      "x": 3000,
-      "y": 3150
-    },
-    {
-      "fileName": "fnaf-4-menu032.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00008.png",
+      "width": 500,
+      "height": 226,
       "x": 4000,
       "y": 0
     },
     {
-      "fileName": "fnaf-4-menu033.png",
-      "width": 1000,
-      "height": 450,
-      "x": 4000,
-      "y": 450
+      "fileName": "fnaf_4_background_00009.png",
+      "width": 500,
+      "height": 226,
+      "x": 4500,
+      "y": 0
     },
     {
-      "fileName": "fnaf-4-menu034.png",
-      "width": 1000,
-      "height": 450,
-      "x": 4000,
-      "y": 900
-    },
-    {
-      "fileName": "fnaf-4-menu035.png",
-      "width": 1000,
-      "height": 450,
-      "x": 4000,
-      "y": 1350
-    },
-    {
-      "fileName": "fnaf-4-menu036.png",
-      "width": 1000,
-      "height": 450,
-      "x": 4000,
-      "y": 1800
-    },
-    {
-      "fileName": "fnaf-4-menu037.png",
-      "width": 1000,
-      "height": 450,
-      "x": 4000,
-      "y": 2250
-    },
-    {
-      "fileName": "fnaf-4-menu038.png",
-      "width": 1000,
-      "height": 450,
-      "x": 4000,
-      "y": 2700
-    },
-    {
-      "fileName": "fnaf-4-menu039.png",
-      "width": 1000,
-      "height": 450,
-      "x": 4000,
-      "y": 3150
-    },
-    {
-      "fileName": "fnaf-4-menu040.png",
-      "width": 1000,
-      "height": 450,
-      "x": 0,
-      "y": 3600
-    },
-    {
-      "fileName": "fnaf-4-menu041.png",
-      "width": 1000,
-      "height": 450,
-      "x": 1000,
-      "y": 3600
-    },
-    {
-      "fileName": "fnaf-4-menu042.png",
-      "width": 1000,
-      "height": 450,
-      "x": 2000,
-      "y": 3600
-    },
-    {
-      "fileName": "fnaf-4-menu043.png",
-      "width": 1000,
-      "height": 450,
-      "x": 3000,
-      "y": 3600
-    },
-    {
-      "fileName": "fnaf-4-menu044.png",
-      "width": 1000,
-      "height": 450,
-      "x": 4000,
-      "y": 3600
-    },
-    {
-      "fileName": "fnaf-4-menu045.png",
-      "width": 1000,
-      "height": 450,
-      "x": 0,
-      "y": 4050
-    },
-    {
-      "fileName": "fnaf-4-menu046.png",
-      "width": 1000,
-      "height": 450,
-      "x": 1000,
-      "y": 4050
-    },
-    {
-      "fileName": "fnaf-4-menu047.png",
-      "width": 1000,
-      "height": 450,
-      "x": 2000,
-      "y": 4050
-    },
-    {
-      "fileName": "fnaf-4-menu048.png",
-      "width": 1000,
-      "height": 450,
-      "x": 3000,
-      "y": 4050
-    },
-    {
-      "fileName": "fnaf-4-menu049.png",
-      "width": 1000,
-      "height": 450,
-      "x": 4000,
-      "y": 4050
-    },
-    {
-      "fileName": "fnaf-4-menu050.png",
-      "width": 1000,
-      "height": 450,
-      "x": 0,
-      "y": 4500
-    },
-    {
-      "fileName": "fnaf-4-menu051.png",
-      "width": 1000,
-      "height": 450,
-      "x": 1000,
-      "y": 4500
-    },
-    {
-      "fileName": "fnaf-4-menu052.png",
-      "width": 1000,
-      "height": 450,
-      "x": 2000,
-      "y": 4500
-    },
-    {
-      "fileName": "fnaf-4-menu053.png",
-      "width": 1000,
-      "height": 450,
-      "x": 3000,
-      "y": 4500
-    },
-    {
-      "fileName": "fnaf-4-menu054.png",
-      "width": 1000,
-      "height": 450,
-      "x": 4000,
-      "y": 4500
-    },
-    {
-      "fileName": "fnaf-4-menu055.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00010.png",
+      "width": 500,
+      "height": 226,
       "x": 5000,
       "y": 0
     },
     {
-      "fileName": "fnaf-4-menu056.png",
-      "width": 1000,
-      "height": 450,
-      "x": 5000,
-      "y": 450
-    },
-    {
-      "fileName": "fnaf-4-menu057.png",
-      "width": 1000,
-      "height": 450,
-      "x": 5000,
-      "y": 900
-    },
-    {
-      "fileName": "fnaf-4-menu058.png",
-      "width": 1000,
-      "height": 450,
-      "x": 5000,
-      "y": 1350
-    },
-    {
-      "fileName": "fnaf-4-menu059.png",
-      "width": 1000,
-      "height": 450,
-      "x": 5000,
-      "y": 1800
-    },
-    {
-      "fileName": "fnaf-4-menu060.png",
-      "width": 1000,
-      "height": 450,
-      "x": 5000,
-      "y": 2250
-    },
-    {
-      "fileName": "fnaf-4-menu061.png",
-      "width": 1000,
-      "height": 450,
-      "x": 5000,
-      "y": 2700
-    },
-    {
-      "fileName": "fnaf-4-menu062.png",
-      "width": 1000,
-      "height": 450,
-      "x": 5000,
-      "y": 3150
-    },
-    {
-      "fileName": "fnaf-4-menu063.png",
-      "width": 1000,
-      "height": 450,
-      "x": 5000,
-      "y": 3600
-    },
-    {
-      "fileName": "fnaf-4-menu064.png",
-      "width": 1000,
-      "height": 450,
-      "x": 5000,
-      "y": 4050
-    },
-    {
-      "fileName": "fnaf-4-menu065.png",
-      "width": 1000,
-      "height": 450,
-      "x": 5000,
-      "y": 4500
-    },
-    {
-      "fileName": "fnaf-4-menu066.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00011.png",
+      "width": 500,
+      "height": 226,
       "x": 0,
-      "y": 4950
+      "y": 226
     },
     {
-      "fileName": "fnaf-4-menu067.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00012.png",
+      "width": 500,
+      "height": 226,
+      "x": 500,
+      "y": 226
+    },
+    {
+      "fileName": "fnaf_4_background_00013.png",
+      "width": 500,
+      "height": 226,
       "x": 1000,
-      "y": 4950
+      "y": 226
     },
     {
-      "fileName": "fnaf-4-menu068.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00014.png",
+      "width": 500,
+      "height": 226,
+      "x": 1500,
+      "y": 226
+    },
+    {
+      "fileName": "fnaf_4_background_00015.png",
+      "width": 500,
+      "height": 226,
       "x": 2000,
-      "y": 4950
+      "y": 226
     },
     {
-      "fileName": "fnaf-4-menu069.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00016.png",
+      "width": 500,
+      "height": 226,
+      "x": 2500,
+      "y": 226
+    },
+    {
+      "fileName": "fnaf_4_background_00017.png",
+      "width": 500,
+      "height": 226,
       "x": 3000,
-      "y": 4950
+      "y": 226
     },
     {
-      "fileName": "fnaf-4-menu070.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00018.png",
+      "width": 500,
+      "height": 226,
+      "x": 3500,
+      "y": 226
+    },
+    {
+      "fileName": "fnaf_4_background_00019.png",
+      "width": 500,
+      "height": 226,
       "x": 4000,
-      "y": 4950
+      "y": 226
     },
     {
-      "fileName": "fnaf-4-menu071.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00020.png",
+      "width": 500,
+      "height": 226,
+      "x": 4500,
+      "y": 226
+    },
+    {
+      "fileName": "fnaf_4_background_00021.png",
+      "width": 500,
+      "height": 226,
       "x": 5000,
-      "y": 4950
+      "y": 226
     },
     {
-      "fileName": "fnaf-4-menu072.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00022.png",
+      "width": 500,
+      "height": 226,
       "x": 0,
-      "y": 5400
+      "y": 452
     },
     {
-      "fileName": "fnaf-4-menu073.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00023.png",
+      "width": 500,
+      "height": 226,
+      "x": 500,
+      "y": 452
+    },
+    {
+      "fileName": "fnaf_4_background_00024.png",
+      "width": 500,
+      "height": 226,
       "x": 1000,
-      "y": 5400
+      "y": 452
     },
     {
-      "fileName": "fnaf-4-menu074.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00025.png",
+      "width": 500,
+      "height": 226,
+      "x": 1500,
+      "y": 452
+    },
+    {
+      "fileName": "fnaf_4_background_00026.png",
+      "width": 500,
+      "height": 226,
       "x": 2000,
-      "y": 5400
+      "y": 452
     },
     {
-      "fileName": "fnaf-4-menu075.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00027.png",
+      "width": 500,
+      "height": 226,
+      "x": 2500,
+      "y": 452
+    },
+    {
+      "fileName": "fnaf_4_background_00028.png",
+      "width": 500,
+      "height": 226,
       "x": 3000,
-      "y": 5400
+      "y": 452
     },
     {
-      "fileName": "fnaf-4-menu076.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00029.png",
+      "width": 500,
+      "height": 226,
+      "x": 3500,
+      "y": 452
+    },
+    {
+      "fileName": "fnaf_4_background_00030.png",
+      "width": 500,
+      "height": 226,
       "x": 4000,
-      "y": 5400
+      "y": 452
     },
     {
-      "fileName": "fnaf-4-menu077.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00031.png",
+      "width": 500,
+      "height": 226,
+      "x": 4500,
+      "y": 452
+    },
+    {
+      "fileName": "fnaf_4_background_00032.png",
+      "width": 500,
+      "height": 226,
       "x": 5000,
-      "y": 5400
+      "y": 452
     },
     {
-      "fileName": "fnaf-4-menu078.png",
-      "width": 1000,
-      "height": 450,
-      "x": 6000,
-      "y": 0
-    },
-    {
-      "fileName": "fnaf-4-menu079.png",
-      "width": 1000,
-      "height": 450,
-      "x": 6000,
-      "y": 450
-    },
-    {
-      "fileName": "fnaf-4-menu080.png",
-      "width": 1000,
-      "height": 450,
-      "x": 6000,
-      "y": 900
-    },
-    {
-      "fileName": "fnaf-4-menu081.png",
-      "width": 1000,
-      "height": 450,
-      "x": 6000,
-      "y": 1350
-    },
-    {
-      "fileName": "fnaf-4-menu082.png",
-      "width": 1000,
-      "height": 450,
-      "x": 6000,
-      "y": 1800
-    },
-    {
-      "fileName": "fnaf-4-menu083.png",
-      "width": 1000,
-      "height": 450,
-      "x": 6000,
-      "y": 2250
-    },
-    {
-      "fileName": "fnaf-4-menu084.png",
-      "width": 1000,
-      "height": 450,
-      "x": 6000,
-      "y": 2700
-    },
-    {
-      "fileName": "fnaf-4-menu085.png",
-      "width": 1000,
-      "height": 450,
-      "x": 6000,
-      "y": 3150
-    },
-    {
-      "fileName": "fnaf-4-menu086.png",
-      "width": 1000,
-      "height": 450,
-      "x": 6000,
-      "y": 3600
-    },
-    {
-      "fileName": "fnaf-4-menu087.png",
-      "width": 1000,
-      "height": 450,
-      "x": 6000,
-      "y": 4050
-    },
-    {
-      "fileName": "fnaf-4-menu088.png",
-      "width": 1000,
-      "height": 450,
-      "x": 6000,
-      "y": 4500
-    },
-    {
-      "fileName": "fnaf-4-menu089.png",
-      "width": 1000,
-      "height": 450,
-      "x": 6000,
-      "y": 4950
-    },
-    {
-      "fileName": "fnaf-4-menu090.png",
-      "width": 1000,
-      "height": 450,
-      "x": 6000,
-      "y": 5400
-    },
-    {
-      "fileName": "fnaf-4-menu091.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00033.png",
+      "width": 500,
+      "height": 226,
       "x": 0,
-      "y": 5850
+      "y": 678
     },
     {
-      "fileName": "fnaf-4-menu092.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00034.png",
+      "width": 500,
+      "height": 226,
+      "x": 500,
+      "y": 678
+    },
+    {
+      "fileName": "fnaf_4_background_00035.png",
+      "width": 500,
+      "height": 226,
       "x": 1000,
-      "y": 5850
+      "y": 678
     },
     {
-      "fileName": "fnaf-4-menu093.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00036.png",
+      "width": 500,
+      "height": 226,
+      "x": 1500,
+      "y": 678
+    },
+    {
+      "fileName": "fnaf_4_background_00037.png",
+      "width": 500,
+      "height": 226,
       "x": 2000,
-      "y": 5850
+      "y": 678
     },
     {
-      "fileName": "fnaf-4-menu094.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00038.png",
+      "width": 500,
+      "height": 226,
+      "x": 2500,
+      "y": 678
+    },
+    {
+      "fileName": "fnaf_4_background_00039.png",
+      "width": 500,
+      "height": 226,
       "x": 3000,
-      "y": 5850
+      "y": 678
     },
     {
-      "fileName": "fnaf-4-menu095.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00040.png",
+      "width": 500,
+      "height": 226,
+      "x": 3500,
+      "y": 678
+    },
+    {
+      "fileName": "fnaf_4_background_00041.png",
+      "width": 500,
+      "height": 226,
       "x": 4000,
-      "y": 5850
+      "y": 678
     },
     {
-      "fileName": "fnaf-4-menu096.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00042.png",
+      "width": 500,
+      "height": 226,
+      "x": 4500,
+      "y": 678
+    },
+    {
+      "fileName": "fnaf_4_background_00043.png",
+      "width": 500,
+      "height": 226,
       "x": 5000,
-      "y": 5850
+      "y": 678
     },
     {
-      "fileName": "fnaf-4-menu097.png",
-      "width": 1000,
-      "height": 450,
-      "x": 6000,
-      "y": 5850
-    },
-    {
-      "fileName": "fnaf-4-menu098.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00044.png",
+      "width": 500,
+      "height": 226,
       "x": 0,
-      "y": 6300
+      "y": 904
     },
     {
-      "fileName": "fnaf-4-menu099.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00045.png",
+      "width": 500,
+      "height": 226,
+      "x": 500,
+      "y": 904
+    },
+    {
+      "fileName": "fnaf_4_background_00046.png",
+      "width": 500,
+      "height": 226,
       "x": 1000,
-      "y": 6300
+      "y": 904
     },
     {
-      "fileName": "fnaf-4-menu100.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00047.png",
+      "width": 500,
+      "height": 226,
+      "x": 1500,
+      "y": 904
+    },
+    {
+      "fileName": "fnaf_4_background_00048.png",
+      "width": 500,
+      "height": 226,
       "x": 2000,
-      "y": 6300
+      "y": 904
     },
     {
-      "fileName": "fnaf-4-menu101.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00049.png",
+      "width": 500,
+      "height": 226,
+      "x": 2500,
+      "y": 904
+    },
+    {
+      "fileName": "fnaf_4_background_00050.png",
+      "width": 500,
+      "height": 226,
       "x": 3000,
-      "y": 6300
+      "y": 904
     },
     {
-      "fileName": "fnaf-4-menu102.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00051.png",
+      "width": 500,
+      "height": 226,
+      "x": 3500,
+      "y": 904
+    },
+    {
+      "fileName": "fnaf_4_background_00052.png",
+      "width": 500,
+      "height": 226,
       "x": 4000,
-      "y": 6300
+      "y": 904
     },
     {
-      "fileName": "fnaf-4-menu103.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00053.png",
+      "width": 500,
+      "height": 226,
+      "x": 4500,
+      "y": 904
+    },
+    {
+      "fileName": "fnaf_4_background_00054.png",
+      "width": 500,
+      "height": 226,
       "x": 5000,
-      "y": 6300
+      "y": 904
     },
     {
-      "fileName": "fnaf-4-menu104.png",
-      "width": 1000,
-      "height": 450,
-      "x": 6000,
-      "y": 6300
-    },
-    {
-      "fileName": "fnaf-4-menu105.png",
-      "width": 1000,
-      "height": 450,
-      "x": 7000,
-      "y": 0
-    },
-    {
-      "fileName": "fnaf-4-menu106.png",
-      "width": 1000,
-      "height": 450,
-      "x": 7000,
-      "y": 450
-    },
-    {
-      "fileName": "fnaf-4-menu107.png",
-      "width": 1000,
-      "height": 450,
-      "x": 7000,
-      "y": 900
-    },
-    {
-      "fileName": "fnaf-4-menu108.png",
-      "width": 1000,
-      "height": 450,
-      "x": 7000,
-      "y": 1350
-    },
-    {
-      "fileName": "fnaf-4-menu109.png",
-      "width": 1000,
-      "height": 450,
-      "x": 7000,
-      "y": 1800
-    },
-    {
-      "fileName": "fnaf-4-menu110.png",
-      "width": 1000,
-      "height": 450,
-      "x": 7000,
-      "y": 2250
-    },
-    {
-      "fileName": "fnaf-4-menu111.png",
-      "width": 1000,
-      "height": 450,
-      "x": 7000,
-      "y": 2700
-    },
-    {
-      "fileName": "fnaf-4-menu112.png",
-      "width": 1000,
-      "height": 450,
-      "x": 7000,
-      "y": 3150
-    },
-    {
-      "fileName": "fnaf-4-menu113.png",
-      "width": 1000,
-      "height": 450,
-      "x": 7000,
-      "y": 3600
-    },
-    {
-      "fileName": "fnaf-4-menu114.png",
-      "width": 1000,
-      "height": 450,
-      "x": 7000,
-      "y": 4050
-    },
-    {
-      "fileName": "fnaf-4-menu115.png",
-      "width": 1000,
-      "height": 450,
-      "x": 7000,
-      "y": 4500
-    },
-    {
-      "fileName": "fnaf-4-menu116.png",
-      "width": 1000,
-      "height": 450,
-      "x": 7000,
-      "y": 4950
-    },
-    {
-      "fileName": "fnaf-4-menu117.png",
-      "width": 1000,
-      "height": 450,
-      "x": 7000,
-      "y": 5400
-    },
-    {
-      "fileName": "fnaf-4-menu118.png",
-      "width": 1000,
-      "height": 450,
-      "x": 7000,
-      "y": 5850
-    },
-    {
-      "fileName": "fnaf-4-menu119.png",
-      "width": 1000,
-      "height": 450,
-      "x": 7000,
-      "y": 6300
-    },
-    {
-      "fileName": "fnaf-4-menu120.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00055.png",
+      "width": 500,
+      "height": 226,
       "x": 0,
-      "y": 6750
+      "y": 1130
     },
     {
-      "fileName": "fnaf-4-menu121.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00056.png",
+      "width": 500,
+      "height": 226,
+      "x": 500,
+      "y": 1130
+    },
+    {
+      "fileName": "fnaf_4_background_00057.png",
+      "width": 500,
+      "height": 226,
       "x": 1000,
-      "y": 6750
+      "y": 1130
     },
     {
-      "fileName": "fnaf-4-menu122.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00058.png",
+      "width": 500,
+      "height": 226,
+      "x": 1500,
+      "y": 1130
+    },
+    {
+      "fileName": "fnaf_4_background_00059.png",
+      "width": 500,
+      "height": 226,
       "x": 2000,
-      "y": 6750
+      "y": 1130
     },
     {
-      "fileName": "fnaf-4-menu123.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00060.png",
+      "width": 500,
+      "height": 226,
+      "x": 2500,
+      "y": 1130
+    },
+    {
+      "fileName": "fnaf_4_background_00061.png",
+      "width": 500,
+      "height": 226,
       "x": 3000,
-      "y": 6750
+      "y": 1130
     },
     {
-      "fileName": "fnaf-4-menu124.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00062.png",
+      "width": 500,
+      "height": 226,
+      "x": 3500,
+      "y": 1130
+    },
+    {
+      "fileName": "fnaf_4_background_00063.png",
+      "width": 500,
+      "height": 226,
       "x": 4000,
-      "y": 6750
+      "y": 1130
     },
     {
-      "fileName": "fnaf-4-menu125.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00064.png",
+      "width": 500,
+      "height": 226,
+      "x": 4500,
+      "y": 1130
+    },
+    {
+      "fileName": "fnaf_4_background_00065.png",
+      "width": 500,
+      "height": 226,
       "x": 5000,
-      "y": 6750
+      "y": 1130
     },
     {
-      "fileName": "fnaf-4-menu126.png",
-      "width": 1000,
-      "height": 450,
-      "x": 6000,
-      "y": 6750
-    },
-    {
-      "fileName": "fnaf-4-menu127.png",
-      "width": 1000,
-      "height": 450,
-      "x": 7000,
-      "y": 6750
-    },
-    {
-      "fileName": "fnaf-4-menu128.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00066.png",
+      "width": 500,
+      "height": 226,
       "x": 0,
-      "y": 7200
+      "y": 1356
     },
     {
-      "fileName": "fnaf-4-menu129.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00067.png",
+      "width": 500,
+      "height": 226,
+      "x": 500,
+      "y": 1356
+    },
+    {
+      "fileName": "fnaf_4_background_00068.png",
+      "width": 500,
+      "height": 226,
       "x": 1000,
-      "y": 7200
+      "y": 1356
     },
     {
-      "fileName": "fnaf-4-menu130.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00069.png",
+      "width": 500,
+      "height": 226,
+      "x": 1500,
+      "y": 1356
+    },
+    {
+      "fileName": "fnaf_4_background_00070.png",
+      "width": 500,
+      "height": 226,
       "x": 2000,
-      "y": 7200
+      "y": 1356
     },
     {
-      "fileName": "fnaf-4-menu131.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00071.png",
+      "width": 500,
+      "height": 226,
+      "x": 2500,
+      "y": 1356
+    },
+    {
+      "fileName": "fnaf_4_background_00072.png",
+      "width": 500,
+      "height": 226,
       "x": 3000,
-      "y": 7200
+      "y": 1356
     },
     {
-      "fileName": "fnaf-4-menu132.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00073.png",
+      "width": 500,
+      "height": 226,
+      "x": 3500,
+      "y": 1356
+    },
+    {
+      "fileName": "fnaf_4_background_00074.png",
+      "width": 500,
+      "height": 226,
       "x": 4000,
-      "y": 7200
+      "y": 1356
     },
     {
-      "fileName": "fnaf-4-menu133.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00075.png",
+      "width": 500,
+      "height": 226,
+      "x": 4500,
+      "y": 1356
+    },
+    {
+      "fileName": "fnaf_4_background_00076.png",
+      "width": 500,
+      "height": 226,
       "x": 5000,
-      "y": 7200
+      "y": 1356
     },
     {
-      "fileName": "fnaf-4-menu134.png",
-      "width": 1000,
-      "height": 450,
-      "x": 6000,
-      "y": 7200
-    },
-    {
-      "fileName": "fnaf-4-menu135.png",
-      "width": 1000,
-      "height": 450,
-      "x": 7000,
-      "y": 7200
-    },
-    {
-      "fileName": "fnaf-4-menu136.png",
-      "width": 1000,
-      "height": 450,
-      "x": 8000,
-      "y": 0
-    },
-    {
-      "fileName": "fnaf-4-menu137.png",
-      "width": 1000,
-      "height": 450,
-      "x": 8000,
-      "y": 450
-    },
-    {
-      "fileName": "fnaf-4-menu138.png",
-      "width": 1000,
-      "height": 450,
-      "x": 8000,
-      "y": 900
-    },
-    {
-      "fileName": "fnaf-4-menu139.png",
-      "width": 1000,
-      "height": 450,
-      "x": 8000,
-      "y": 1350
-    },
-    {
-      "fileName": "fnaf-4-menu140.png",
-      "width": 1000,
-      "height": 450,
-      "x": 8000,
-      "y": 1800
-    },
-    {
-      "fileName": "fnaf-4-menu141.png",
-      "width": 1000,
-      "height": 450,
-      "x": 8000,
-      "y": 2250
-    },
-    {
-      "fileName": "fnaf-4-menu142.png",
-      "width": 1000,
-      "height": 450,
-      "x": 8000,
-      "y": 2700
-    },
-    {
-      "fileName": "fnaf-4-menu143.png",
-      "width": 1000,
-      "height": 450,
-      "x": 8000,
-      "y": 3150
-    },
-    {
-      "fileName": "fnaf-4-menu144.png",
-      "width": 1000,
-      "height": 450,
-      "x": 8000,
-      "y": 3600
-    },
-    {
-      "fileName": "fnaf-4-menu145.png",
-      "width": 1000,
-      "height": 450,
-      "x": 8000,
-      "y": 4050
-    },
-    {
-      "fileName": "fnaf-4-menu146.png",
-      "width": 1000,
-      "height": 450,
-      "x": 8000,
-      "y": 4500
-    },
-    {
-      "fileName": "fnaf-4-menu147.png",
-      "width": 1000,
-      "height": 450,
-      "x": 8000,
-      "y": 4950
-    },
-    {
-      "fileName": "fnaf-4-menu148.png",
-      "width": 1000,
-      "height": 450,
-      "x": 8000,
-      "y": 5400
-    },
-    {
-      "fileName": "fnaf-4-menu149.png",
-      "width": 1000,
-      "height": 450,
-      "x": 8000,
-      "y": 5850
-    },
-    {
-      "fileName": "fnaf-4-menu150.png",
-      "width": 1000,
-      "height": 450,
-      "x": 8000,
-      "y": 6300
-    },
-    {
-      "fileName": "fnaf-4-menu151.png",
-      "width": 1000,
-      "height": 450,
-      "x": 8000,
-      "y": 6750
-    },
-    {
-      "fileName": "fnaf-4-menu152.png",
-      "width": 1000,
-      "height": 450,
-      "x": 8000,
-      "y": 7200
-    },
-    {
-      "fileName": "fnaf-4-menu153.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00077.png",
+      "width": 500,
+      "height": 226,
       "x": 0,
-      "y": 7650
+      "y": 1582
     },
     {
-      "fileName": "fnaf-4-menu154.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00078.png",
+      "width": 500,
+      "height": 226,
+      "x": 500,
+      "y": 1582
+    },
+    {
+      "fileName": "fnaf_4_background_00079.png",
+      "width": 500,
+      "height": 226,
       "x": 1000,
-      "y": 7650
+      "y": 1582
     },
     {
-      "fileName": "fnaf-4-menu155.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00080.png",
+      "width": 500,
+      "height": 226,
+      "x": 1500,
+      "y": 1582
+    },
+    {
+      "fileName": "fnaf_4_background_00081.png",
+      "width": 500,
+      "height": 226,
       "x": 2000,
-      "y": 7650
+      "y": 1582
     },
     {
-      "fileName": "fnaf-4-menu156.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00082.png",
+      "width": 500,
+      "height": 226,
+      "x": 2500,
+      "y": 1582
+    },
+    {
+      "fileName": "fnaf_4_background_00083.png",
+      "width": 500,
+      "height": 226,
       "x": 3000,
-      "y": 7650
+      "y": 1582
     },
     {
-      "fileName": "fnaf-4-menu157.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00084.png",
+      "width": 500,
+      "height": 226,
+      "x": 3500,
+      "y": 1582
+    },
+    {
+      "fileName": "fnaf_4_background_00085.png",
+      "width": 500,
+      "height": 226,
       "x": 4000,
-      "y": 7650
+      "y": 1582
     },
     {
-      "fileName": "fnaf-4-menu158.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00086.png",
+      "width": 500,
+      "height": 226,
+      "x": 4500,
+      "y": 1582
+    },
+    {
+      "fileName": "fnaf_4_background_00087.png",
+      "width": 500,
+      "height": 226,
       "x": 5000,
-      "y": 7650
+      "y": 1582
     },
     {
-      "fileName": "fnaf-4-menu159.png",
-      "width": 1000,
-      "height": 450,
-      "x": 6000,
-      "y": 7650
-    },
-    {
-      "fileName": "fnaf-4-menu160.png",
-      "width": 1000,
-      "height": 450,
-      "x": 7000,
-      "y": 7650
-    },
-    {
-      "fileName": "fnaf-4-menu161.png",
-      "width": 1000,
-      "height": 450,
-      "x": 8000,
-      "y": 7650
-    },
-    {
-      "fileName": "fnaf-4-menu162.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00088.png",
+      "width": 500,
+      "height": 226,
       "x": 0,
-      "y": 8100
+      "y": 1808
     },
     {
-      "fileName": "fnaf-4-menu163.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00089.png",
+      "width": 500,
+      "height": 226,
+      "x": 500,
+      "y": 1808
+    },
+    {
+      "fileName": "fnaf_4_background_00090.png",
+      "width": 500,
+      "height": 226,
       "x": 1000,
-      "y": 8100
+      "y": 1808
     },
     {
-      "fileName": "fnaf-4-menu164.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00091.png",
+      "width": 500,
+      "height": 226,
+      "x": 1500,
+      "y": 1808
+    },
+    {
+      "fileName": "fnaf_4_background_00092.png",
+      "width": 500,
+      "height": 226,
       "x": 2000,
-      "y": 8100
+      "y": 1808
     },
     {
-      "fileName": "fnaf-4-menu165.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00093.png",
+      "width": 500,
+      "height": 226,
+      "x": 2500,
+      "y": 1808
+    },
+    {
+      "fileName": "fnaf_4_background_00094.png",
+      "width": 500,
+      "height": 226,
       "x": 3000,
-      "y": 8100
+      "y": 1808
     },
     {
-      "fileName": "fnaf-4-menu166.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00095.png",
+      "width": 500,
+      "height": 226,
+      "x": 3500,
+      "y": 1808
+    },
+    {
+      "fileName": "fnaf_4_background_00096.png",
+      "width": 500,
+      "height": 226,
       "x": 4000,
-      "y": 8100
+      "y": 1808
     },
     {
-      "fileName": "fnaf-4-menu167.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00097.png",
+      "width": 500,
+      "height": 226,
+      "x": 4500,
+      "y": 1808
+    },
+    {
+      "fileName": "fnaf_4_background_00098.png",
+      "width": 500,
+      "height": 226,
       "x": 5000,
-      "y": 8100
+      "y": 1808
     },
     {
-      "fileName": "fnaf-4-menu168.png",
-      "width": 1000,
-      "height": 450,
-      "x": 6000,
-      "y": 8100
-    },
-    {
-      "fileName": "fnaf-4-menu169.png",
-      "width": 1000,
-      "height": 450,
-      "x": 7000,
-      "y": 8100
-    },
-    {
-      "fileName": "fnaf-4-menu170.png",
-      "width": 1000,
-      "height": 450,
-      "x": 8000,
-      "y": 8100
-    },
-    {
-      "fileName": "fnaf-4-menu171.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00099.png",
+      "width": 500,
+      "height": 226,
       "x": 0,
-      "y": 8550
+      "y": 2034
     },
     {
-      "fileName": "fnaf-4-menu172.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00100.png",
+      "width": 500,
+      "height": 226,
+      "x": 500,
+      "y": 2034
+    },
+    {
+      "fileName": "fnaf_4_background_00101.png",
+      "width": 500,
+      "height": 226,
       "x": 1000,
-      "y": 8550
+      "y": 2034
     },
     {
-      "fileName": "fnaf-4-menu173.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00102.png",
+      "width": 500,
+      "height": 226,
+      "x": 1500,
+      "y": 2034
+    },
+    {
+      "fileName": "fnaf_4_background_00103.png",
+      "width": 500,
+      "height": 226,
       "x": 2000,
-      "y": 8550
+      "y": 2034
     },
     {
-      "fileName": "fnaf-4-menu174.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00104.png",
+      "width": 500,
+      "height": 226,
+      "x": 2500,
+      "y": 2034
+    },
+    {
+      "fileName": "fnaf_4_background_00105.png",
+      "width": 500,
+      "height": 226,
       "x": 3000,
-      "y": 8550
+      "y": 2034
     },
     {
-      "fileName": "fnaf-4-menu175.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00106.png",
+      "width": 500,
+      "height": 226,
+      "x": 3500,
+      "y": 2034
+    },
+    {
+      "fileName": "fnaf_4_background_00107.png",
+      "width": 500,
+      "height": 226,
       "x": 4000,
-      "y": 8550
+      "y": 2034
     },
     {
-      "fileName": "fnaf-4-menu176.png",
-      "width": 1000,
-      "height": 450,
+      "fileName": "fnaf_4_background_00108.png",
+      "width": 500,
+      "height": 226,
+      "x": 4500,
+      "y": 2034
+    },
+    {
+      "fileName": "fnaf_4_background_00109.png",
+      "width": 500,
+      "height": 226,
       "x": 5000,
-      "y": 8550
+      "y": 2034
     },
     {
-      "fileName": "fnaf-4-menu177.png",
-      "width": 1000,
-      "height": 450,
-      "x": 6000,
-      "y": 8550
+      "fileName": "fnaf_4_background_00110.png",
+      "width": 500,
+      "height": 226,
+      "x": 0,
+      "y": 2260
     },
     {
-      "fileName": "fnaf-4-menu178.png",
-      "width": 1000,
-      "height": 450,
-      "x": 7000,
-      "y": 8550
+      "fileName": "fnaf_4_background_00111.png",
+      "width": 500,
+      "height": 226,
+      "x": 500,
+      "y": 2260
     },
     {
-      "fileName": "fnaf-4-menu179.png",
-      "width": 1000,
-      "height": 450,
-      "x": 8000,
-      "y": 8550
+      "fileName": "fnaf_4_background_00112.png",
+      "width": 500,
+      "height": 226,
+      "x": 1000,
+      "y": 2260
     },
     {
-      "fileName": "fnaf-4-menu180.png",
-      "width": 1000,
-      "height": 450,
-      "x": 9000,
-      "y": 0
+      "fileName": "fnaf_4_background_00113.png",
+      "width": 500,
+      "height": 226,
+      "x": 1500,
+      "y": 2260
     },
     {
-      "fileName": "fnaf-4-menu181.png",
-      "width": 1000,
-      "height": 450,
-      "x": 9000,
-      "y": 450
+      "fileName": "fnaf_4_background_00114.png",
+      "width": 500,
+      "height": 226,
+      "x": 2000,
+      "y": 2260
     },
     {
-      "fileName": "fnaf-4-menu182.png",
-      "width": 1000,
-      "height": 450,
-      "x": 9000,
-      "y": 900
+      "fileName": "fnaf_4_background_00115.png",
+      "width": 500,
+      "height": 226,
+      "x": 2500,
+      "y": 2260
     },
     {
-      "fileName": "fnaf-4-menu183.png",
-      "width": 1000,
-      "height": 450,
-      "x": 9000,
-      "y": 1350
+      "fileName": "fnaf_4_background_00116.png",
+      "width": 500,
+      "height": 226,
+      "x": 3000,
+      "y": 2260
     },
     {
-      "fileName": "fnaf-4-menu184.png",
-      "width": 1000,
-      "height": 450,
-      "x": 9000,
-      "y": 1800
+      "fileName": "fnaf_4_background_00117.png",
+      "width": 500,
+      "height": 226,
+      "x": 3500,
+      "y": 2260
     },
     {
-      "fileName": "fnaf-4-menu185.png",
-      "width": 1000,
-      "height": 450,
-      "x": 9000,
-      "y": 2250
+      "fileName": "fnaf_4_background_00118.png",
+      "width": 500,
+      "height": 226,
+      "x": 4000,
+      "y": 2260
     },
     {
-      "fileName": "fnaf-4-menu186.png",
-      "width": 1000,
-      "height": 450,
-      "x": 9000,
-      "y": 2700
-    },
-    {
-      "fileName": "fnaf-4-menu187.png",
-      "width": 1000,
-      "height": 450,
-      "x": 9000,
-      "y": 3150
+      "fileName": "fnaf_4_background_00119.png",
+      "width": 500,
+      "height": 226,
+      "x": 4500,
+      "y": 2260
     }
   ],
-  "packMode": "bin",
+  "packMode": "grid",
   "padding": 0,
   "backgroundColor": "rgba(0, 0, 0, 0)",
-  "spriteSheetWidth": 10000,
-  "spriteSheetHeight": 9000
+  "spriteSheetWidth": 5500,
+  "spriteSheetHeight": 2486
 }

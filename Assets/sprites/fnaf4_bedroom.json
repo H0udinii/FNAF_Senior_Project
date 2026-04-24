@@ -1,1318 +1,1598 @@
 {
   "sprites": [
     {
-      "fileName": "fnaf-4-bedroom000.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00000.png",
+      "width": 320,
+      "height": 240,
       "x": 0,
       "y": 0
     },
     {
-      "fileName": "fnaf-4-bedroom001.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00001.png",
+      "width": 320,
+      "height": 240,
+      "x": 320,
+      "y": 0
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00002.png",
+      "width": 320,
+      "height": 240,
       "x": 640,
       "y": 0
     },
     {
-      "fileName": "fnaf-4-bedroom002.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00003.png",
+      "width": 320,
+      "height": 240,
+      "x": 960,
+      "y": 0
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00004.png",
+      "width": 320,
+      "height": 240,
       "x": 1280,
       "y": 0
     },
     {
-      "fileName": "fnaf-4-bedroom003.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00005.png",
+      "width": 320,
+      "height": 240,
+      "x": 1600,
+      "y": 0
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00006.png",
+      "width": 320,
+      "height": 240,
       "x": 1920,
       "y": 0
     },
     {
-      "fileName": "fnaf-4-bedroom004.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00007.png",
+      "width": 320,
+      "height": 240,
+      "x": 2240,
+      "y": 0
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00008.png",
+      "width": 320,
+      "height": 240,
       "x": 2560,
       "y": 0
     },
     {
-      "fileName": "fnaf-4-bedroom005.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00009.png",
+      "width": 320,
+      "height": 240,
+      "x": 2880,
+      "y": 0
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00010.png",
+      "width": 320,
+      "height": 240,
       "x": 3200,
       "y": 0
     },
     {
-      "fileName": "fnaf-4-bedroom006.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00011.png",
+      "width": 320,
+      "height": 240,
+      "x": 3520,
+      "y": 0
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00012.png",
+      "width": 320,
+      "height": 240,
       "x": 3840,
       "y": 0
     },
     {
-      "fileName": "fnaf-4-bedroom007.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00013.png",
+      "width": 320,
+      "height": 240,
+      "x": 4160,
+      "y": 0
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00014.png",
+      "width": 320,
+      "height": 240,
       "x": 4480,
       "y": 0
     },
     {
-      "fileName": "fnaf-4-bedroom008.png",
-      "width": 640,
-      "height": 480,
-      "x": 5120,
+      "fileName": "fredbear_lefthall_far_00015.png",
+      "width": 320,
+      "height": 240,
+      "x": 4800,
       "y": 0
     },
     {
-      "fileName": "fnaf-4-bedroom009.png",
-      "width": 640,
-      "height": 480,
-      "x": 5760,
-      "y": 0
+      "fileName": "fredbear_lefthall_far_00016.png",
+      "width": 320,
+      "height": 240,
+      "x": 0,
+      "y": 240
     },
     {
-      "fileName": "fnaf-4-bedroom010.png",
-      "width": 640,
-      "height": 480,
-      "x": 6400,
-      "y": 0
+      "fileName": "fredbear_lefthall_far_00017.png",
+      "width": 320,
+      "height": 240,
+      "x": 320,
+      "y": 240
     },
     {
-      "fileName": "fnaf-4-bedroom011.png",
-      "width": 640,
-      "height": 480,
-      "x": 7040,
-      "y": 0
+      "fileName": "fredbear_lefthall_far_00018.png",
+      "width": 320,
+      "height": 240,
+      "x": 640,
+      "y": 240
     },
     {
-      "fileName": "fnaf-4-bedroom012.png",
-      "width": 640,
-      "height": 480,
-      "x": 7680,
-      "y": 0
+      "fileName": "fredbear_lefthall_far_00019.png",
+      "width": 320,
+      "height": 240,
+      "x": 960,
+      "y": 240
     },
     {
-      "fileName": "fnaf-4-bedroom013.png",
-      "width": 640,
-      "height": 480,
-      "x": 8320,
-      "y": 0
+      "fileName": "fredbear_lefthall_far_00020.png",
+      "width": 320,
+      "height": 240,
+      "x": 1280,
+      "y": 240
     },
     {
-      "fileName": "fnaf-4-bedroom014.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00021.png",
+      "width": 320,
+      "height": 240,
+      "x": 1600,
+      "y": 240
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00022.png",
+      "width": 320,
+      "height": 240,
+      "x": 1920,
+      "y": 240
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00023.png",
+      "width": 320,
+      "height": 240,
+      "x": 2240,
+      "y": 240
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00024.png",
+      "width": 320,
+      "height": 240,
+      "x": 2560,
+      "y": 240
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00025.png",
+      "width": 320,
+      "height": 240,
+      "x": 2880,
+      "y": 240
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00026.png",
+      "width": 320,
+      "height": 240,
+      "x": 3200,
+      "y": 240
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00027.png",
+      "width": 320,
+      "height": 240,
+      "x": 3520,
+      "y": 240
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00028.png",
+      "width": 320,
+      "height": 240,
+      "x": 3840,
+      "y": 240
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00029.png",
+      "width": 320,
+      "height": 240,
+      "x": 4160,
+      "y": 240
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00030.png",
+      "width": 320,
+      "height": 240,
+      "x": 4480,
+      "y": 240
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00031.png",
+      "width": 320,
+      "height": 240,
+      "x": 4800,
+      "y": 240
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00032.png",
+      "width": 320,
+      "height": 240,
       "x": 0,
       "y": 480
     },
     {
-      "fileName": "fnaf-4-bedroom015.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00033.png",
+      "width": 320,
+      "height": 240,
+      "x": 320,
+      "y": 480
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00034.png",
+      "width": 320,
+      "height": 240,
       "x": 640,
       "y": 480
     },
     {
-      "fileName": "fnaf-4-bedroom016.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00035.png",
+      "width": 320,
+      "height": 240,
+      "x": 960,
+      "y": 480
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00036.png",
+      "width": 320,
+      "height": 240,
       "x": 1280,
       "y": 480
     },
     {
-      "fileName": "fnaf-4-bedroom017.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00037.png",
+      "width": 320,
+      "height": 240,
+      "x": 1600,
+      "y": 480
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00038.png",
+      "width": 320,
+      "height": 240,
       "x": 1920,
       "y": 480
     },
     {
-      "fileName": "fnaf-4-bedroom018.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00039.png",
+      "width": 320,
+      "height": 240,
+      "x": 2240,
+      "y": 480
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00040.png",
+      "width": 320,
+      "height": 240,
       "x": 2560,
       "y": 480
     },
     {
-      "fileName": "fnaf-4-bedroom019.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00041.png",
+      "width": 320,
+      "height": 240,
+      "x": 2880,
+      "y": 480
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00042.png",
+      "width": 320,
+      "height": 240,
       "x": 3200,
       "y": 480
     },
     {
-      "fileName": "fnaf-4-bedroom020.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00043.png",
+      "width": 320,
+      "height": 240,
+      "x": 3520,
+      "y": 480
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00044.png",
+      "width": 320,
+      "height": 240,
       "x": 3840,
       "y": 480
     },
     {
-      "fileName": "fnaf-4-bedroom021.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00045.png",
+      "width": 320,
+      "height": 240,
+      "x": 4160,
+      "y": 480
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00046.png",
+      "width": 320,
+      "height": 240,
       "x": 4480,
       "y": 480
     },
     {
-      "fileName": "fnaf-4-bedroom022.png",
-      "width": 640,
-      "height": 480,
-      "x": 5120,
+      "fileName": "fredbear_lefthall_far_00047.png",
+      "width": 320,
+      "height": 240,
+      "x": 4800,
       "y": 480
     },
     {
-      "fileName": "fnaf-4-bedroom023.png",
-      "width": 640,
-      "height": 480,
-      "x": 5760,
-      "y": 480
+      "fileName": "fredbear_lefthall_far_00048.png",
+      "width": 320,
+      "height": 240,
+      "x": 0,
+      "y": 720
     },
     {
-      "fileName": "fnaf-4-bedroom024.png",
-      "width": 640,
-      "height": 480,
-      "x": 6400,
-      "y": 480
+      "fileName": "fredbear_lefthall_far_00049.png",
+      "width": 320,
+      "height": 240,
+      "x": 320,
+      "y": 720
     },
     {
-      "fileName": "fnaf-4-bedroom025.png",
-      "width": 640,
-      "height": 480,
-      "x": 7040,
-      "y": 480
+      "fileName": "fredbear_lefthall_far_00050.png",
+      "width": 320,
+      "height": 240,
+      "x": 640,
+      "y": 720
     },
     {
-      "fileName": "fnaf-4-bedroom026.png",
-      "width": 640,
-      "height": 480,
-      "x": 7680,
-      "y": 480
+      "fileName": "fredbear_lefthall_far_00051.png",
+      "width": 320,
+      "height": 240,
+      "x": 960,
+      "y": 720
     },
     {
-      "fileName": "fnaf-4-bedroom027.png",
-      "width": 640,
-      "height": 480,
-      "x": 8320,
-      "y": 480
+      "fileName": "fredbear_lefthall_far_00052.png",
+      "width": 320,
+      "height": 240,
+      "x": 1280,
+      "y": 720
     },
     {
-      "fileName": "fnaf-4-bedroom028.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00053.png",
+      "width": 320,
+      "height": 240,
+      "x": 1600,
+      "y": 720
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00054.png",
+      "width": 320,
+      "height": 240,
+      "x": 1920,
+      "y": 720
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00055.png",
+      "width": 320,
+      "height": 240,
+      "x": 2240,
+      "y": 720
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00056.png",
+      "width": 320,
+      "height": 240,
+      "x": 2560,
+      "y": 720
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00057.png",
+      "width": 320,
+      "height": 240,
+      "x": 2880,
+      "y": 720
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00058.png",
+      "width": 320,
+      "height": 240,
+      "x": 3200,
+      "y": 720
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00059.png",
+      "width": 320,
+      "height": 240,
+      "x": 3520,
+      "y": 720
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00060.png",
+      "width": 320,
+      "height": 240,
+      "x": 3840,
+      "y": 720
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00061.png",
+      "width": 320,
+      "height": 240,
+      "x": 4160,
+      "y": 720
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00062.png",
+      "width": 320,
+      "height": 240,
+      "x": 4480,
+      "y": 720
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00063.png",
+      "width": 320,
+      "height": 240,
+      "x": 4800,
+      "y": 720
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00064.png",
+      "width": 320,
+      "height": 240,
       "x": 0,
       "y": 960
     },
     {
-      "fileName": "fnaf-4-bedroom029.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00065.png",
+      "width": 320,
+      "height": 240,
+      "x": 320,
+      "y": 960
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00066.png",
+      "width": 320,
+      "height": 240,
       "x": 640,
       "y": 960
     },
     {
-      "fileName": "fnaf-4-bedroom030.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00067.png",
+      "width": 320,
+      "height": 240,
+      "x": 960,
+      "y": 960
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00068.png",
+      "width": 320,
+      "height": 240,
       "x": 1280,
       "y": 960
     },
     {
-      "fileName": "fnaf-4-bedroom031.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00069.png",
+      "width": 320,
+      "height": 240,
+      "x": 1600,
+      "y": 960
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00070.png",
+      "width": 320,
+      "height": 240,
       "x": 1920,
       "y": 960
     },
     {
-      "fileName": "fnaf-4-bedroom032.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00071.png",
+      "width": 320,
+      "height": 240,
+      "x": 2240,
+      "y": 960
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00072.png",
+      "width": 320,
+      "height": 240,
       "x": 2560,
       "y": 960
     },
     {
-      "fileName": "fnaf-4-bedroom033.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00073.png",
+      "width": 320,
+      "height": 240,
+      "x": 2880,
+      "y": 960
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00074.png",
+      "width": 320,
+      "height": 240,
       "x": 3200,
       "y": 960
     },
     {
-      "fileName": "fnaf-4-bedroom034.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00075.png",
+      "width": 320,
+      "height": 240,
+      "x": 3520,
+      "y": 960
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00076.png",
+      "width": 320,
+      "height": 240,
       "x": 3840,
       "y": 960
     },
     {
-      "fileName": "fnaf-4-bedroom035.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00077.png",
+      "width": 320,
+      "height": 240,
+      "x": 4160,
+      "y": 960
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00078.png",
+      "width": 320,
+      "height": 240,
       "x": 4480,
       "y": 960
     },
     {
-      "fileName": "fnaf-4-bedroom036.png",
-      "width": 640,
-      "height": 480,
-      "x": 5120,
+      "fileName": "fredbear_lefthall_far_00079.png",
+      "width": 320,
+      "height": 240,
+      "x": 4800,
       "y": 960
     },
     {
-      "fileName": "fnaf-4-bedroom037.png",
-      "width": 640,
-      "height": 480,
-      "x": 5760,
-      "y": 960
+      "fileName": "fredbear_lefthall_far_00080.png",
+      "width": 320,
+      "height": 240,
+      "x": 0,
+      "y": 1200
     },
     {
-      "fileName": "fnaf-4-bedroom038.png",
-      "width": 640,
-      "height": 480,
-      "x": 6400,
-      "y": 960
+      "fileName": "fredbear_lefthall_far_00081.png",
+      "width": 320,
+      "height": 240,
+      "x": 320,
+      "y": 1200
     },
     {
-      "fileName": "fnaf-4-bedroom039.png",
-      "width": 640,
-      "height": 480,
-      "x": 7040,
-      "y": 960
+      "fileName": "fredbear_lefthall_far_00082.png",
+      "width": 320,
+      "height": 240,
+      "x": 640,
+      "y": 1200
     },
     {
-      "fileName": "fnaf-4-bedroom040.png",
-      "width": 640,
-      "height": 480,
-      "x": 7680,
-      "y": 960
+      "fileName": "fredbear_lefthall_far_00083.png",
+      "width": 320,
+      "height": 240,
+      "x": 960,
+      "y": 1200
     },
     {
-      "fileName": "fnaf-4-bedroom041.png",
-      "width": 640,
-      "height": 480,
-      "x": 8320,
-      "y": 960
+      "fileName": "fredbear_lefthall_far_00084.png",
+      "width": 320,
+      "height": 240,
+      "x": 1280,
+      "y": 1200
     },
     {
-      "fileName": "fnaf-4-bedroom042.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00085.png",
+      "width": 320,
+      "height": 240,
+      "x": 1600,
+      "y": 1200
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00086.png",
+      "width": 320,
+      "height": 240,
+      "x": 1920,
+      "y": 1200
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00087.png",
+      "width": 320,
+      "height": 240,
+      "x": 2240,
+      "y": 1200
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00088.png",
+      "width": 320,
+      "height": 240,
+      "x": 2560,
+      "y": 1200
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00089.png",
+      "width": 320,
+      "height": 240,
+      "x": 2880,
+      "y": 1200
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00090.png",
+      "width": 320,
+      "height": 240,
+      "x": 3200,
+      "y": 1200
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00091.png",
+      "width": 320,
+      "height": 240,
+      "x": 3520,
+      "y": 1200
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00092.png",
+      "width": 320,
+      "height": 240,
+      "x": 3840,
+      "y": 1200
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00093.png",
+      "width": 320,
+      "height": 240,
+      "x": 4160,
+      "y": 1200
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00094.png",
+      "width": 320,
+      "height": 240,
+      "x": 4480,
+      "y": 1200
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00095.png",
+      "width": 320,
+      "height": 240,
+      "x": 4800,
+      "y": 1200
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00096.png",
+      "width": 320,
+      "height": 240,
       "x": 0,
       "y": 1440
     },
     {
-      "fileName": "fnaf-4-bedroom043.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00097.png",
+      "width": 320,
+      "height": 240,
+      "x": 320,
+      "y": 1440
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00098.png",
+      "width": 320,
+      "height": 240,
       "x": 640,
       "y": 1440
     },
     {
-      "fileName": "fnaf-4-bedroom044.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00099.png",
+      "width": 320,
+      "height": 240,
+      "x": 960,
+      "y": 1440
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00100.png",
+      "width": 320,
+      "height": 240,
       "x": 1280,
       "y": 1440
     },
     {
-      "fileName": "fnaf-4-bedroom045.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00101.png",
+      "width": 320,
+      "height": 240,
+      "x": 1600,
+      "y": 1440
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00102.png",
+      "width": 320,
+      "height": 240,
       "x": 1920,
       "y": 1440
     },
     {
-      "fileName": "fnaf-4-bedroom046.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00103.png",
+      "width": 320,
+      "height": 240,
+      "x": 2240,
+      "y": 1440
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00104.png",
+      "width": 320,
+      "height": 240,
       "x": 2560,
       "y": 1440
     },
     {
-      "fileName": "fnaf-4-bedroom047.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00105.png",
+      "width": 320,
+      "height": 240,
+      "x": 2880,
+      "y": 1440
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00106.png",
+      "width": 320,
+      "height": 240,
       "x": 3200,
       "y": 1440
     },
     {
-      "fileName": "fnaf-4-bedroom048.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00107.png",
+      "width": 320,
+      "height": 240,
+      "x": 3520,
+      "y": 1440
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00108.png",
+      "width": 320,
+      "height": 240,
       "x": 3840,
       "y": 1440
     },
     {
-      "fileName": "fnaf-4-bedroom049.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00109.png",
+      "width": 320,
+      "height": 240,
+      "x": 4160,
+      "y": 1440
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00110.png",
+      "width": 320,
+      "height": 240,
       "x": 4480,
       "y": 1440
     },
     {
-      "fileName": "fnaf-4-bedroom050.png",
-      "width": 640,
-      "height": 480,
-      "x": 5120,
+      "fileName": "fredbear_lefthall_far_00111.png",
+      "width": 320,
+      "height": 240,
+      "x": 4800,
       "y": 1440
     },
     {
-      "fileName": "fnaf-4-bedroom051.png",
-      "width": 640,
-      "height": 480,
-      "x": 5760,
-      "y": 1440
+      "fileName": "fredbear_lefthall_far_00112.png",
+      "width": 320,
+      "height": 240,
+      "x": 0,
+      "y": 1680
     },
     {
-      "fileName": "fnaf-4-bedroom052.png",
-      "width": 640,
-      "height": 480,
-      "x": 6400,
-      "y": 1440
+      "fileName": "fredbear_lefthall_far_00113.png",
+      "width": 320,
+      "height": 240,
+      "x": 320,
+      "y": 1680
     },
     {
-      "fileName": "fnaf-4-bedroom053.png",
-      "width": 640,
-      "height": 480,
-      "x": 7040,
-      "y": 1440
+      "fileName": "fredbear_lefthall_far_00114.png",
+      "width": 320,
+      "height": 240,
+      "x": 640,
+      "y": 1680
     },
     {
-      "fileName": "fnaf-4-bedroom054.png",
-      "width": 640,
-      "height": 480,
-      "x": 7680,
-      "y": 1440
+      "fileName": "fredbear_lefthall_far_00115.png",
+      "width": 320,
+      "height": 240,
+      "x": 960,
+      "y": 1680
     },
     {
-      "fileName": "fnaf-4-bedroom055.png",
-      "width": 640,
-      "height": 480,
-      "x": 8320,
-      "y": 1440
+      "fileName": "fredbear_lefthall_far_00116.png",
+      "width": 320,
+      "height": 240,
+      "x": 1280,
+      "y": 1680
     },
     {
-      "fileName": "fnaf-4-bedroom056.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00117.png",
+      "width": 320,
+      "height": 240,
+      "x": 1600,
+      "y": 1680
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00118.png",
+      "width": 320,
+      "height": 240,
+      "x": 1920,
+      "y": 1680
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00119.png",
+      "width": 320,
+      "height": 240,
+      "x": 2240,
+      "y": 1680
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00120.png",
+      "width": 320,
+      "height": 240,
+      "x": 2560,
+      "y": 1680
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00121.png",
+      "width": 320,
+      "height": 240,
+      "x": 2880,
+      "y": 1680
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00122.png",
+      "width": 320,
+      "height": 240,
+      "x": 3200,
+      "y": 1680
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00123.png",
+      "width": 320,
+      "height": 240,
+      "x": 3520,
+      "y": 1680
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00124.png",
+      "width": 320,
+      "height": 240,
+      "x": 3840,
+      "y": 1680
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00125.png",
+      "width": 320,
+      "height": 240,
+      "x": 4160,
+      "y": 1680
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00126.png",
+      "width": 320,
+      "height": 240,
+      "x": 4480,
+      "y": 1680
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00127.png",
+      "width": 320,
+      "height": 240,
+      "x": 4800,
+      "y": 1680
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00128.png",
+      "width": 320,
+      "height": 240,
       "x": 0,
       "y": 1920
     },
     {
-      "fileName": "fnaf-4-bedroom057.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00129.png",
+      "width": 320,
+      "height": 240,
+      "x": 320,
+      "y": 1920
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00130.png",
+      "width": 320,
+      "height": 240,
       "x": 640,
       "y": 1920
     },
     {
-      "fileName": "fnaf-4-bedroom058.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00131.png",
+      "width": 320,
+      "height": 240,
+      "x": 960,
+      "y": 1920
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00132.png",
+      "width": 320,
+      "height": 240,
       "x": 1280,
       "y": 1920
     },
     {
-      "fileName": "fnaf-4-bedroom059.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00133.png",
+      "width": 320,
+      "height": 240,
+      "x": 1600,
+      "y": 1920
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00134.png",
+      "width": 320,
+      "height": 240,
       "x": 1920,
       "y": 1920
     },
     {
-      "fileName": "fnaf-4-bedroom060.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00135.png",
+      "width": 320,
+      "height": 240,
+      "x": 2240,
+      "y": 1920
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00136.png",
+      "width": 320,
+      "height": 240,
       "x": 2560,
       "y": 1920
     },
     {
-      "fileName": "fnaf-4-bedroom061.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00137.png",
+      "width": 320,
+      "height": 240,
+      "x": 2880,
+      "y": 1920
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00138.png",
+      "width": 320,
+      "height": 240,
       "x": 3200,
       "y": 1920
     },
     {
-      "fileName": "fnaf-4-bedroom062.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00139.png",
+      "width": 320,
+      "height": 240,
+      "x": 3520,
+      "y": 1920
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00140.png",
+      "width": 320,
+      "height": 240,
       "x": 3840,
       "y": 1920
     },
     {
-      "fileName": "fnaf-4-bedroom063.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00141.png",
+      "width": 320,
+      "height": 240,
+      "x": 4160,
+      "y": 1920
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00142.png",
+      "width": 320,
+      "height": 240,
       "x": 4480,
       "y": 1920
     },
     {
-      "fileName": "fnaf-4-bedroom064.png",
-      "width": 640,
-      "height": 480,
-      "x": 5120,
+      "fileName": "fredbear_lefthall_far_00143.png",
+      "width": 320,
+      "height": 240,
+      "x": 4800,
       "y": 1920
     },
     {
-      "fileName": "fnaf-4-bedroom065.png",
-      "width": 640,
-      "height": 480,
-      "x": 5760,
-      "y": 1920
+      "fileName": "fredbear_lefthall_far_00144.png",
+      "width": 320,
+      "height": 240,
+      "x": 0,
+      "y": 2160
     },
     {
-      "fileName": "fnaf-4-bedroom066.png",
-      "width": 640,
-      "height": 480,
-      "x": 6400,
-      "y": 1920
+      "fileName": "fredbear_lefthall_far_00145.png",
+      "width": 320,
+      "height": 240,
+      "x": 320,
+      "y": 2160
     },
     {
-      "fileName": "fnaf-4-bedroom067.png",
-      "width": 640,
-      "height": 480,
-      "x": 7040,
-      "y": 1920
+      "fileName": "fredbear_lefthall_far_00146.png",
+      "width": 320,
+      "height": 240,
+      "x": 640,
+      "y": 2160
     },
     {
-      "fileName": "fnaf-4-bedroom068.png",
-      "width": 640,
-      "height": 480,
-      "x": 7680,
-      "y": 1920
+      "fileName": "fredbear_lefthall_far_00147.png",
+      "width": 320,
+      "height": 240,
+      "x": 960,
+      "y": 2160
     },
     {
-      "fileName": "fnaf-4-bedroom069.png",
-      "width": 640,
-      "height": 480,
-      "x": 8320,
-      "y": 1920
+      "fileName": "fredbear_lefthall_far_00148.png",
+      "width": 320,
+      "height": 240,
+      "x": 1280,
+      "y": 2160
     },
     {
-      "fileName": "fnaf-4-bedroom070.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00149.png",
+      "width": 320,
+      "height": 240,
+      "x": 1600,
+      "y": 2160
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00150.png",
+      "width": 320,
+      "height": 240,
+      "x": 1920,
+      "y": 2160
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00151.png",
+      "width": 320,
+      "height": 240,
+      "x": 2240,
+      "y": 2160
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00152.png",
+      "width": 320,
+      "height": 240,
+      "x": 2560,
+      "y": 2160
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00153.png",
+      "width": 320,
+      "height": 240,
+      "x": 2880,
+      "y": 2160
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00154.png",
+      "width": 320,
+      "height": 240,
+      "x": 3200,
+      "y": 2160
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00155.png",
+      "width": 320,
+      "height": 240,
+      "x": 3520,
+      "y": 2160
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00156.png",
+      "width": 320,
+      "height": 240,
+      "x": 3840,
+      "y": 2160
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00157.png",
+      "width": 320,
+      "height": 240,
+      "x": 4160,
+      "y": 2160
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00158.png",
+      "width": 320,
+      "height": 240,
+      "x": 4480,
+      "y": 2160
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00159.png",
+      "width": 320,
+      "height": 240,
+      "x": 4800,
+      "y": 2160
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00160.png",
+      "width": 320,
+      "height": 240,
       "x": 0,
       "y": 2400
     },
     {
-      "fileName": "fnaf-4-bedroom071.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00161.png",
+      "width": 320,
+      "height": 240,
+      "x": 320,
+      "y": 2400
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00162.png",
+      "width": 320,
+      "height": 240,
       "x": 640,
       "y": 2400
     },
     {
-      "fileName": "fnaf-4-bedroom072.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00163.png",
+      "width": 320,
+      "height": 240,
+      "x": 960,
+      "y": 2400
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00164.png",
+      "width": 320,
+      "height": 240,
       "x": 1280,
       "y": 2400
     },
     {
-      "fileName": "fnaf-4-bedroom073.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00165.png",
+      "width": 320,
+      "height": 240,
+      "x": 1600,
+      "y": 2400
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00166.png",
+      "width": 320,
+      "height": 240,
       "x": 1920,
       "y": 2400
     },
     {
-      "fileName": "fnaf-4-bedroom074.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00167.png",
+      "width": 320,
+      "height": 240,
+      "x": 2240,
+      "y": 2400
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00168.png",
+      "width": 320,
+      "height": 240,
       "x": 2560,
       "y": 2400
     },
     {
-      "fileName": "fnaf-4-bedroom075.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00169.png",
+      "width": 320,
+      "height": 240,
+      "x": 2880,
+      "y": 2400
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00170.png",
+      "width": 320,
+      "height": 240,
       "x": 3200,
       "y": 2400
     },
     {
-      "fileName": "fnaf-4-bedroom076.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00171.png",
+      "width": 320,
+      "height": 240,
+      "x": 3520,
+      "y": 2400
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00172.png",
+      "width": 320,
+      "height": 240,
       "x": 3840,
       "y": 2400
     },
     {
-      "fileName": "fnaf-4-bedroom077.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00173.png",
+      "width": 320,
+      "height": 240,
+      "x": 4160,
+      "y": 2400
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00174.png",
+      "width": 320,
+      "height": 240,
       "x": 4480,
       "y": 2400
     },
     {
-      "fileName": "fnaf-4-bedroom078.png",
-      "width": 640,
-      "height": 480,
-      "x": 5120,
+      "fileName": "fredbear_lefthall_far_00175.png",
+      "width": 320,
+      "height": 240,
+      "x": 4800,
       "y": 2400
     },
     {
-      "fileName": "fnaf-4-bedroom079.png",
-      "width": 640,
-      "height": 480,
-      "x": 5760,
-      "y": 2400
+      "fileName": "fredbear_lefthall_far_00176.png",
+      "width": 320,
+      "height": 240,
+      "x": 0,
+      "y": 2640
     },
     {
-      "fileName": "fnaf-4-bedroom080.png",
-      "width": 640,
-      "height": 480,
-      "x": 6400,
-      "y": 2400
+      "fileName": "fredbear_lefthall_far_00177.png",
+      "width": 320,
+      "height": 240,
+      "x": 320,
+      "y": 2640
     },
     {
-      "fileName": "fnaf-4-bedroom081.png",
-      "width": 640,
-      "height": 480,
-      "x": 7040,
-      "y": 2400
+      "fileName": "fredbear_lefthall_far_00178.png",
+      "width": 320,
+      "height": 240,
+      "x": 640,
+      "y": 2640
     },
     {
-      "fileName": "fnaf-4-bedroom082.png",
-      "width": 640,
-      "height": 480,
-      "x": 7680,
-      "y": 2400
+      "fileName": "fredbear_lefthall_far_00179.png",
+      "width": 320,
+      "height": 240,
+      "x": 960,
+      "y": 2640
     },
     {
-      "fileName": "fnaf-4-bedroom083.png",
-      "width": 640,
-      "height": 480,
-      "x": 8320,
-      "y": 2400
+      "fileName": "fredbear_lefthall_far_00180.png",
+      "width": 320,
+      "height": 240,
+      "x": 1280,
+      "y": 2640
     },
     {
-      "fileName": "fnaf-4-bedroom084.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00181.png",
+      "width": 320,
+      "height": 240,
+      "x": 1600,
+      "y": 2640
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00182.png",
+      "width": 320,
+      "height": 240,
+      "x": 1920,
+      "y": 2640
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00183.png",
+      "width": 320,
+      "height": 240,
+      "x": 2240,
+      "y": 2640
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00184.png",
+      "width": 320,
+      "height": 240,
+      "x": 2560,
+      "y": 2640
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00185.png",
+      "width": 320,
+      "height": 240,
+      "x": 2880,
+      "y": 2640
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00186.png",
+      "width": 320,
+      "height": 240,
+      "x": 3200,
+      "y": 2640
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00187.png",
+      "width": 320,
+      "height": 240,
+      "x": 3520,
+      "y": 2640
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00188.png",
+      "width": 320,
+      "height": 240,
+      "x": 3840,
+      "y": 2640
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00189.png",
+      "width": 320,
+      "height": 240,
+      "x": 4160,
+      "y": 2640
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00190.png",
+      "width": 320,
+      "height": 240,
+      "x": 4480,
+      "y": 2640
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00191.png",
+      "width": 320,
+      "height": 240,
+      "x": 4800,
+      "y": 2640
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00192.png",
+      "width": 320,
+      "height": 240,
       "x": 0,
       "y": 2880
     },
     {
-      "fileName": "fnaf-4-bedroom085.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00193.png",
+      "width": 320,
+      "height": 240,
+      "x": 320,
+      "y": 2880
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00194.png",
+      "width": 320,
+      "height": 240,
       "x": 640,
       "y": 2880
     },
     {
-      "fileName": "fnaf-4-bedroom086.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00195.png",
+      "width": 320,
+      "height": 240,
+      "x": 960,
+      "y": 2880
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00196.png",
+      "width": 320,
+      "height": 240,
       "x": 1280,
       "y": 2880
     },
     {
-      "fileName": "fnaf-4-bedroom087.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00197.png",
+      "width": 320,
+      "height": 240,
+      "x": 1600,
+      "y": 2880
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00198.png",
+      "width": 320,
+      "height": 240,
       "x": 1920,
       "y": 2880
     },
     {
-      "fileName": "fnaf-4-bedroom088.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00199.png",
+      "width": 320,
+      "height": 240,
+      "x": 2240,
+      "y": 2880
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00200.png",
+      "width": 320,
+      "height": 240,
       "x": 2560,
       "y": 2880
     },
     {
-      "fileName": "fnaf-4-bedroom089.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00201.png",
+      "width": 320,
+      "height": 240,
+      "x": 2880,
+      "y": 2880
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00202.png",
+      "width": 320,
+      "height": 240,
       "x": 3200,
       "y": 2880
     },
     {
-      "fileName": "fnaf-4-bedroom090.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00203.png",
+      "width": 320,
+      "height": 240,
+      "x": 3520,
+      "y": 2880
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00204.png",
+      "width": 320,
+      "height": 240,
       "x": 3840,
       "y": 2880
     },
     {
-      "fileName": "fnaf-4-bedroom091.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00205.png",
+      "width": 320,
+      "height": 240,
+      "x": 4160,
+      "y": 2880
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00206.png",
+      "width": 320,
+      "height": 240,
       "x": 4480,
       "y": 2880
     },
     {
-      "fileName": "fnaf-4-bedroom092.png",
-      "width": 640,
-      "height": 480,
-      "x": 5120,
+      "fileName": "fredbear_lefthall_far_00207.png",
+      "width": 320,
+      "height": 240,
+      "x": 4800,
       "y": 2880
     },
     {
-      "fileName": "fnaf-4-bedroom093.png",
-      "width": 640,
-      "height": 480,
-      "x": 5760,
-      "y": 2880
-    },
-    {
-      "fileName": "fnaf-4-bedroom094.png",
-      "width": 640,
-      "height": 480,
-      "x": 6400,
-      "y": 2880
-    },
-    {
-      "fileName": "fnaf-4-bedroom095.png",
-      "width": 640,
-      "height": 480,
-      "x": 7040,
-      "y": 2880
-    },
-    {
-      "fileName": "fnaf-4-bedroom096.png",
-      "width": 640,
-      "height": 480,
-      "x": 7680,
-      "y": 2880
-    },
-    {
-      "fileName": "fnaf-4-bedroom097.png",
-      "width": 640,
-      "height": 480,
-      "x": 8320,
-      "y": 2880
-    },
-    {
-      "fileName": "fnaf-4-bedroom098.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00208.png",
+      "width": 320,
+      "height": 240,
       "x": 0,
-      "y": 3360
+      "y": 3120
     },
     {
-      "fileName": "fnaf-4-bedroom099.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00209.png",
+      "width": 320,
+      "height": 240,
+      "x": 320,
+      "y": 3120
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00210.png",
+      "width": 320,
+      "height": 240,
       "x": 640,
-      "y": 3360
+      "y": 3120
     },
     {
-      "fileName": "fnaf-4-bedroom100.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00211.png",
+      "width": 320,
+      "height": 240,
+      "x": 960,
+      "y": 3120
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00212.png",
+      "width": 320,
+      "height": 240,
       "x": 1280,
-      "y": 3360
+      "y": 3120
     },
     {
-      "fileName": "fnaf-4-bedroom101.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00213.png",
+      "width": 320,
+      "height": 240,
+      "x": 1600,
+      "y": 3120
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00214.png",
+      "width": 320,
+      "height": 240,
       "x": 1920,
-      "y": 3360
+      "y": 3120
     },
     {
-      "fileName": "fnaf-4-bedroom102.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00215.png",
+      "width": 320,
+      "height": 240,
+      "x": 2240,
+      "y": 3120
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00216.png",
+      "width": 320,
+      "height": 240,
       "x": 2560,
-      "y": 3360
+      "y": 3120
     },
     {
-      "fileName": "fnaf-4-bedroom103.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00217.png",
+      "width": 320,
+      "height": 240,
+      "x": 2880,
+      "y": 3120
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00218.png",
+      "width": 320,
+      "height": 240,
       "x": 3200,
-      "y": 3360
+      "y": 3120
     },
     {
-      "fileName": "fnaf-4-bedroom104.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00219.png",
+      "width": 320,
+      "height": 240,
+      "x": 3520,
+      "y": 3120
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00220.png",
+      "width": 320,
+      "height": 240,
       "x": 3840,
-      "y": 3360
+      "y": 3120
     },
     {
-      "fileName": "fnaf-4-bedroom105.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00221.png",
+      "width": 320,
+      "height": 240,
+      "x": 4160,
+      "y": 3120
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00222.png",
+      "width": 320,
+      "height": 240,
       "x": 4480,
-      "y": 3360
+      "y": 3120
     },
     {
-      "fileName": "fnaf-4-bedroom106.png",
-      "width": 640,
-      "height": 480,
-      "x": 5120,
-      "y": 3360
+      "fileName": "fredbear_lefthall_far_00223.png",
+      "width": 320,
+      "height": 240,
+      "x": 4800,
+      "y": 3120
     },
     {
-      "fileName": "fnaf-4-bedroom107.png",
-      "width": 640,
-      "height": 480,
-      "x": 5760,
-      "y": 3360
-    },
-    {
-      "fileName": "fnaf-4-bedroom108.png",
-      "width": 640,
-      "height": 480,
-      "x": 6400,
-      "y": 3360
-    },
-    {
-      "fileName": "fnaf-4-bedroom109.png",
-      "width": 640,
-      "height": 480,
-      "x": 7040,
-      "y": 3360
-    },
-    {
-      "fileName": "fnaf-4-bedroom110.png",
-      "width": 640,
-      "height": 480,
-      "x": 7680,
-      "y": 3360
-    },
-    {
-      "fileName": "fnaf-4-bedroom111.png",
-      "width": 640,
-      "height": 480,
-      "x": 8320,
-      "y": 3360
-    },
-    {
-      "fileName": "fnaf-4-bedroom112.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00224.png",
+      "width": 320,
+      "height": 240,
       "x": 0,
-      "y": 3840
+      "y": 3360
     },
     {
-      "fileName": "fnaf-4-bedroom113.png",
-      "width": 640,
-      "height": 480,
+      "fileName": "fredbear_lefthall_far_00225.png",
+      "width": 320,
+      "height": 240,
+      "x": 320,
+      "y": 3360
+    },
+    {
+      "fileName": "fredbear_lefthall_far_00226.png",
+      "width": 320,
+      "height": 240,
       "x": 640,
-      "y": 3840
-    },
-    {
-      "fileName": "fnaf-4-bedroom114.png",
-      "width": 640,
-      "height": 480,
-      "x": 1280,
-      "y": 3840
-    },
-    {
-      "fileName": "fnaf-4-bedroom115.png",
-      "width": 640,
-      "height": 480,
-      "x": 1920,
-      "y": 3840
-    },
-    {
-      "fileName": "fnaf-4-bedroom116.png",
-      "width": 640,
-      "height": 480,
-      "x": 2560,
-      "y": 3840
-    },
-    {
-      "fileName": "fnaf-4-bedroom117.png",
-      "width": 640,
-      "height": 480,
-      "x": 3200,
-      "y": 3840
-    },
-    {
-      "fileName": "fnaf-4-bedroom118.png",
-      "width": 640,
-      "height": 480,
-      "x": 3840,
-      "y": 3840
-    },
-    {
-      "fileName": "fnaf-4-bedroom119.png",
-      "width": 640,
-      "height": 480,
-      "x": 4480,
-      "y": 3840
-    },
-    {
-      "fileName": "fnaf-4-bedroom120.png",
-      "width": 640,
-      "height": 480,
-      "x": 5120,
-      "y": 3840
-    },
-    {
-      "fileName": "fnaf-4-bedroom121.png",
-      "width": 640,
-      "height": 480,
-      "x": 5760,
-      "y": 3840
-    },
-    {
-      "fileName": "fnaf-4-bedroom122.png",
-      "width": 640,
-      "height": 480,
-      "x": 6400,
-      "y": 3840
-    },
-    {
-      "fileName": "fnaf-4-bedroom123.png",
-      "width": 640,
-      "height": 480,
-      "x": 7040,
-      "y": 3840
-    },
-    {
-      "fileName": "fnaf-4-bedroom124.png",
-      "width": 640,
-      "height": 480,
-      "x": 7680,
-      "y": 3840
-    },
-    {
-      "fileName": "fnaf-4-bedroom125.png",
-      "width": 640,
-      "height": 480,
-      "x": 8320,
-      "y": 3840
-    },
-    {
-      "fileName": "fnaf-4-bedroom126.png",
-      "width": 640,
-      "height": 480,
-      "x": 0,
-      "y": 4320
-    },
-    {
-      "fileName": "fnaf-4-bedroom127.png",
-      "width": 640,
-      "height": 480,
-      "x": 640,
-      "y": 4320
-    },
-    {
-      "fileName": "fnaf-4-bedroom128.png",
-      "width": 640,
-      "height": 480,
-      "x": 1280,
-      "y": 4320
-    },
-    {
-      "fileName": "fnaf-4-bedroom129.png",
-      "width": 640,
-      "height": 480,
-      "x": 1920,
-      "y": 4320
-    },
-    {
-      "fileName": "fnaf-4-bedroom130.png",
-      "width": 640,
-      "height": 480,
-      "x": 2560,
-      "y": 4320
-    },
-    {
-      "fileName": "fnaf-4-bedroom131.png",
-      "width": 640,
-      "height": 480,
-      "x": 3200,
-      "y": 4320
-    },
-    {
-      "fileName": "fnaf-4-bedroom132.png",
-      "width": 640,
-      "height": 480,
-      "x": 3840,
-      "y": 4320
-    },
-    {
-      "fileName": "fnaf-4-bedroom133.png",
-      "width": 640,
-      "height": 480,
-      "x": 4480,
-      "y": 4320
-    },
-    {
-      "fileName": "fnaf-4-bedroom134.png",
-      "width": 640,
-      "height": 480,
-      "x": 5120,
-      "y": 4320
-    },
-    {
-      "fileName": "fnaf-4-bedroom135.png",
-      "width": 640,
-      "height": 480,
-      "x": 5760,
-      "y": 4320
-    },
-    {
-      "fileName": "fnaf-4-bedroom136.png",
-      "width": 640,
-      "height": 480,
-      "x": 6400,
-      "y": 4320
-    },
-    {
-      "fileName": "fnaf-4-bedroom137.png",
-      "width": 640,
-      "height": 480,
-      "x": 7040,
-      "y": 4320
-    },
-    {
-      "fileName": "fnaf-4-bedroom138.png",
-      "width": 640,
-      "height": 480,
-      "x": 7680,
-      "y": 4320
-    },
-    {
-      "fileName": "fnaf-4-bedroom139.png",
-      "width": 640,
-      "height": 480,
-      "x": 8320,
-      "y": 4320
-    },
-    {
-      "fileName": "fnaf-4-bedroom140.png",
-      "width": 640,
-      "height": 480,
-      "x": 0,
-      "y": 4800
-    },
-    {
-      "fileName": "fnaf-4-bedroom141.png",
-      "width": 640,
-      "height": 480,
-      "x": 640,
-      "y": 4800
-    },
-    {
-      "fileName": "fnaf-4-bedroom142.png",
-      "width": 640,
-      "height": 480,
-      "x": 1280,
-      "y": 4800
-    },
-    {
-      "fileName": "fnaf-4-bedroom143.png",
-      "width": 640,
-      "height": 480,
-      "x": 1920,
-      "y": 4800
-    },
-    {
-      "fileName": "fnaf-4-bedroom144.png",
-      "width": 640,
-      "height": 480,
-      "x": 2560,
-      "y": 4800
-    },
-    {
-      "fileName": "fnaf-4-bedroom145.png",
-      "width": 640,
-      "height": 480,
-      "x": 3200,
-      "y": 4800
-    },
-    {
-      "fileName": "fnaf-4-bedroom146.png",
-      "width": 640,
-      "height": 480,
-      "x": 3840,
-      "y": 4800
-    },
-    {
-      "fileName": "fnaf-4-bedroom147.png",
-      "width": 640,
-      "height": 480,
-      "x": 4480,
-      "y": 4800
-    },
-    {
-      "fileName": "fnaf-4-bedroom148.png",
-      "width": 640,
-      "height": 480,
-      "x": 5120,
-      "y": 4800
-    },
-    {
-      "fileName": "fnaf-4-bedroom149.png",
-      "width": 640,
-      "height": 480,
-      "x": 5760,
-      "y": 4800
-    },
-    {
-      "fileName": "fnaf-4-bedroom150.png",
-      "width": 640,
-      "height": 480,
-      "x": 6400,
-      "y": 4800
-    },
-    {
-      "fileName": "fnaf-4-bedroom151.png",
-      "width": 640,
-      "height": 480,
-      "x": 7040,
-      "y": 4800
-    },
-    {
-      "fileName": "fnaf-4-bedroom152.png",
-      "width": 640,
-      "height": 480,
-      "x": 7680,
-      "y": 4800
-    },
-    {
-      "fileName": "fnaf-4-bedroom153.png",
-      "width": 640,
-      "height": 480,
-      "x": 8320,
-      "y": 4800
-    },
-    {
-      "fileName": "fnaf-4-bedroom154.png",
-      "width": 640,
-      "height": 480,
-      "x": 0,
-      "y": 5280
-    },
-    {
-      "fileName": "fnaf-4-bedroom155.png",
-      "width": 640,
-      "height": 480,
-      "x": 640,
-      "y": 5280
-    },
-    {
-      "fileName": "fnaf-4-bedroom156.png",
-      "width": 640,
-      "height": 480,
-      "x": 1280,
-      "y": 5280
-    },
-    {
-      "fileName": "fnaf-4-bedroom157.png",
-      "width": 640,
-      "height": 480,
-      "x": 1920,
-      "y": 5280
-    },
-    {
-      "fileName": "fnaf-4-bedroom158.png",
-      "width": 640,
-      "height": 480,
-      "x": 2560,
-      "y": 5280
-    },
-    {
-      "fileName": "fnaf-4-bedroom159.png",
-      "width": 640,
-      "height": 480,
-      "x": 3200,
-      "y": 5280
-    },
-    {
-      "fileName": "fnaf-4-bedroom160.png",
-      "width": 640,
-      "height": 480,
-      "x": 3840,
-      "y": 5280
-    },
-    {
-      "fileName": "fnaf-4-bedroom161.png",
-      "width": 640,
-      "height": 480,
-      "x": 4480,
-      "y": 5280
-    },
-    {
-      "fileName": "fnaf-4-bedroom162.png",
-      "width": 640,
-      "height": 480,
-      "x": 5120,
-      "y": 5280
-    },
-    {
-      "fileName": "fnaf-4-bedroom163.png",
-      "width": 640,
-      "height": 480,
-      "x": 5760,
-      "y": 5280
-    },
-    {
-      "fileName": "fnaf-4-bedroom164.png",
-      "width": 640,
-      "height": 480,
-      "x": 6400,
-      "y": 5280
-    },
-    {
-      "fileName": "fnaf-4-bedroom165.png",
-      "width": 640,
-      "height": 480,
-      "x": 7040,
-      "y": 5280
-    },
-    {
-      "fileName": "fnaf-4-bedroom166.png",
-      "width": 640,
-      "height": 480,
-      "x": 7680,
-      "y": 5280
-    },
-    {
-      "fileName": "fnaf-4-bedroom167.png",
-      "width": 640,
-      "height": 480,
-      "x": 8320,
-      "y": 5280
-    },
-    {
-      "fileName": "fnaf-4-bedroom168.png",
-      "width": 640,
-      "height": 480,
-      "x": 0,
-      "y": 5760
-    },
-    {
-      "fileName": "fnaf-4-bedroom169.png",
-      "width": 640,
-      "height": 480,
-      "x": 640,
-      "y": 5760
-    },
-    {
-      "fileName": "fnaf-4-bedroom170.png",
-      "width": 640,
-      "height": 480,
-      "x": 1280,
-      "y": 5760
-    },
-    {
-      "fileName": "fnaf-4-bedroom171.png",
-      "width": 640,
-      "height": 480,
-      "x": 1920,
-      "y": 5760
-    },
-    {
-      "fileName": "fnaf-4-bedroom172.png",
-      "width": 640,
-      "height": 480,
-      "x": 2560,
-      "y": 5760
-    },
-    {
-      "fileName": "fnaf-4-bedroom173.png",
-      "width": 640,
-      "height": 480,
-      "x": 3200,
-      "y": 5760
-    },
-    {
-      "fileName": "fnaf-4-bedroom174.png",
-      "width": 640,
-      "height": 480,
-      "x": 3840,
-      "y": 5760
-    },
-    {
-      "fileName": "fnaf-4-bedroom175.png",
-      "width": 640,
-      "height": 480,
-      "x": 4480,
-      "y": 5760
-    },
-    {
-      "fileName": "fnaf-4-bedroom176.png",
-      "width": 640,
-      "height": 480,
-      "x": 5120,
-      "y": 5760
-    },
-    {
-      "fileName": "fnaf-4-bedroom177.png",
-      "width": 640,
-      "height": 480,
-      "x": 5760,
-      "y": 5760
-    },
-    {
-      "fileName": "fnaf-4-bedroom178.png",
-      "width": 640,
-      "height": 480,
-      "x": 6400,
-      "y": 5760
-    },
-    {
-      "fileName": "fnaf-4-bedroom179.png",
-      "width": 640,
-      "height": 480,
-      "x": 7040,
-      "y": 5760
-    },
-    {
-      "fileName": "fnaf-4-bedroom180.png",
-      "width": 640,
-      "height": 480,
-      "x": 7680,
-      "y": 5760
-    },
-    {
-      "fileName": "fnaf-4-bedroom181.png",
-      "width": 640,
-      "height": 480,
-      "x": 8320,
-      "y": 5760
-    },
-    {
-      "fileName": "fnaf-4-bedroom182.png",
-      "width": 640,
-      "height": 480,
-      "x": 0,
-      "y": 6240
-    },
-    {
-      "fileName": "fnaf-4-bedroom183.png",
-      "width": 640,
-      "height": 480,
-      "x": 640,
-      "y": 6240
-    },
-    {
-      "fileName": "fnaf-4-bedroom184.png",
-      "width": 640,
-      "height": 480,
-      "x": 1280,
-      "y": 6240
-    },
-    {
-      "fileName": "fnaf-4-bedroom185.png",
-      "width": 640,
-      "height": 480,
-      "x": 1920,
-      "y": 6240
-    },
-    {
-      "fileName": "fnaf-4-bedroom186.png",
-      "width": 640,
-      "height": 480,
-      "x": 2560,
-      "y": 6240
+      "y": 3360
     }
   ],
   "packMode": "grid",
   "padding": 0,
   "backgroundColor": "rgba(0, 0, 0, 0)",
-  "spriteSheetWidth": 8960,
-  "spriteSheetHeight": 6720
+  "spriteSheetWidth": 5120,
+  "spriteSheetHeight": 3600
 }

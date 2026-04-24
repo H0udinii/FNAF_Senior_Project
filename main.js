@@ -200,7 +200,7 @@ function drawBedroomFrame(index) {
   if (!f) return;
 
   const canvas5 = document.getElementById("bedroom_canvas");
-  const ctx5 = canvas5.getContext("2d");
+  const ctx5 = canvas5.getContext("2d", { willReadFrequently: true });
 
   ctx5.clearRect(0, 0, canvas5.width, canvas5.height);
   ctx5.drawImage(img5, f.x, f.y, f.width, f.height, 0, 0, canvas5.width, canvas5.height);
@@ -210,7 +210,7 @@ function drawBite87Frame(index) {
   if (!f) return;
 
   const canvas6 = document.getElementById("bite_87");
-  const ctx6 = canvas6.getContext("2d");
+  const ctx6 = canvas6.getContext("2d", { willReadFrequently: true });
 
   ctx6.clearRect(0, 0, canvas6.width, canvas6.height);
   ctx6.drawImage(img6, f.x, f.y, f.width, f.height, 0, 0, canvas6.width, canvas6.height);
@@ -253,29 +253,27 @@ function setActive(section) {
 const tl = gsap.timeline({
   scrollTrigger: {
     trigger: "#fnaf_4",
-    start: "top top",
+    start: "top top+=35px",
     end: () => "+=" + window.innerWidth * panels * 2,
-    scrub: 0.8,
+    scrub: 1,
     pin: true,
     anticipatePin: 1
   }
 });
 
 tl.to(".track2", {
-  xPercent: -100,
+  xPercent: -75,
   ease: "none"
 });
 let lastFrame4 = -1;
 
 gsap.to(state4, {
   frame: frames4.length - 1,
+  duration: 5,
   ease: "none",
   scrollTrigger: {
     trigger: "#menu_canvas",
-    start: "top bottom-=900px",
-    end: "+=5000px",
-    markers: true,
-    scrub: 1.2
+   toggleActions: "play pause resume reset",
   },
   onUpdate: () => {
     const frame = Math.floor(state4.frame);
@@ -285,23 +283,25 @@ gsap.to(state4, {
     }
   }
 });
+let ticking = false;
 let lastFrame5 = -1;
 
 gsap.to(state5, {
   frame: frames5.length - 1,
+  duration: 10,
   ease: "none",
   scrollTrigger: {
     containerAnimation: tl,
     trigger: "#bedroom_canvas",
-    start: "left 80%",
-    end: "+=8000",
-    scrub: 0.8
+     toggleActions: "play pause resume reset",
   },
   onUpdate: () => {
     const frame = Math.floor(state5.frame);
-    if (frame !== lastFrame5) {
+    if (frame !== lastFrame5 && !ticking) {
       lastFrame5 = frame;
+      ticking = true
       requestAnimationFrame(() => drawBedroomFrame(frame));
+      ticking = false;
     }
   }
 });
@@ -310,13 +310,12 @@ let lastFrame6 = -1;
 
 gsap.to(state6, {
   frame: frames6.length - 1,
+  duration: 10,
   ease: "none",
   scrollTrigger: {
     containerAnimation: tl,
     trigger: "#bite_87",
-    start: "left 80%",
-    end: "+=6000",
-    scrub: 0.8
+     toggleActions: "play pause resume reverse",
   },
   onUpdate: () => {
     const frame = Math.floor(state6.frame);

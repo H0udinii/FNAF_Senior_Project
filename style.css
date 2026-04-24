@@ -128,7 +128,7 @@ h1{
 }
  /* FNAF 1 */
  #fredHead p{
-    font-size: 12pt;
+    font-size: 16pt;
     line-height: 25px;
     padding: 10px;
   }
@@ -197,6 +197,7 @@ h1{
  #fnaf_2 {
   position: relative;
   min-height: 200vh;
+  margin-bottom: 50px;
 }
  #fnaf_2 img{
    position: relative;
@@ -241,6 +242,7 @@ position: relative;
 .track2 {
   display: flex;
   width: max-content;
+  overflow:hidden ;
 }
 
 .panel2 {
@@ -251,7 +253,7 @@ position: relative;
 }
 .bedroom_panel,
 .bite_panel {
-  will-change: transform;
+  position: sticky;
 }
 
 .bedroom_panel, .bite_panel{
