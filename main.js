@@ -271,12 +271,11 @@ gsap.to(state4, {
   frame: frames4.length - 1,
   ease: "none",
   scrollTrigger: {
-    containerAnimation: tl,
     trigger: "#menu_canvas",
-    start: "left center",
-    end: "right center",
-    pin:true,
-    scrub: 0.8
+    start: "top bottom-=900px",
+    end: "+=5000px",
+    markers: true,
+    scrub: 1.2
   },
   onUpdate: () => {
     const frame = Math.floor(state4.frame);
@@ -294,8 +293,8 @@ gsap.to(state5, {
   scrollTrigger: {
     containerAnimation: tl,
     trigger: "#bedroom_canvas",
-    start: "left center",
-    end: "right center",
+    start: "left 80%",
+    end: "+=8000",
     scrub: 0.8
   },
   onUpdate: () => {
@@ -315,8 +314,8 @@ gsap.to(state6, {
   scrollTrigger: {
     containerAnimation: tl,
     trigger: "#bite_87",
-    start: "left center",
-    end: "right center",
+    start: "left 80%",
+    end: "+=6000",
     scrub: 0.8
   },
   onUpdate: () => {
