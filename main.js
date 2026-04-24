@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-
+gsap.registerPlugin(ScrollTrigger);
 
   // TITLE FADE + PIN //
   gsap.to("#FNAF", {
@@ -149,10 +149,10 @@ Promise.all([
       ease: "none",
       scrollTrigger: {
         trigger: "#abby_canvas",
-        start: "top 10%",
-        end: "bottom+=5500px",
+        start: "top 5%",
+        end: "bottom+=3000",
         pin: true,
-        scrub: true
+        scrub: 0.8
       },
       onUpdate: () => drawAbbyFrame(Math.floor(state2.frame))
     });
@@ -230,72 +230,109 @@ Promise.all([
   img5.src = "./Assets/sprites/bedroom_spritesheet.png";
   img6.src = "./Assets/sprites/bite87_spritesheet.png";
 
+  // WAIT FOR IMAGES PROPERLY
   Promise.all([
     new Promise(res => img4.onload = res),
     new Promise(res => img5.onload = res),
     new Promise(res => img6.onload = res)
   ]).then(() => {
 
-    
-// Timeline //
-const panels = document.querySelectorAll(".panel2").length;
 
-    const tl = gsap.timeline({
-      scrollTrigger: {
-        trigger: "#fnaf_4",
-       start: "100% top",
-        end:  () => "+=" + window.innerWidth * 3, 
-        scrub: true,
-        pin: true,
-        anticipatePin: 1,
-        markers: true
-      }
-    });
-
-   
-    // Horizontal Scroll //
-
-    tl.to(".track2", {
-      xPercent: -200 * (panels - 1),
-      ease: "none",
-    }, 0);
-
-
-    // Menu // 
-  
-    tl.to(state4, {
-      frame: frames4.length - 1,
-      duration: 2,
-      ease: "none",
-      scrollTrigger: {
-      containerAnimation: tl,
-      trigger: "#bedroom_canvas",
-      start: "left",
-      end: "right",
-      scrub: true
-},
-      onUpdate: () => drawMenuFrame(Math.floor(state4.frame))
-    }, 0.5);
-
-
-    // Bedroom //
-
-    tl.to(state5, {
-      frame: frames5.length - 1,
-      ease: "none",
-      onUpdate: () => drawBedroomFrame(Math.floor(state5.frame))
-    }, 1);
-
-// Bite of 87 //
-    tl.to(state6, {
-      frame: frames6.length - 1,
-      ease: "none",
-      onUpdate: () => drawBite87Frame(Math.floor(state6.frame))
-    }, 2);
-
+   document.querySelectorAll("#menu_canvas, #bedroom_canvas, #bite_87")
+  .forEach(c => {
+    c.width = window.innerWidth;
+    c.height = window.innerHeight;
   });
-  ScrollTrigger.refresh();
-});
+let activeSection = null;
+
+function setActive(section) {
+  activeSection = section;
+}
+    const panels = document.querySelectorAll(".panel2, .right_side, .left_side").length;
+
+const tl = gsap.timeline({
+  scrollTrigger: {
+    trigger: "#fnaf_4",
+    start: "top top",
+    end: () => "+=" + window.innerWidth * panels * 2,
+    scrub: 0.8,
+    pin: true,
+    anticipatePin: 1
+  }
 });
 
+tl.to(".track2", {
+  xPercent: -100,
+  ease: "none"
+});
+let lastFrame4 = -1;
+
+gsap.to(state4, {
+  frame: frames4.length - 1,
+  ease: "none",
+  scrollTrigger: {
+    containerAnimation: tl,
+    trigger: "#menu_canvas",
+    start: "left center",
+    end: "right center",
+    pin:true,
+    scrub: 0.8
+  },
+  onUpdate: () => {
+    const frame = Math.floor(state4.frame);
+    if (frame !== lastFrame4) {
+      lastFrame4 = frame;
+      requestAnimationFrame(() => drawMenuFrame(frame));
+    }
+  }
+});
+let lastFrame5 = -1;
+
+gsap.to(state5, {
+  frame: frames5.length - 1,
+  ease: "none",
+  scrollTrigger: {
+    containerAnimation: tl,
+    trigger: "#bedroom_canvas",
+    start: "left center",
+    end: "right center",
+    scrub: 0.8
+  },
+  onUpdate: () => {
+    const frame = Math.floor(state5.frame);
+    if (frame !== lastFrame5) {
+      lastFrame5 = frame;
+      requestAnimationFrame(() => drawBedroomFrame(frame));
+    }
+  }
+});
+
+let lastFrame6 = -1;
+
+gsap.to(state6, {
+  frame: frames6.length - 1,
+  ease: "none",
+  scrollTrigger: {
+    containerAnimation: tl,
+    trigger: "#bite_87",
+    start: "left center",
+    end: "right center",
+    scrub: 0.8
+  },
+  onUpdate: () => {
+    const frame = Math.floor(state6.frame);
+    if (frame !== lastFrame6) {
+      lastFrame6 = frame;
+      requestAnimationFrame(() => drawBite87Frame(frame));
+    }
+  }
+});
+    ScrollTrigger.refresh();
+  });
+  console.log("FNAF 4 loaded");
+});
+ScrollTrigger.config({
+  limitCallbacks: true
+});
+});
 });
