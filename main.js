@@ -50,11 +50,9 @@ gsap.registerPlugin(ScrollTrigger);
           scrollTrigger: {
             trigger: "#fnaf_1",
             start: "top top",
-            end: "+=4000",   
-            scrub: 1,
-            pin: true,
-            anticipatePin: 1
-          }
+            end: "+=3800",   
+            scrub: 2,
+            pin: true          }
         });
 
         // Horizontal Scroll //
@@ -86,7 +84,7 @@ gsap.fromTo(".text_1",
     ease: "power2.out",
     scrollTrigger: {
       trigger: ".text_1",
-      start: "top+=3500px top+=250px",
+      start: "top+=3500px top+=200px",
       toggleActions: "play none none none",
       scrub: 2
     }

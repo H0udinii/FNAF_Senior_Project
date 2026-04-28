@@ -120,16 +120,20 @@ h1{
     height: 100%;
     object-position: left;
  }
- canvas {
-  width: 100%;
-  height: 100%;
+ #abby_canvas, #puppet_canvas {
+  width: 100vw;
+  height: 100vh;
   display: block;
   image-rendering: pixelated;
+}
+#bedroom_canvas, #menu_canvas, #bite_87{
+    width: 100%;
+    height: 100%;
 }
  /* FNAF 1 */
  #fredHead p{
     font-size: 16pt;
-    line-height: 25px;
+    line-height: 1.35;
     padding: 10px;
   }
 
@@ -182,7 +186,7 @@ h1{
   position: relative; 
   padding: 60px;
   width: fit-content;
-  margin: 0 auto;
+  margin-top: -850px;
 
   font-size: 36px;
   line-height: 1.6;
@@ -235,6 +239,7 @@ position: relative;
 }
 #fnaf_4 {
   position: relative;
+  width: 100%;
   height: 100vh;
   overflow: hidden;
 }
@@ -258,8 +263,6 @@ position: relative;
 
 .bedroom_panel, .bite_panel{
   display: flex;
-  width: 100vw;
-  height: 100vh;
 }
 .bedroom_right, .bedroom_left, .bite_left,
 .bite_right {
