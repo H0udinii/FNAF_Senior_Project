@@ -1,4 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
+  "use strict";
 gsap.registerPlugin(ScrollTrigger);
 
   // TITLE FADE + PIN //
@@ -150,7 +151,7 @@ Promise.all([
         start: "top 5%",
         end: "bottom+=3000",
         pin: true,
-        scrub: 0.8
+        scrub: true
       },
       onUpdate: () => drawAbbyFrame(Math.floor(state2.frame))
     });

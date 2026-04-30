@@ -1,345 +1,681 @@
 {
   "sprites": [
     {
-      "fileName": "stage_bg_000002.png",
-      "width": 1370,
-      "height": 922,
+      "fileName": "stage_bg_00000.png",
+      "width": 685,
+      "height": 461,
       "x": 0,
       "y": 0
     },
     {
-      "fileName": "stage_bg_000012.png",
-      "width": 1370,
-      "height": 922,
+      "fileName": "stage_bg_00001.png",
+      "width": 685,
+      "height": 461,
+      "x": 685,
+      "y": 0
+    },
+    {
+      "fileName": "stage_bg_00002.png",
+      "width": 685,
+      "height": 461,
       "x": 1370,
       "y": 0
     },
     {
-      "fileName": "stage_bg_000022.png",
-      "width": 1370,
-      "height": 922,
+      "fileName": "stage_bg_00003.png",
+      "width": 685,
+      "height": 461,
+      "x": 2055,
+      "y": 0
+    },
+    {
+      "fileName": "stage_bg_00024.png",
+      "width": 685,
+      "height": 461,
       "x": 2740,
       "y": 0
     },
     {
-      "fileName": "stage_bg_000032.png",
-      "width": 1370,
-      "height": 922,
+      "fileName": "stage_bg_00004.png",
+      "width": 685,
+      "height": 461,
+      "x": 3425,
+      "y": 0
+    },
+    {
+      "fileName": "stage_bg_00005.png",
+      "width": 685,
+      "height": 461,
       "x": 4110,
       "y": 0
     },
     {
-      "fileName": "stage_bg_000042.png",
-      "width": 1370,
-      "height": 922,
+      "fileName": "stage_bg_00006.png",
+      "width": 685,
+      "height": 461,
+      "x": 4795,
+      "y": 0
+    },
+    {
+      "fileName": "stage_bg_00007.png",
+      "width": 685,
+      "height": 461,
       "x": 5480,
       "y": 0
     },
     {
-      "fileName": "stage_bg_000052.png",
-      "width": 1370,
-      "height": 922,
-      "x": 6850,
+      "fileName": "stage_bg_00008.png",
+      "width": 685,
+      "height": 461,
+      "x": 6165,
       "y": 0
     },
     {
-      "fileName": "stage_bg_000062.png",
-      "width": 1370,
-      "height": 922,
-      "x": 8220,
-      "y": 0
+      "fileName": "stage_bg_00009.png",
+      "width": 685,
+      "height": 461,
+      "x": 0,
+      "y": 461
     },
     {
-      "fileName": "stage_bg_000072.png",
-      "width": 1370,
-      "height": 922,
+      "fileName": "stage_bg_00010.png",
+      "width": 685,
+      "height": 461,
+      "x": 685,
+      "y": 461
+    },
+    {
+      "fileName": "stage_bg_00011.png",
+      "width": 685,
+      "height": 461,
+      "x": 1370,
+      "y": 461
+    },
+    {
+      "fileName": "stage_bg_00012.png",
+      "width": 685,
+      "height": 461,
+      "x": 2055,
+      "y": 461
+    },
+    {
+      "fileName": "stage_bg_00013.png",
+      "width": 685,
+      "height": 461,
+      "x": 2740,
+      "y": 461
+    },
+    {
+      "fileName": "stage_bg_00014.png",
+      "width": 685,
+      "height": 461,
+      "x": 3425,
+      "y": 461
+    },
+    {
+      "fileName": "stage_bg_00015.png",
+      "width": 685,
+      "height": 461,
+      "x": 4110,
+      "y": 461
+    },
+    {
+      "fileName": "stage_bg_00016.png",
+      "width": 685,
+      "height": 461,
+      "x": 4795,
+      "y": 461
+    },
+    {
+      "fileName": "stage_bg_00017.png",
+      "width": 685,
+      "height": 461,
+      "x": 5480,
+      "y": 461
+    },
+    {
+      "fileName": "stage_bg_00018.png",
+      "width": 685,
+      "height": 461,
+      "x": 6165,
+      "y": 461
+    },
+    {
+      "fileName": "stage_bg_00019.png",
+      "width": 685,
+      "height": 461,
       "x": 0,
       "y": 922
     },
     {
-      "fileName": "stage_bg_000082.png",
-      "width": 1370,
-      "height": 922,
+      "fileName": "stage_bg_00020.png",
+      "width": 685,
+      "height": 461,
+      "x": 685,
+      "y": 922
+    },
+    {
+      "fileName": "stage_bg_00021.png",
+      "width": 685,
+      "height": 461,
       "x": 1370,
       "y": 922
     },
     {
-      "fileName": "stage_bg_000092.png",
-      "width": 1370,
-      "height": 922,
+      "fileName": "stage_bg_00022.png",
+      "width": 685,
+      "height": 461,
+      "x": 2055,
+      "y": 922
+    },
+    {
+      "fileName": "stage_bg_00023.png",
+      "width": 685,
+      "height": 461,
       "x": 2740,
       "y": 922
     },
     {
-      "fileName": "stage_bg_000102.png",
-      "width": 1370,
-      "height": 922,
+      "fileName": "stage_bg_00025.png",
+      "width": 685,
+      "height": 461,
+      "x": 3425,
+      "y": 922
+    },
+    {
+      "fileName": "stage_bg_00026.png",
+      "width": 685,
+      "height": 461,
       "x": 4110,
       "y": 922
     },
     {
-      "fileName": "stage_bg_000112.png",
-      "width": 1370,
-      "height": 922,
+      "fileName": "stage_bg_00027.png",
+      "width": 685,
+      "height": 461,
+      "x": 4795,
+      "y": 922
+    },
+    {
+      "fileName": "stage_bg_00028.png",
+      "width": 685,
+      "height": 461,
       "x": 5480,
       "y": 922
     },
     {
-      "fileName": "stage_bg_000122.png",
-      "width": 1370,
-      "height": 922,
-      "x": 6850,
+      "fileName": "stage_bg_00029.png",
+      "width": 685,
+      "height": 461,
+      "x": 6165,
       "y": 922
     },
     {
-      "fileName": "stage_bg_000132.png",
-      "width": 1370,
-      "height": 922,
-      "x": 8220,
-      "y": 922
+      "fileName": "stage_bg_00030.png",
+      "width": 685,
+      "height": 461,
+      "x": 0,
+      "y": 1383
     },
     {
-      "fileName": "stage_bg_000142.png",
-      "width": 1370,
-      "height": 922,
+      "fileName": "stage_bg_00031.png",
+      "width": 685,
+      "height": 461,
+      "x": 685,
+      "y": 1383
+    },
+    {
+      "fileName": "stage_bg_00032.png",
+      "width": 685,
+      "height": 461,
+      "x": 1370,
+      "y": 1383
+    },
+    {
+      "fileName": "stage_bg_00033.png",
+      "width": 685,
+      "height": 461,
+      "x": 2055,
+      "y": 1383
+    },
+    {
+      "fileName": "stage_bg_00034.png",
+      "width": 685,
+      "height": 461,
+      "x": 2740,
+      "y": 1383
+    },
+    {
+      "fileName": "stage_bg_00035.png",
+      "width": 685,
+      "height": 461,
+      "x": 3425,
+      "y": 1383
+    },
+    {
+      "fileName": "stage_bg_00036.png",
+      "width": 685,
+      "height": 461,
+      "x": 4110,
+      "y": 1383
+    },
+    {
+      "fileName": "stage_bg_00037.png",
+      "width": 685,
+      "height": 461,
+      "x": 4795,
+      "y": 1383
+    },
+    {
+      "fileName": "stage_bg_00038.png",
+      "width": 685,
+      "height": 461,
+      "x": 5480,
+      "y": 1383
+    },
+    {
+      "fileName": "stage_bg_00039.png",
+      "width": 685,
+      "height": 461,
+      "x": 6165,
+      "y": 1383
+    },
+    {
+      "fileName": "stage_bg_00040.png",
+      "width": 685,
+      "height": 461,
       "x": 0,
       "y": 1844
     },
     {
-      "fileName": "stage_bg_000152.png",
-      "width": 1370,
-      "height": 922,
+      "fileName": "stage_bg_00041.png",
+      "width": 685,
+      "height": 461,
+      "x": 685,
+      "y": 1844
+    },
+    {
+      "fileName": "stage_bg_00042.png",
+      "width": 685,
+      "height": 461,
       "x": 1370,
       "y": 1844
     },
     {
-      "fileName": "stage_bg_000162.png",
-      "width": 1370,
-      "height": 922,
+      "fileName": "stage_bg_00043.png",
+      "width": 685,
+      "height": 461,
+      "x": 2055,
+      "y": 1844
+    },
+    {
+      "fileName": "stage_bg_00044.png",
+      "width": 685,
+      "height": 461,
       "x": 2740,
       "y": 1844
     },
     {
-      "fileName": "stage_bg_000172.png",
-      "width": 1370,
-      "height": 922,
+      "fileName": "stage_bg_00045.png",
+      "width": 685,
+      "height": 461,
+      "x": 3425,
+      "y": 1844
+    },
+    {
+      "fileName": "stage_bg_00046.png",
+      "width": 685,
+      "height": 461,
       "x": 4110,
       "y": 1844
     },
     {
-      "fileName": "stage_bg_000182.png",
-      "width": 1370,
-      "height": 922,
+      "fileName": "stage_bg_00047.png",
+      "width": 685,
+      "height": 461,
+      "x": 4795,
+      "y": 1844
+    },
+    {
+      "fileName": "stage_bg_00048.png",
+      "width": 685,
+      "height": 461,
       "x": 5480,
       "y": 1844
     },
     {
-      "fileName": "stage_bg_000192.png",
-      "width": 1370,
-      "height": 922,
-      "x": 6850,
+      "fileName": "stage_bg_00049.png",
+      "width": 685,
+      "height": 461,
+      "x": 6165,
       "y": 1844
     },
     {
-      "fileName": "stage_bg_000202.png",
-      "width": 1370,
-      "height": 922,
-      "x": 8220,
-      "y": 1844
+      "fileName": "stage_bg_00050.png",
+      "width": 685,
+      "height": 461,
+      "x": 0,
+      "y": 2305
     },
     {
-      "fileName": "stage_bg_000212.png",
-      "width": 1370,
-      "height": 922,
+      "fileName": "stage_bg_00051.png",
+      "width": 685,
+      "height": 461,
+      "x": 685,
+      "y": 2305
+    },
+    {
+      "fileName": "stage_bg_00052.png",
+      "width": 685,
+      "height": 461,
+      "x": 1370,
+      "y": 2305
+    },
+    {
+      "fileName": "stage_bg_00053.png",
+      "width": 685,
+      "height": 461,
+      "x": 2055,
+      "y": 2305
+    },
+    {
+      "fileName": "stage_bg_00054.png",
+      "width": 685,
+      "height": 461,
+      "x": 2740,
+      "y": 2305
+    },
+    {
+      "fileName": "stage_bg_00055.png",
+      "width": 685,
+      "height": 461,
+      "x": 3425,
+      "y": 2305
+    },
+    {
+      "fileName": "stage_bg_00056.png",
+      "width": 685,
+      "height": 461,
+      "x": 4110,
+      "y": 2305
+    },
+    {
+      "fileName": "stage_bg_00057.png",
+      "width": 685,
+      "height": 461,
+      "x": 4795,
+      "y": 2305
+    },
+    {
+      "fileName": "stage_bg_00058.png",
+      "width": 685,
+      "height": 461,
+      "x": 5480,
+      "y": 2305
+    },
+    {
+      "fileName": "stage_bg_00059.png",
+      "width": 685,
+      "height": 461,
+      "x": 6165,
+      "y": 2305
+    },
+    {
+      "fileName": "stage_bg_00060.png",
+      "width": 685,
+      "height": 461,
       "x": 0,
       "y": 2766
     },
     {
-      "fileName": "stage_bg_000222.png",
-      "width": 1370,
-      "height": 922,
+      "fileName": "stage_bg_00061.png",
+      "width": 685,
+      "height": 461,
+      "x": 685,
+      "y": 2766
+    },
+    {
+      "fileName": "stage_bg_00062.png",
+      "width": 685,
+      "height": 461,
       "x": 1370,
       "y": 2766
     },
     {
-      "fileName": "stage_bg_000232.png",
-      "width": 1370,
-      "height": 922,
+      "fileName": "stage_bg_00063.png",
+      "width": 685,
+      "height": 461,
+      "x": 2055,
+      "y": 2766
+    },
+    {
+      "fileName": "stage_bg_00064.png",
+      "width": 685,
+      "height": 461,
       "x": 2740,
       "y": 2766
     },
     {
-      "fileName": "stage_bg_000242.png",
-      "width": 1370,
-      "height": 922,
+      "fileName": "stage_bg_00065.png",
+      "width": 685,
+      "height": 461,
+      "x": 3425,
+      "y": 2766
+    },
+    {
+      "fileName": "stage_bg_00066.png",
+      "width": 685,
+      "height": 461,
       "x": 4110,
       "y": 2766
     },
     {
-      "fileName": "stage_bg_000252.png",
-      "width": 1370,
-      "height": 922,
+      "fileName": "stage_bg_00067.png",
+      "width": 685,
+      "height": 461,
+      "x": 4795,
+      "y": 2766
+    },
+    {
+      "fileName": "stage_bg_00068.png",
+      "width": 685,
+      "height": 461,
       "x": 5480,
       "y": 2766
     },
     {
-      "fileName": "stage_bg_000262.png",
-      "width": 1370,
-      "height": 922,
-      "x": 6850,
+      "fileName": "stage_bg_00069.png",
+      "width": 685,
+      "height": 461,
+      "x": 6165,
       "y": 2766
     },
     {
-      "fileName": "stage_bg_000272.png",
-      "width": 1370,
-      "height": 922,
-      "x": 8220,
-      "y": 2766
+      "fileName": "stage_bg_00070.png",
+      "width": 685,
+      "height": 461,
+      "x": 0,
+      "y": 3227
     },
     {
-      "fileName": "stage_bg_000282.png",
-      "width": 1370,
-      "height": 922,
+      "fileName": "stage_bg_00071.png",
+      "width": 685,
+      "height": 461,
+      "x": 685,
+      "y": 3227
+    },
+    {
+      "fileName": "stage_bg_00072.png",
+      "width": 685,
+      "height": 461,
+      "x": 1370,
+      "y": 3227
+    },
+    {
+      "fileName": "stage_bg_00073.png",
+      "width": 685,
+      "height": 461,
+      "x": 2055,
+      "y": 3227
+    },
+    {
+      "fileName": "stage_bg_00074.png",
+      "width": 685,
+      "height": 461,
+      "x": 2740,
+      "y": 3227
+    },
+    {
+      "fileName": "stage_bg_00075.png",
+      "width": 685,
+      "height": 461,
+      "x": 3425,
+      "y": 3227
+    },
+    {
+      "fileName": "stage_bg_00076.png",
+      "width": 685,
+      "height": 461,
+      "x": 4110,
+      "y": 3227
+    },
+    {
+      "fileName": "stage_bg_00077.png",
+      "width": 685,
+      "height": 461,
+      "x": 4795,
+      "y": 3227
+    },
+    {
+      "fileName": "stage_bg_00078.png",
+      "width": 685,
+      "height": 461,
+      "x": 5480,
+      "y": 3227
+    },
+    {
+      "fileName": "stage_bg_00079.png",
+      "width": 685,
+      "height": 461,
+      "x": 6165,
+      "y": 3227
+    },
+    {
+      "fileName": "stage_bg_00080.png",
+      "width": 685,
+      "height": 461,
       "x": 0,
       "y": 3688
     },
     {
-      "fileName": "stage_bg_000292.png",
-      "width": 1370,
-      "height": 922,
+      "fileName": "stage_bg_00081.png",
+      "width": 685,
+      "height": 461,
+      "x": 685,
+      "y": 3688
+    },
+    {
+      "fileName": "stage_bg_00082.png",
+      "width": 685,
+      "height": 461,
       "x": 1370,
       "y": 3688
     },
     {
-      "fileName": "stage_bg_000302.png",
-      "width": 1370,
-      "height": 922,
+      "fileName": "stage_bg_00083.png",
+      "width": 685,
+      "height": 461,
+      "x": 2055,
+      "y": 3688
+    },
+    {
+      "fileName": "stage_bg_00084.png",
+      "width": 685,
+      "height": 461,
       "x": 2740,
       "y": 3688
     },
     {
-      "fileName": "stage_bg_000312.png",
-      "width": 1370,
-      "height": 922,
+      "fileName": "stage_bg_00085.png",
+      "width": 685,
+      "height": 461,
+      "x": 3425,
+      "y": 3688
+    },
+    {
+      "fileName": "stage_bg_00086.png",
+      "width": 685,
+      "height": 461,
       "x": 4110,
       "y": 3688
     },
     {
-      "fileName": "stage_bg_000322.png",
-      "width": 1370,
-      "height": 922,
+      "fileName": "stage_bg_00087.png",
+      "width": 685,
+      "height": 461,
+      "x": 4795,
+      "y": 3688
+    },
+    {
+      "fileName": "stage_bg_00088.png",
+      "width": 685,
+      "height": 461,
       "x": 5480,
       "y": 3688
     },
     {
-      "fileName": "stage_bg_000332.png",
-      "width": 1370,
-      "height": 922,
-      "x": 6850,
+      "fileName": "stage_bg_00089.png",
+      "width": 685,
+      "height": 461,
+      "x": 6165,
       "y": 3688
     },
     {
-      "fileName": "stage_bg_000342.png",
-      "width": 1370,
-      "height": 922,
-      "x": 8220,
-      "y": 3688
-    },
-    {
-      "fileName": "stage_bg_000352.png",
-      "width": 1370,
-      "height": 922,
+      "fileName": "stage_bg_00090.png",
+      "width": 685,
+      "height": 461,
       "x": 0,
-      "y": 4610
+      "y": 4149
     },
     {
-      "fileName": "stage_bg_000362.png",
-      "width": 1370,
-      "height": 922,
+      "fileName": "stage_bg_00091.png",
+      "width": 685,
+      "height": 461,
+      "x": 685,
+      "y": 4149
+    },
+    {
+      "fileName": "stage_bg_00092.png",
+      "width": 685,
+      "height": 461,
       "x": 1370,
-      "y": 4610
+      "y": 4149
     },
     {
-      "fileName": "stage_bg_000372.png",
-      "width": 1370,
-      "height": 922,
+      "fileName": "stage_bg_00093.png",
+      "width": 685,
+      "height": 461,
+      "x": 2055,
+      "y": 4149
+    },
+    {
+      "fileName": "stage_bg_00094.png",
+      "width": 685,
+      "height": 461,
       "x": 2740,
-      "y": 4610
+      "y": 4149
     },
     {
-      "fileName": "stage_bg_000382.png",
-      "width": 1370,
-      "height": 922,
-      "x": 4110,
-      "y": 4610
-    },
-    {
-      "fileName": "stage_bg_000392.png",
-      "width": 1370,
-      "height": 922,
-      "x": 5480,
-      "y": 4610
-    },
-    {
-      "fileName": "stage_bg_000402.png",
-      "width": 1370,
-      "height": 922,
-      "x": 6850,
-      "y": 4610
-    },
-    {
-      "fileName": "stage_bg_000412.png",
-      "width": 1370,
-      "height": 922,
-      "x": 8220,
-      "y": 4610
-    },
-    {
-      "fileName": "stage_bg_000422.png",
-      "width": 1370,
-      "height": 922,
-      "x": 0,
-      "y": 5532
-    },
-    {
-      "fileName": "stage_bg_000432.png",
-      "width": 1370,
-      "height": 922,
-      "x": 1370,
-      "y": 5532
-    },
-    {
-      "fileName": "stage_bg_000442.png",
-      "width": 1370,
-      "height": 922,
-      "x": 2740,
-      "y": 5532
-    },
-    {
-      "fileName": "stage_bg_000452.png",
-      "width": 1370,
-      "height": 922,
-      "x": 4110,
-      "y": 5532
-    },
-    {
-      "fileName": "stage_bg_000462.png",
-      "width": 1370,
-      "height": 922,
-      "x": 5480,
-      "y": 5532
-    },
-    {
-      "fileName": "stage_bg_000472.png",
-      "width": 1370,
-      "height": 922,
-      "x": 6850,
-      "y": 5532
+      "fileName": "stage_bg_00095.png",
+      "width": 685,
+      "height": 461,
+      "x": 3425,
+      "y": 4149
     }
   ],
   "packMode": "grid",
   "padding": 0,
   "backgroundColor": "rgba(0, 0, 0, 0)",
-  "spriteSheetWidth": 9590,
-  "spriteSheetHeight": 6454
+  "spriteSheetWidth": 6850,
+  "spriteSheetHeight": 4610
 }

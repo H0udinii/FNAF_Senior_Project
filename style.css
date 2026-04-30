@@ -69,7 +69,16 @@ h1{
   padding: 10px;
     font-size: 48pt;
 }
+p{
+  font-size: 24pt;
+    line-height: 1.35;
+    padding: 50px;
+   
 
+}
+b{
+font-size: 36pt;
+}
 
 
 
@@ -124,23 +133,26 @@ h1{
   width: 100vw;
   height: 100vh;
   display: block;
-  image-rendering: pixelated;
+  
 }
-#bedroom_canvas, #menu_canvas, #bite_87{
+#bedroom_canvas{
     width: 100%;
     height: 100%;
+    
+}
+#bedroom_canvas,
+#bite_87 {
+  width: 100%;
+  height: 100%;
+  display: block;
 }
  /* FNAF 1 */
- #fredHead p{
-    font-size: 16pt;
-    line-height: 1.35;
-    padding: 10px;
-  }
+
 
  .parallax_freddy > *{
   display: grid;
-  grid-template-columns: 4fr 3fr;
-  
+  grid-template-columns: 6fr 3.75fr;
+  overflow-y: scroll;
   padding-right: 75px;
   padding-bottom: 100px;
   
@@ -160,6 +172,7 @@ h1{
   margin-bottom: 100vh;
   overflow: hidden;
 }
+
 
 .track {
   display: flex;
@@ -184,24 +197,27 @@ h1{
 
 .text_1 {
   position: relative; 
-  padding: 60px;
-  width: fit-content;
+  /* padding: 60px;
+  width: fit-content; */
   margin-top: -850px;
-
-  font-size: 36px;
-  line-height: 1.6;
+  margin-bottom: 150px;
+  /* font-size: 36px; */
+  /* line-height: 1.6; */
 
   opacity: 0;
 }
-.text_1 b{
+/* .text_1 b{
   font-size: 60px;
-}
+} */
 
  /* FNAF 2  */
  #fnaf_2 {
   position: relative;
   min-height: 200vh;
-  margin-bottom: 50px;
+  margin-bottom: 200px;
+}
+#fnaf_2 p{
+padding: 20px;
 }
  #fnaf_2 img{
    position: relative;
@@ -213,21 +229,21 @@ h1{
   top: 0;
   z-index: 10;
   background: black;
-  padding: 20px;
+  
 }
 .text_2, .text_2b, .text_3, .text_4, .text_5 {
 position: relative;
-  padding: 60px;
-  width: fit-content;
+  /* padding: 60px;
+  width: fit-content; */
   margin: 0 auto;
 
-  font-size: 36px;
-  line-height: 1.6;
+  /* font-size: 36px;
+  line-height: 1.6; */
 
 }
- .text_2 b{
+ /* .text_2 b{
   font-size: 48px;
-}
+} */
 
 
 
@@ -241,9 +257,14 @@ position: relative;
   position: relative;
   width: 100%;
   height: 100vh;
-  overflow: hidden;
+  scrollbar-width: none;
 }
-
+#fnaf_4 p{
+  font-size: 20pt;
+  margin-top: -20px;
+      position: relative;
+    margin: 0px auto;
+}
 .track2 {
   display: flex;
   width: max-content;
@@ -256,51 +277,31 @@ position: relative;
   height: 100vh;
   overflow: hidden;
 }
-.bedroom_panel,
-.bite_panel {
-  position: sticky;
-}
 
 .bedroom_panel, .bite_panel{
-  display: flex;
-}
-.bedroom_right, .bedroom_left, .bite_left,
-.bite_right {
-  width: 50vw;
+   display: flex;
+  flex-direction: row;
+  width: 100vw;
   height: 100vh;
 }
-.bedroom_right, .bedroom_left{
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  gap: 10px;
-  overflow: hidden;
-}
-.bedroom_right, .bite_left {
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-  padding: 80px;
+.bedroom_left,
+.bedroom_right,
+.bite_left,
+.bite_right {
+  flex: 1;
+  height: 80%;
 }
 
-.bedroom_panel p, .bite_panel p {
-    font-size: 32px;
-    line-height: 1.0;
-    padding: 50px;
-    margin-top: -7.5rem;
-}
-.track2 b{
-font-size: 48px;
-}
- .text_5{
-  display: flex;
-  flex-direction: column;
-font-size: 32px;
-justify-content: flex-start;
-padding: 50px;
-  line-height: 1.6;
 
+.bite_right, .bedroom_left{
+  height: 100%;
+} 
+.bedroom_right,
+.bite_left {
+  height: 80%;
+  overflow-y: auto; 
 }
+ 
 
  
 /* FNAF Sister Location */
