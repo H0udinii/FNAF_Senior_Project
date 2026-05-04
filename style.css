@@ -152,9 +152,9 @@ font-size: 36pt;
 
  .parallax_freddy > *{
   display: grid;
-  grid-template-columns: 6fr 3.75fr;
+  grid-template-columns: 1000px 1fr;
+  
   overflow-y: scroll;
-  padding-right: 75px;
   padding-bottom: 100px;
   
  }
@@ -280,8 +280,8 @@ position: relative;
 }
 
 .bedroom_panel, .bite_panel{
-   display: flex;
-  flex-direction: row;
+   display: grid;
+  grid-template-columns: 1000px 5fr;
   width: 100vw;
   height: 100vh;
 }
