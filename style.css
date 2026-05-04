@@ -105,6 +105,9 @@ font-size: 36pt;
   
   #overlay{
     background-image: url(./Assets/gifs/static.gif);
+    min-height: 100%;
+    min-width: 1024px;
+
   }
  .title-card img{
     min-height: 100%;
